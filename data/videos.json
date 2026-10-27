@@ -1,0 +1,17 @@
+{
+  "updated_at": null,
+  "channels": [
+    {
+      "key": "original",
+      "name": "PUBLIC MIND REPORT",
+      "id": "UCAVVVfl6qdT1JZsndhyhetA"
+    },
+    {
+      "key": "news",
+      "name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "id": "UCc3QJDTVAvImoGQSHOHTu3Q"
+    }
+  ],
+  "status": [],
+  "items": []
+}
