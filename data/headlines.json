@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:10:18Z",
+  "updated_at": "2026-10-27T13:11:45Z",
   "sources": [
     {
       "source": "UN News",
@@ -14,7 +14,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 8
+      "recent_headlines": 6
     },
     {
       "source": "U.S. EIA",
@@ -23,22 +23,6 @@
     }
   ],
   "items": [
-    {
-      "id": "1bde56e26416aadf",
-      "title": "Press Conference: Monetary Policy Report – October 2026",
-      "url": "https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-october-2026/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-28T10:30:43Z"
-    },
-    {
-      "id": "0f5831aee094995a",
-      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
-      "url": "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-28T09:45:08Z"
-    },
     {
       "id": "a61abb04aeca3ebd",
       "title": "Kenya: 20 Ebola contacts released from quarantine",
