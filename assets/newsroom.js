@@ -100,7 +100,7 @@
         if (!current.ok) throw new Error("GitHub API "+current.status);
         var wrapper = await current.json();
         if (wrapper.encoding !== "base64" || typeof wrapper.content !== "string") throw new Error("Invalid contents response");
-        var bytes = Uint8Array.from(atob(wrapper.content.replace(/\\s/g, "")), function(c){return c.charCodeAt(0);});
+        var bytes = Uint8Array.from(atob(wrapper.content.replace(/\s/g, "")), function(c){return c.charCodeAt(0);});
         json = JSON.parse(new TextDecoder("utf-8").decode(bytes));
       } catch(feedApiError) {
         var response = await fetch("data/headlines.json", {cache:"no-cache"});
