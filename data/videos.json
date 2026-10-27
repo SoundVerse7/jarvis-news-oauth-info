@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:46:42Z",
+  "updated_at": "2026-10-27T13:47:49Z",
   "channels": [
     {
       "key": "original",
@@ -17,12 +17,57 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable"
+      "status": "ok",
+      "videos": 6
     },
     {
       "channel": "news",
-      "status": "unavailable"
+      "status": "ok",
+      "videos": 0
     }
   ],
-  "items": []
+  "items": [
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "HjEuopztg3I",
+      "title": "America Owes $40 TRILLION… And the Cost Is Getting Out of Control",
+      "published": "2026-10-24T23:59:07Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "m_KowoMWFbU",
+      "title": "The World Is on Edge — And the Economy Is Starting to Crack",
+      "published": "2026-10-24T10:53:19Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "_-0drlMLDHk",
+      "title": "Wall Street Is Buying AI… But Preparing To Run #money #shorts",
+      "published": "2026-10-20T11:25:21Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "ai52cE2iQgI",
+      "title": "Cash Was Trash… Until $154 BILLION Moved #financialnews #money #shorts",
+      "published": "2026-10-20T11:14:19Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "K-ctY3X7rKk",
+      "title": "Why Did $154 BILLION Rush Into Cash in Just ONE Week?",
+      "published": "2026-10-16T20:00:35Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "dWWcMtcSnXQ",
+      "title": "Why Is Smart Money Suddenly Running to Cash?",
+      "published": "2026-10-16T16:00:36Z"
+    }
+  ]
 }
