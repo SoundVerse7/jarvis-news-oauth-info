@@ -113,9 +113,23 @@
            safeLink(x.url) && typeof x.source === "string" &&
            ["World","Economy","Energy"].indexOf(x.category) !== -1;
       });
-      if (json.updated_at && isFinite(new Date(json.updated_at).getTime())) {
-        stamp.textContent = "Feed checked " + new Date(json.updated_at).toLocaleString("en-CA",{dateStyle:"medium",timeStyle:"short"}) + " · Times shown in UTC";
-      } else {stamp.textContent = "Headlines update when new feed data is available";}
+      // The feed is refreshed periodically; it is never a live news alert service.
+      // Source outages and old cached snapshots must be visible to readers.
+      var feedDate = json.updated_at ? new Date(json.updated_at) : null;
+      var validDate = feedDate && isFinite(feedDate.getTime());
+      var delayed = validDate && (Date.now() - feedDate.getTime()) > 8 * 60 * 60 * 1000;
+      var failedSources = Array.isArray(json.sources) ? json.sources
+        .filter(function(s){return s && s.status !== "ok" && typeof s.source === "string";})
+        .map(function(s){return s.source;}) : [];
+      if (validDate) {
+        var when = feedDate.toLocaleString("en-CA", {dateStyle:"medium",timeStyle:"short",timeZone:"UTC",timeZoneName:"short"});
+        var status = "Last checked " + when;
+        if (failedSources.length) status += " · Source delayed: " + failedSources.join(", ");
+        if (delayed) status += " · Updates delayed";
+        stamp.textContent = status;
+      } else {
+        stamp.textContent = "Feed update time unavailable — see original publishers";
+      }
       if (state.items.length) {
         ticker.textContent = state.items[0].title;
         ticker.href = safeLink(state.items[0].url);
