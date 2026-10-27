@@ -91,9 +91,22 @@
   more.addEventListener("click", function(){state.visible += 9; render();});
   async function load() {
     try {
-      var response = await fetch("data/headlines.json", {cache:"no-cache"});
-      if (!response.ok) throw new Error("HTTP "+response.status);
-      var json = await response.json();
+      // Read the current public repository snapshot, even when GitHub Pages has
+      // not rebuilt after an automated GITHUB_TOKEN commit. GitHub's public
+      // Contents API permits CORS; rate-limited failures fall back to Pages.
+      var json;
+      try {
+        var current = await fetch("https://api.github.com/repos/SoundVerse7/jarvis-news-oauth-info/contents/data/headlines.json?ref=main", {cache:"no-cache",headers:{"Accept":"application/vnd.github+json"}});
+        if (!current.ok) throw new Error("GitHub API "+current.status);
+        var wrapper = await current.json();
+        if (wrapper.encoding !== "base64" || typeof wrapper.content !== "string") throw new Error("Invalid contents response");
+        var bytes = Uint8Array.from(atob(wrapper.content.replace(/\\s/g, "")), function(c){return c.charCodeAt(0);});
+        json = JSON.parse(new TextDecoder("utf-8").decode(bytes));
+      } catch(feedApiError) {
+        var response = await fetch("data/headlines.json", {cache:"no-cache"});
+        if (!response.ok) throw new Error("HTTP "+response.status);
+        json = await response.json();
+      }
       if (!json || !Array.isArray(json.items)) throw new Error("Unexpected feed format");
       state.items = json.items.filter(function(x) {
         return x && typeof x.title === "string" && typeof x.url === "string" &&
