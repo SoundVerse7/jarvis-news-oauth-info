@@ -8,6 +8,10 @@ on:
       - ".github/workflows/refresh-headlines.yml"
       - "scripts/update_headlines.py"
       - "scripts/update_videos.py"
+      - "assets/newsroom.js"
+      - "assets/channels.js"
+      - "index.html"
+      - "channels.html"
   schedule:
     - cron: "17 */3 * * *"
 
