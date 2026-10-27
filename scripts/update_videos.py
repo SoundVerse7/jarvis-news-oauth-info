@@ -30,7 +30,8 @@ def parse_channel(feed_bytes, channel):
         atom_id = root.findtext(ATOM + "id", "").strip()
         if atom_id.startswith("yt:channel:"):
             channel_id = atom_id.removeprefix("yt:channel:")
-    if channel_id != channel["id"]:
+    # YouTube Atom feed identifiers may omit the leading UC prefix used by channel URLs.
+    if channel_id not in (channel["id"], channel["id"][2:]):
         raise ValueError(f"RSS channel identity mismatch: expected {channel['id']}; got {channel_id!r}; root: {root.tag}")
     items = []
     now = dt.datetime.now(dt.timezone.utc)
