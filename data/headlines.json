@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-10-27T13:47:49Z",
+  "updated_at": "2026-10-27T20:03:33Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 2
+      "recent_headlines": 1
     },
     {
       "source": "Bank of Canada",
@@ -246,14 +245,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-14T02:05:41Z"
-    },
-    {
-      "id": "ca688a27006cdc18",
-      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-10-13T18:00:00Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T13:47:49Z",
+  "updated_at": "2026-10-27T20:03:34Z",
   "channels": [
     {
       "key": "original",
@@ -23,10 +23,24 @@
     {
       "channel": "news",
       "status": "ok",
-      "videos": 0
+      "videos": 2
     }
   ],
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7ovJxk3X1BY",
+      "title": "NEW: Trump, Obama hold rallies ahead of midterms",
+      "published": "2026-10-27T16:28:05Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "_f8v9oWBEY4",
+      "title": "Netherlands pulls out of Eurovision again",
+      "published": "2026-10-27T12:56:37Z"
+    },
     {
       "channel": "original",
       "channel_name": "PUBLIC MIND REPORT",
