@@ -1,5 +1,275 @@
 {
-  "updated_at": null,
-  "sources": [],
-  "items": []
+  "updated_at": "2026-10-27T13:10:18Z",
+  "sources": [
+    {
+      "source": "UN News",
+      "status": "ok",
+      "recent_headlines": 18
+    },
+    {
+      "source": "Federal Reserve",
+      "status": "ok",
+      "recent_headlines": 2
+    },
+    {
+      "source": "Bank of Canada",
+      "status": "ok",
+      "recent_headlines": 8
+    },
+    {
+      "source": "U.S. EIA",
+      "status": "ok",
+      "recent_headlines": 5
+    }
+  ],
+  "items": [
+    {
+      "id": "1bde56e26416aadf",
+      "title": "Press Conference: Monetary Policy Report – October 2026",
+      "url": "https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-october-2026/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T10:30:43Z"
+    },
+    {
+      "id": "0f5831aee094995a",
+      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T09:45:08Z"
+    },
+    {
+      "id": "a61abb04aeca3ebd",
+      "title": "Kenya: 20 Ebola contacts released from quarantine",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-27T12:00:00Z"
+    },
+    {
+      "id": "9697967e8a1d2109",
+      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-26T12:00:00Z"
+    },
+    {
+      "id": "25b28e42ff00fb53",
+      "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-26T12:00:00Z"
+    },
+    {
+      "id": "af84b0bc7217b043",
+      "title": "Women and girls’ share of civilian war deaths doubles since 2021",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168673",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-26T12:00:00Z"
+    },
+    {
+      "id": "28cf2b6e0f7512d3",
+      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-26T12:00:00Z"
+    },
+    {
+      "id": "7919e1977422b522",
+      "title": "In Egypt, Guterres warns against Iran-US escalation",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168669",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-26T12:00:00Z"
+    },
+    {
+      "id": "0585ad055e3c044d",
+      "title": "Ebola: UN officials condemn killing of nurse in DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168667",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-26T12:00:00Z"
+    },
+    {
+      "id": "b94a9665788400e7",
+      "title": "Why do planes keep circling before landing? UN has a plan to fix it",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168666",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-25T12:00:00Z"
+    },
+    {
+      "id": "916a3157b71603e0",
+      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-24T12:00:00Z"
+    },
+    {
+      "id": "841b193dace150a4",
+      "title": "UN marks 81 years of global cooperation",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168665",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "5c9533d042f4b971",
+      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "6133d790e46162cd",
+      "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "d1234088a86542e9",
+      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "11a6e0c7536275c3",
+      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "a1dd16c6a7464526",
+      "title": "Soil mapping aims to boost agricultural production in Kenya",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "b7a388a52d0634b7",
+      "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-23T12:00:00Z"
+    },
+    {
+      "id": "11274263ec4ec7aa",
+      "title": "U.S. refineries have been running at very high rates in 2026",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-10-22T14:00:00Z"
+    },
+    {
+      "id": "9b574b9b6d9a12cd",
+      "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68325",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-10-19T14:00:00Z"
+    },
+    {
+      "id": "71e4c73603d44be1",
+      "title": "The Bank of Canada releases the third quarter issues of the Business Outlook Survey and the Canadian Survey of Consumer Expectations",
+      "url": "https://www.bankofcanada.ca/2026/10/the-bank-of-canada-releases-the-third-quarter-issues-of-the-business-outlook-survey-and-the-canadian-survey-of-consumer-expectations/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-19T11:00:48Z"
+    },
+    {
+      "id": "08e43aac2c09f21b",
+      "title": "Media roundtable with Governor Macklem",
+      "url": "https://www.bankofcanada.ca/2026/10/media-roundtable-governor-macklem-2026-10-17/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-17T09:00:36Z"
+    },
+    {
+      "id": "e2834c74f4065e96",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-10-16T15:00:00Z"
+    },
+    {
+      "id": "207bf0c6d4cca975",
+      "title": "U.S. small-scale solar generation has quadrupled in the last decade",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68324",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-10-16T14:00:00Z"
+    },
+    {
+      "id": "7a0d31abeb9e8fee",
+      "title": "Fireside chat with Michelle Alexopoulos, External Deputy Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/10/fireside-chat-michelle-alexopoulos-external-deputy-governor-bank-canada-2026-10-16/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-16T08:00:31Z"
+    },
+    {
+      "id": "d5ac20fc58f2bd81",
+      "title": "Panel with Tiff Macklem, Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/10/panel-tiff-macklem-governor-bank-canada-2016-10-16/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-16T00:15:17Z"
+    },
+    {
+      "id": "cb5890d031cd055d",
+      "title": "PJM, ERCOT, and SWPP all set peak load records this summer",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68305",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-10-15T14:00:00Z"
+    },
+    {
+      "id": "6725a5af1b38008f",
+      "title": "Panel with Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/10/panel-with-carolyn-rogers-senior-deputy-governor-of-the-bank-of-canada-2026-10-15/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-15T05:00:34Z"
+    },
+    {
+      "id": "15c2bd28b1120531",
+      "title": "Monthly wind generation in ISO-NE is about 68% higher than last year",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68304",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-10-14T14:00:00Z"
+    },
+    {
+      "id": "69a1fb2103399ae3",
+      "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-14T02:05:41Z"
+    },
+    {
+      "id": "ca688a27006cdc18",
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-10-13T18:00:00Z"
+    }
+  ]
 }
