@@ -7,6 +7,7 @@ on:
     paths:
       - ".github/workflows/refresh-headlines.yml"
       - "scripts/update_headlines.py"
+      - "scripts/update_videos.py"
   schedule:
     - cron: "17 */3 * * *"
 
@@ -33,14 +34,18 @@ jobs:
       - name: Check newsroom JavaScript syntax
         run: node --check assets/newsroom.js
       - name: Check Python feed builder syntax
-        run: python -m py_compile scripts/update_headlines.py
+        run: python -m py_compile scripts/update_headlines.py scripts/update_videos.py
       - name: Fetch official-source headlines
         run: python scripts/update_headlines.py
+      - name: Fetch both public YouTube video feeds
+        run: python scripts/update_videos.py
+      - name: Check channel video JavaScript syntax
+        run: node --check assets/channels.js
       - name: Commit updated source-linked headlines
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/headlines.json
+          git add data/headlines.json data/videos.json
           if git diff --cached --quiet; then
             echo "No change in public feed."
             exit 0
