@@ -26,8 +26,12 @@ VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 def parse_channel(feed_bytes, channel):
     root = ET.fromstring(feed_bytes)
     channel_id = root.findtext(YT + "channelId", "").strip()
+    if not channel_id:
+        atom_id = root.findtext(ATOM + "id", "").strip()
+        if atom_id.startswith("yt:channel:"):
+            channel_id = atom_id.removeprefix("yt:channel:")
     if channel_id != channel["id"]:
-        raise ValueError("RSS channel identity mismatch")
+        raise ValueError(f"RSS channel identity mismatch: expected {channel['id']}; got {channel_id!r}; root: {root.tag}")
     items = []
     now = dt.datetime.now(dt.timezone.utc)
     for entry in root.findall(ATOM + "entry"):
