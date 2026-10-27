@@ -1,0 +1,40 @@
+name: Refresh public headline links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-mind-headline-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch official-source headlines
+        run: python scripts/update_headlines.py
+      - name: Commit updated source-linked headlines
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/headlines.json
+          if git diff --cached --quiet; then
+            echo "No change in public feed."
+            exit 0
+          fi
+          git commit -m "Update official-source headlines"
+          git push
