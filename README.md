@@ -1,42 +1,43 @@
-# Public Mind Report – World News
+# PUBLIC MIND REPORT — News Site & Two YouTube Channels
 
-**Free, public news and explainer site:** https://soundverse7.github.io/jarvis-news-oauth-info/
+**Public website:** https://soundverse7.github.io/jarvis-news-oauth-info/
 
-Built as a free, static site using GitHub Pages. It has **no paid hosting, paid APIs, tracking pixels, ad codes, card collection, public logins or customer data processing**.
+A free public static newsroom with a source-linked world/economy/energy headline feed and original explainers. The website directs visitors to **two distinct YouTube channels**, with no login or user account required.
 
-## Editorial website
-- `index.html` — branded news homepage, safe filtered/searchable headline cards, source attribution and YouTube links
-- `insights.html` — three original explainers on oil, interest rates and news-video verification
-- `editorial.html` — source standards, accuracy, corrections and automation disclosures
-- `support.html` — subscriber growth, sharing and a public sponsorship-inquiry route; no fake payment buttons
-- `assets/newsroom.css` and `assets/newsroom.js` — responsive frontend and safe headline rendering
-- `sitemap.xml`, `robots.txt` — public search discoverability
+## Follow both channels
 
-## Automated news links
-- `scripts/update_headlines.py` reads **headlines + URLs + source names + publication dates only** from UN News, Federal Reserve, Bank of Canada and U.S. EIA feeds.
-- `.github/workflows/refresh-headlines.yml` performs a free scheduled refresh every 3 hours, with a manual-run option. Schedules may be delayed or disabled by GitHub.
-- `data/headlines.json` holds a public feed snapshot. A public GitHub Contents API request gives site visitors the latest Git branch contents even when GitHub Pages isn't rebuilt by commits pushed with `GITHUB_TOKEN`. The static JSON is the fallback if the API fails. The unauthenticated GitHub API can be rate-limited; no credential is shipped to visitors.
-- Source lists are **not independently fact-checked news stories**. No photos, body copies or unlicensed RSS summaries are republished. Future-dated releases are excluded.
+| Channel | Handle | Purpose |
+|---|---|---|
+| Public Mind Report | [@PUBLICMINDREPORT](https://www.youtube.com/@PUBLICMINDREPORT) | Commentary, podcasts and analysis of world affairs and the economy |
+| Public Mind Report - World News | [@PublicMindReportNews](https://www.youtube.com/@PublicMindReportNews) | World news, updates and Shorts |
 
-## Google OAuth information
-- `app.html` — original official JARVIS News Autopilot Desktop App information page
-- `privacy.html` — privacy policy
-- `terms.html` — terms
+The old channel ID `UCAVVVfl6qdT1JZsndhyhetA` and the news channel ID `UCc3QJDTVAvImoGQSHOHTu3Q` remain separate. Neither is altered or uploaded to by this website.
 
-**For Google's OAuth Branding > Application homepage**, the most accurately focused URL is `https://soundverse7.github.io/jarvis-news-oauth-info/app.html`. The publicly accessible privacy and terms URLs remain unchanged.
+## Pages
 
-This site does not automatically satisfy OAuth domain ownership, verification, sensitive scope review, Google quota review, or YouTube API-project audit requirements.
+- `index.html` — homepage, both channel links, source-attributed headlines, latest public videos
+- `channels.html` — both YouTube channels, two subscribe links, recent public videos
+- `insights.html` — original explainers about oil, interest rates and verifying footage
+- `editorial.html` — editorial and correction policies
+- `app.html` — desktop JARVIS News Autopilot Google OAuth application information
+- `privacy.html` and `terms.html` — site and desktop app policies
+- `support.html` — old URL now redirected to `channels.html`
+- `sitemap.xml` and `robots.txt` — discoverable site pages
 
-## Monetization without pretending income exists
-- The website links to the correct YouTube channel: https://www.youtube.com/channel/UCc3QJDTVAvImoGQSHOHTu3Q .
-- A sponsorship inquiry route is available under `support.html` (public GitHub issues; **no confidential details**).
-- Direct donations, advertising networks and affiliate programs **are not connected or collecting money**. They need user-owned, verified payment or advertising accounts, and a policy-compatible hosting plan. YouTube's Partner Program is subject to eligibility and acceptance.
-- GitHub Pages is **not intended as free commercial store hosting or a payment gateway**. Keep the publication/news resources as the primary function.
-- Clearly disclose sponsorships and affiliate links if added later.
+## Automated feeds (public data only)
 
-## Deployment
-- GitHub Pages: **Settings → Pages → Deploy from a branch → main → /(root)**.
-- Workflows: **Actions → Refresh public headline links → Run workflow** for an immediate refresh.
-- Workflow token needs `contents:write` to update `data/headlines.json`.
-- Action-generated commits do not necessarily trigger Pages rebuilds (documented GitHub behavior); the browser reads the public Contents API with static Pages fallback.
-- The app's **private code is in a different repository**. Never put Google OAuth JSON files, refresh tokens, source footage, passwords or local databases in this public site.
+The free GitHub Actions workflow `.github/workflows/refresh-headlines.yml` runs every three hours and on manual request. It refreshes:
+
+- `data/headlines.json`, from public RSS feeds by UN News, Federal Reserve, Bank of Canada, U.S. EIA. Original headlines and publication dates link directly to official publishers; no article bodies or source pictures copied.
+- `data/videos.json`, from publicly accessible YouTube Atom feeds for both channels. Only public video IDs, titles and dates are recorded; video previews link to YouTube. YouTube's public feeds are subject to service availability.
+
+The homepage uses the public GitHub Contents API to read current snapshots, with a Pages-hosted JSON fallback. No API credentials are embedded in the website. The website does **not** auto-publish any videos or access private analytics.
+
+## Safety & deployment
+
+- Publish with **GitHub Pages → Deploy from main branch, root folder**.
+- Do not upload OAuth client JSON files, API keys, passwords, encrypted tokens, private analytics or local footage to this public repository.
+- The actual JARVIS News Autopilot software is in a separate **private** repository and is not affected.
+- Google OAuth branding may use the dedicated app homepage: https://soundverse7.github.io/jarvis-news-oauth-info/app.html
+- Public website privacy and terms: https://soundverse7.github.io/jarvis-news-oauth-info/privacy.html and https://soundverse7.github.io/jarvis-news-oauth-info/terms.html
+- This public informational site does not automatically satisfy Google's domain-ownership or OAuth verification requirements.
