@@ -92,7 +92,7 @@ def parse_feed(raw, name, category, domain, now):
         url = https_source_link(link, domain)
         if not title or not url or not date or len(title) < 12:
             continue
-        if date > now + dt.timedelta(days=1) or date < now - dt.timedelta(days=14):
+        if date > now or date < now - dt.timedelta(days=14):
             continue
         news.append({
             "id": hashlib.sha256(url.encode("utf-8")).hexdigest()[:16],
