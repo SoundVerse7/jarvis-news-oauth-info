@@ -17,6 +17,7 @@ The old channel ID `UCAVVVfl6qdT1JZsndhyhetA` and the news channel ID `UCc3QJDTV
 
 - `index.html` — homepage, both channel links, source-attributed headlines, latest public videos
 - `channels.html` — both YouTube channels, two subscribe links, recent public videos
+- `videos.html` — searchable recent video library with per-channel filters, video thumbnails and direct YouTube links
 - `insights.html` — original explainers about oil, interest rates and verifying footage
 - `editorial.html` — editorial and correction policies
 - `app.html` — desktop JARVIS News Autopilot Google OAuth application information
@@ -26,12 +27,12 @@ The old channel ID `UCAVVVfl6qdT1JZsndhyhetA` and the news channel ID `UCc3QJDTV
 
 ## Automated feeds (public data only)
 
-The free GitHub Actions workflow `.github/workflows/refresh-headlines.yml` runs every three hours and on manual request. It refreshes:
+The free GitHub Actions workflow `.github/workflows/refresh-headlines.yml` runs on an hourly schedule and on manual request. It refreshes:
 
 - `data/headlines.json`, from public RSS feeds by UN News, Federal Reserve, Bank of Canada, U.S. EIA. Original headlines and publication dates link directly to official publishers; no article bodies or source pictures copied.
-- `data/videos.json`, from publicly accessible YouTube Atom feeds for both channels. Only public video IDs, titles and dates are recorded; video previews link to YouTube. YouTube's public feeds are subject to service availability.
+- `data/videos.json`, from publicly accessible YouTube Atom feeds for both channels. Only public video IDs, titles and dates are recorded; video previews link to YouTube. YouTube's public feeds are subject to service availability; temporary errors keep the last known public videos instead of deleting them. The video index is limited to recent public feed entries, not the entire YouTube back catalogue.
 
-The homepage uses the public GitHub Contents API to read current snapshots, with a Pages-hosted JSON fallback. No API credentials are embedded in the website. The website does **not** auto-publish any videos or access private analytics.
+The homepage and video-library pages use the public GitHub Contents API to read current snapshots, with a Pages-hosted JSON fallback. GitHub Actions may not publish updates exactly on the hour, and video availability depends on YouTube public feeds. No API credentials are embedded in the website. The website does **not** auto-publish any videos or access private analytics.
 
 ## Safety & deployment
 
