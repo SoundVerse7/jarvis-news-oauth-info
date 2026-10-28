@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-10-28T16:27:34Z",
+  "updated_at": "2026-10-28T18:52:56Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 1
+      "recent_headlines": 2
     },
     {
       "source": "Bank of Canada",
@@ -22,6 +23,46 @@
     }
   ],
   "items": [
+    {
+      "id": "a0c3e1be77e8b5a2",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-10-28T18:00:00Z"
+    },
+    {
+      "id": "64f5498339a9c74f",
+      "title": "Bank of Canada Media Interview – Bloomberg News",
+      "url": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-bloomberg-news-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T13:30:23Z"
+    },
+    {
+      "id": "ac55602e2a6886f6",
+      "title": "Bank of Canada Media Interview – Good Question with Amanda Lang",
+      "url": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-good-question-with-amanda-lang-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T13:30:22Z"
+    },
+    {
+      "id": "cb1aa7f4c76a205b",
+      "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
+    },
+    {
+      "id": "413387b3fbcc32e5",
+      "title": "Record heat-related deaths in 2023, WHO-partnered report finds",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168688",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
+    },
     {
       "id": "550bbc6da906a492",
       "title": "Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns",
@@ -175,22 +216,6 @@
       "published": "2026-10-26T12:00:00Z"
     },
     {
-      "id": "b94a9665788400e7",
-      "title": "Why do planes keep circling before landing? UN has a plan to fix it",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168666",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-25T12:00:00Z"
-    },
-    {
-      "id": "916a3157b71603e0",
-      "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168663",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-24T12:00:00Z"
-    },
-    {
       "id": "11274263ec4ec7aa",
       "title": "U.S. refineries have been running at very high rates in 2026",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
@@ -215,14 +240,6 @@
       "published": "2026-10-19T11:00:48Z"
     },
     {
-      "id": "08e43aac2c09f21b",
-      "title": "Media roundtable with Governor Macklem",
-      "url": "https://www.bankofcanada.ca/2026/10/media-roundtable-governor-macklem-2026-10-17/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-17T09:00:36Z"
-    },
-    {
       "id": "e2834c74f4065e96",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
@@ -237,14 +254,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-16T14:00:00Z"
-    },
-    {
-      "id": "7a0d31abeb9e8fee",
-      "title": "Fireside chat with Michelle Alexopoulos, External Deputy Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/10/fireside-chat-michelle-alexopoulos-external-deputy-governor-bank-canada-2026-10-16/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-16T08:00:31Z"
     },
     {
       "id": "cb5890d031cd055d",

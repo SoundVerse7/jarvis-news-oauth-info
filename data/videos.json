@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T16:27:36Z",
+  "updated_at": "2026-10-28T18:52:56Z",
   "channels": [
     {
       "key": "original",
@@ -19,24 +19,23 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-28T16:27:36Z"
+      "last_success_at": "2026-10-28T18:52:56Z"
     },
     {
       "channel": "news",
       "status": "ok",
-      "videos": 7,
-      "last_success_at": "2026-10-28T16:27:36Z"
+      "videos": 8,
+      "last_success_at": "2026-10-28T18:52:56Z"
     }
   ],
-  "owner_confirmed_added": 1,
+  "owner_confirmed_added": 0,
   "items": [
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "aSfS04t4GQU",
       "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
-      "published": "2026-10-28T16:27:21Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-28T16:27:36Z"
     },
     {
       "channel": "news",
