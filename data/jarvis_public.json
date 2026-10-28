@@ -1,5 +1,14 @@
 {
   "schema": 1,
-  "updated_at": null,
-  "items": []
+  "updated_at": "2026-10-28T02:59:36Z",
+  "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "_f8v9oWBEY4",
+      "title": "Netherlands pulls out of Eurovision again",
+      "published": "2026-10-27T12:56:30Z",
+      "source": "owner_confirmed_public"
+    }
+  ]
 }

@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-10-28T01:04:36Z",
+  "updated_at": "2026-10-28T02:59:36Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
@@ -14,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 6
+      "recent_headlines": 5
     },
     {
       "source": "U.S. EIA",
@@ -238,14 +237,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-14T14:00:00Z"
-    },
-    {
-      "id": "69a1fb2103399ae3",
-      "title": "Fireside Chat with Tiff Macklem, Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/10/fireside-chat-with-tiff-macklem-governor-of-the-bank-of-canada-2026-10-14/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-14T02:05:41Z"
     }
   ]
 }
