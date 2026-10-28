@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:26:00Z",
+  "updated_at": "2026-10-28T13:02:08Z",
   "sources": [
     {
       "source": "UN News",
@@ -13,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 8
     },
     {
       "source": "U.S. EIA",
@@ -29,6 +29,22 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-28T10:30:43Z"
+    },
+    {
+      "id": "df496099d22cf769",
+      "title": "Rate announcement to come at 9:45 (ET)",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T09:47:20Z"
+    },
+    {
+      "id": "0698b5424bb53ec1",
+      "title": "Press Conference Opening Statement to come at 9:45 (ET)",
+      "url": "https://www.bankofcanada.ca/2026/10/opening-statement-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T09:45:35Z"
     },
     {
       "id": "0f5831aee094995a",
@@ -237,14 +253,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-15T14:00:00Z"
-    },
-    {
-      "id": "6725a5af1b38008f",
-      "title": "Panel with Carolyn Rogers, Senior Deputy Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/10/panel-with-carolyn-rogers-senior-deputy-governor-of-the-bank-of-canada-2026-10-15/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-15T05:00:34Z"
     },
     {
       "id": "15c2bd28b1120531",
