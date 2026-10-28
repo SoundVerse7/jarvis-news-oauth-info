@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T22:26:18Z",
+  "updated_at": "2026-10-28T00:06:04Z",
   "sources": [
     {
       "source": "UN News",
@@ -23,6 +23,46 @@
     }
   ],
   "items": [
+    {
+      "id": "4f0a25166f580f1f",
+      "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-27T12:00:00Z"
+    },
+    {
+      "id": "6212f2be6175ecda",
+      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-27T12:00:00Z"
+    },
+    {
+      "id": "891abf0c21e897b8",
+      "title": "Security Council LIVE: Women and girls face greater dangers in war",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-27T12:00:00Z"
+    },
+    {
+      "id": "c93cac4e7196caef",
+      "title": "Four in five domestic workers lack formal job protections, UN finds",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168683",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-27T12:00:00Z"
+    },
+    {
+      "id": "971c16135d288af6",
+      "title": "World News in Brief: ‘No safe place in Ukraine’, IAEA calls for Iran nuclear inspections, Kenya hosts thousands of Ethiopians fleeing clashes",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168682",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-27T12:00:00Z"
+    },
     {
       "id": "55450105f54378f4",
       "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
@@ -107,46 +147,6 @@
       "id": "841b193dace150a4",
       "title": "UN marks 81 years of global cooperation",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168665",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-23T12:00:00Z"
-    },
-    {
-      "id": "5c9533d042f4b971",
-      "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168664",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-23T12:00:00Z"
-    },
-    {
-      "id": "6133d790e46162cd",
-      "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-23T12:00:00Z"
-    },
-    {
-      "id": "d1234088a86542e9",
-      "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-23T12:00:00Z"
-    },
-    {
-      "id": "11a6e0c7536275c3",
-      "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-23T12:00:00Z"
-    },
-    {
-      "id": "a1dd16c6a7464526",
-      "title": "Soil mapping aims to boost agricultural production in Kenya",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
       "source": "UN News",
       "category": "World",
       "published": "2026-10-23T12:00:00Z"
