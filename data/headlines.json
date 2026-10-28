@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-10-28T05:49:06Z",
+  "updated_at": "2026-10-28T11:26:00Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
@@ -14,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 5
+      "recent_headlines": 7
     },
     {
       "source": "U.S. EIA",
@@ -23,6 +22,22 @@
     }
   ],
   "items": [
+    {
+      "id": "1bde56e26416aadf",
+      "title": "Press Conference: Monetary Policy Report – October 2026",
+      "url": "https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-october-2026/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T10:30:43Z"
+    },
+    {
+      "id": "0f5831aee094995a",
+      "title": "Bank of Canada interest rate announcement and release of the Monetary Policy Report",
+      "url": "https://www.bankofcanada.ca/2026/10/fad-announcement-release-mpr-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T09:45:08Z"
+    },
     {
       "id": "4f0a25166f580f1f",
       "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",

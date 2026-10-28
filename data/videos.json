@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T05:49:07Z",
+  "updated_at": "2026-10-28T11:26:01Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 6,
-      "last_success_at": null
+      "last_success_at": "2026-10-28T11:26:01Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 4,
-      "last_success_at": null
+      "status": "ok",
+      "videos": 5,
+      "last_success_at": "2026-10-28T11:26:01Z"
     }
   ],
   "owner_confirmed_added": 0,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "YbbS-j0gTWM",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "published": "2026-10-28T11:25:55Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "zCpj0G4Qnwk",
-      "title": "No clear winner in Israeli election and 33 more stories",
-      "published": "2026-10-27T23:50:48Z",
-      "source": "owner_confirmed_public"
+      "title": "Netanyahu’s Future on the Line — FBI Raids, Putin Talks & a World on Edge",
+      "published": "2026-10-27T23:51:07Z"
     },
     {
       "channel": "news",

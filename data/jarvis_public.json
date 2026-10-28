@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T03:19:36Z",
+  "updated_at": "2026-10-28T11:26:00Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "YbbS-j0gTWM",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "published": "2026-10-28T11:25:49Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
