@@ -88,6 +88,7 @@ def main():
             old = json.loads(OUT.read_text(encoding="utf-8"))
         except (ValueError, OSError):
             pass
+    now = dt.datetime.now(dt.timezone.utc)
     records = []
     status = []
     attempted_at = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
@@ -103,7 +104,7 @@ def main():
             # Keep last cached public videos when a feed is temporarily unavailable.
             previous = [x for x in old.get("items", []) if x.get("channel") == channel["key"]
                         and VIDEO_ID.fullmatch(str(x.get("video_id", ""))) and x.get("title")]
-            records.extend(previous[:12])
+            records.extend(previous[:20])
             earlier = prior_status.get(channel["key"], {})
             # Only claim a previously confirmed refresh time. Never use this
             # attempt's timestamp as the last successful YouTube update.
@@ -113,10 +114,49 @@ def main():
             status.append({"channel": channel["key"], "status": "unavailable",
                            "videos": len(previous), "last_success_at": previous_success})
             print(channel["key"], "RSS unavailable:", type(exc).__name__, str(exc)[:100])
-    records.sort(key=lambda x: x.get("published", ""), reverse=True)
+    # Include owner-confirmed, publicly released videos when the private
+    # JARVIS integration is enabled. This file contains no tokens or private data.
+    handoff_path = OUT.parent / "jarvis_public.json"
+    try:
+        handoff = json.loads(handoff_path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        handoff = {}
+    owner_items = 0
+    for item in handoff.get("items", []):
+        if not isinstance(item, dict) or item.get("channel") != "news" or \
+                item.get("source") != "owner_confirmed_public":
+            continue
+        vid, title, when = item.get("video_id"), item.get("title"), item.get("published")
+        if not isinstance(vid, str) or not VIDEO_ID.fullmatch(vid) or \
+                not isinstance(title, str) or not 5 <= len(title) <= 150 or not isinstance(when, str):
+            continue
+        try:
+            published = dt.datetime.fromisoformat(when.replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        if published.tzinfo is None:
+            continue
+        if not (now - dt.timedelta(days=30) <= published <= now):
+            continue
+        if not any(x["video_id"] == vid for x in records):
+            records.append({"channel": "news", "channel_name": CHANNELS[1]["name"],
+                            "video_id": vid, "title": title, "published": when,
+                            "source": "owner_confirmed_public"})
+            owner_items += 1
+    # Keep separate per-channel quotas so busy World News uploads don't
+    # displace the original channel's recent videos from search results.
+    selected = []
+    for channel in CHANNELS:
+        unique = {}
+        for item in records:
+            if item.get("channel") == channel["key"]:
+                unique.setdefault(item["video_id"], item)
+        selected.extend(sorted(unique.values(), key=lambda x: x["published"], reverse=True)[:20])
+    selected.sort(key=lambda x: x["published"], reverse=True)
     result = {
         "updated_at": attempted_at,
-        "channels": CHANNELS, "status": status, "items": records[:24]
+        "channels": CHANNELS, "status": status,
+        "owner_confirmed_added": owner_items, "items": selected
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
