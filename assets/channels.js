@@ -49,6 +49,33 @@
     h.appendChild(a);
     copy.appendChild(h);
     copy.appendChild(el("p","byline",dateLabel(item.published)+" · YouTube"));
+    var actions = el("div", "video-actions");
+    var watch = el("a", "video-watch", "Watch on YouTube ↗");
+    watch.href = url;
+    watch.target = "_blank";
+    watch.rel = "noopener noreferrer";
+    actions.appendChild(watch);
+    var share = el("button", "video-share", "Share video");
+    share.type = "button";
+    share.setAttribute("aria-label", "Share: " + item.title);
+    share.addEventListener("click", async function() {
+      try {
+        if (navigator.share) {
+          await navigator.share({title:item.title,url:url});
+        } else if (navigator.clipboard && navigator.clipboard.writeText) {
+          await navigator.clipboard.writeText(url);
+          share.textContent = "Link copied";
+          window.setTimeout(function() {share.textContent = "Share video";}, 2200);
+        } else {
+          share.textContent = "Open video to share";
+        }
+      } catch (err) {
+        if (err && err.name === "AbortError") return;
+        share.textContent = "Open video to share";
+      }
+    });
+    actions.appendChild(share);
+    copy.appendChild(actions);
     card.appendChild(copy);
     return card;
   }
