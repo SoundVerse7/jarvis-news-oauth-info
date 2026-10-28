@@ -13,6 +13,7 @@ on:
       - "index.html"
       - "channels.html"
       - "videos.html"
+      - "scripts/test_site.py"
   schedule:
     - cron: "17 * * * *"
 
@@ -40,6 +41,8 @@ jobs:
         run: node --check assets/newsroom.js
       - name: Check Python feed builder syntax
         run: python -m py_compile scripts/update_headlines.py scripts/update_videos.py
+      - name: Validate channel IDs and public website links
+        run: python scripts/test_site.py
       - name: Fetch official-source headlines
         run: python scripts/update_headlines.py
       - name: Fetch both public YouTube video feeds
