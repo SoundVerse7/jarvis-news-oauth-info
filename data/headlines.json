@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:55:21Z",
+  "updated_at": "2026-10-28T16:27:34Z",
   "sources": [
     {
       "source": "UN News",
@@ -29,6 +29,14 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-10-28T12:00:00Z"
+    },
+    {
+      "id": "be4112c87d18217d",
+      "title": "Bank of Canada Media Interview – Radio-Canada",
+      "url": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-radio-canada-2026-10-28/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-28T11:45:24Z"
     },
     {
       "id": "1bde56e26416aadf",
@@ -237,14 +245,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-16T08:00:31Z"
-    },
-    {
-      "id": "d5ac20fc58f2bd81",
-      "title": "Panel with Tiff Macklem, Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/10/panel-tiff-macklem-governor-bank-canada-2016-10-16/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-16T00:15:17Z"
     },
     {
       "id": "cb5890d031cd055d",

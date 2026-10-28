@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:55:22Z",
+  "updated_at": "2026-10-28T16:27:36Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-28T14:55:22Z"
+      "last_success_at": "2026-10-28T16:27:36Z"
     },
     {
       "channel": "news",
       "status": "ok",
-      "videos": 6,
-      "last_success_at": "2026-10-28T14:55:22Z"
+      "videos": 7,
+      "last_success_at": "2026-10-28T16:27:36Z"
     }
   ],
   "owner_confirmed_added": 1,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "aSfS04t4GQU",
+      "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
+      "published": "2026-10-28T16:27:21Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "J4ymyOkXUFo",
       "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
-      "published": "2026-10-28T14:55:07Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-28T14:55:31Z"
     },
     {
       "channel": "news",
