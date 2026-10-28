@@ -9,6 +9,8 @@ from __future__ import annotations
 import datetime as dt
 import json
 import re
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -63,11 +65,20 @@ def fetch(channel_id):
         "User-Agent": "Mozilla/5.0 (compatible; PublicMindReportSite/1.0)",
         "Accept": "application/atom+xml,application/xml;q=0.9"
     })
-    with urllib.request.urlopen(req, timeout=22) as response:
-        data = response.read(260_000)
-        if len(data) >= 260_000:
-            raise ValueError("Too much RSS data")
-        return data
+    # Public YouTube Atom feeds occasionally give a transient 404/429/5xx.
+    # Retry only once, politely; never bypass a block or request private data.
+    for attempt in range(2):
+        try:
+            with urllib.request.urlopen(req, timeout=22) as response:
+                data = response.read(260_000)
+                if len(data) >= 260_000:
+                    raise ValueError("Too much RSS data")
+                return data
+        except urllib.error.HTTPError as exc:
+            if attempt == 0 and exc.code in (404, 429, 500, 502, 503, 504):
+                time.sleep(2)
+                continue
+            raise
 
 
 def main():
