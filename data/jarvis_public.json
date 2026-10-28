@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T16:27:34Z",
+  "updated_at": "2026-10-28T19:29:10Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "IxM6zotvdeA",
+      "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
+      "published": "2026-10-28T19:28:59Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
