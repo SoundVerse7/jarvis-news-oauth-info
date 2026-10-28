@@ -1,4 +1,4 @@
-name: Refresh public headline links
+name: Refresh headlines and public YouTube videos
 
 on:
   workflow_dispatch:
@@ -12,8 +12,9 @@ on:
       - "assets/channels.js"
       - "index.html"
       - "channels.html"
+      - "videos.html"
   schedule:
-    - cron: "17 */3 * * *"
+    - cron: "17 * * * *"
 
 permissions:
   contents: write
