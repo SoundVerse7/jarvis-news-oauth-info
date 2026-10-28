@@ -2,10 +2,15 @@
   "use strict";
   var container = document.getElementById("latest-video-grid");
   var home = document.getElementById("home-videos");
-  if (!container && !home) return;
+  var library = document.getElementById("video-library");
+  var search = document.getElementById("video-search");
+  var showMore = document.getElementById("video-show-more");
+  if (!container && !home && !library) return;
   var stamp = document.getElementById("video-update-status");
   var tabs = document.querySelectorAll("[data-video-channel]");
   var selected = "All";
+  var query = "";
+  var visible = 12;
   var items = [];
   var names = {original:"PUBLIC MIND REPORT",news:"WORLD NEWS"};
   var ids = {original:"UCAVVVfl6qdT1JZsndhyhetA",news:"UCc3QJDTVAvImoGQSHOHTu3Q"};
@@ -60,6 +65,22 @@
         list.forEach(function(item){container.appendChild(buildCard(item));});
       }
     }
+    if (library) {
+      library.replaceChildren();
+      var q = query.trim().toLowerCase();
+      var matches = items.filter(function(item) {
+        return (selected === "All" || item.channel === selected) &&
+          (!q || (item.title + " " + names[item.channel]).toLowerCase().indexOf(q) >= 0);
+      });
+      if (matches.length === 0) {
+        showEmpty(library, items.length ?
+          "No videos match your search. Try another word or channel." :
+          "YouTube's public feed has no available videos yet. Visit either channel directly to watch.");
+      } else {
+        matches.slice(0,visible).forEach(function(item) {library.appendChild(buildCard(item));});
+      }
+      if (showMore) showMore.hidden = matches.length <= visible;
+    }
     if (home) {
       home.replaceChildren();
       if (!items.length) {
@@ -74,6 +95,7 @@
         items.forEach(function(item) {
           if (choice.length < 4 && !choice.some(function(x){return x.video_id===item.video_id;})) choice.push(item);
         });
+        choice.sort(function(a,b){return b.published.localeCompare(a.published);});
         choice.slice(0,4).forEach(function(item){home.appendChild(buildCard(item));});
       }
     }
@@ -81,10 +103,13 @@
   tabs.forEach(function(btn){
     btn.addEventListener("click",function(){
       selected=btn.dataset.videoChannel;
+      visible=12;
       tabs.forEach(function(x){x.setAttribute("aria-pressed",x===btn?"true":"false");});
       render();
     });
   });
+  if (search) search.addEventListener("input",function() {query=search.value;visible=12;render();});
+  if (showMore) showMore.addEventListener("click",function() {visible+=12;render();});
   async function load() {
     var json;
     try {
@@ -111,7 +136,13 @@
           typeof v.published==="string";
       }).slice(0,24);
       if (stamp && json.updated_at) {
-        stamp.textContent="Public video feed checked "+dateLabel(json.updated_at);
+        var checked = new Date(json.updated_at);
+        var status = "Public video feed checked " + dateLabel(json.updated_at);
+        if (isFinite(checked.getTime()) && Date.now()-checked.getTime() > 6*3600*1000)
+          status += " · Updates delayed";
+        var failures = Array.isArray(json.status) ? json.status.filter(function(x){return x.status!=="ok";}) : [];
+        if (failures.length) status += " · Some YouTube feeds delayed";
+        stamp.textContent=status;
       }
       render();
     } catch(err) {
