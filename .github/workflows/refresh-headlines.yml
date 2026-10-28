@@ -27,8 +27,11 @@ on:
 permissions:
   contents: write
 
+# Each JARVIS dispatch gets a separate queue slot: GitHub otherwise replaces
+# an older pending run even when cancel-in-progress is false.
+# Routine scheduled/push refreshes stay serialized in the shared routine group.
 concurrency:
-  group: public-mind-headline-refresh
+  group: public-mind-headline-refresh-${{ github.event_name == 'repository_dispatch' && github.run_id || 'routine' }}
   cancel-in-progress: false
 
 jobs:
