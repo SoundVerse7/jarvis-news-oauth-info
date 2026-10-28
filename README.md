@@ -34,6 +34,16 @@ The free GitHub Actions workflow `.github/workflows/refresh-headlines.yml` runs 
 
 The homepage and video-library pages use the public GitHub Contents API to read current snapshots, with a Pages-hosted JSON fallback. GitHub Actions may not publish updates exactly on the hour, and video availability depends on YouTube public feeds. No API credentials are embedded in the website. The website does **not** auto-publish any videos or access private analytics.
 
+## Owner-confirmed publication handoff (prepared, not connected)
+
+A separate authenticated GitHub `repository_dispatch` event of type `jarvis_public_video` can later allow the privately operated JARVIS News app to notify this **public website** when a video is already confirmed public. The receiver accepts only the World News channel ID, verified public status, video ID, title and publication timestamp. Accepted public metadata is stored in `data/jarvis_public.json` and merged with the public RSS feeds. Repeated or simultaneous events are de-duplicated without overwriting the other channel.
+
+**The private JARVIS app has not been modified and this direct handoff is not yet connected or authorized.** No GitHub token, Google token, or other credential has been created for it. The owner must explicitly approve a narrowly scoped credential stored securely on their PC. The public website functions without this integration.
+
+Implementation contract and developer checklist: [docs/JARVIS_PUBLICATION_HANDOFF.md](docs/JARVIS_PUBLICATION_HANDOFF.md).
+
+Source-linked news headlines now offer clearly distinguished YouTube discovery links; a suggested video with overlapping title keywords is **not a verification of the news event**.
+
 ## Safety & deployment
 
 - Publish with **GitHub Pages → Deploy from main branch, root folder**.
