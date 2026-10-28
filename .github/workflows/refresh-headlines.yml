@@ -13,6 +13,7 @@ on:
       - "scripts/update_headlines.py"
       - "scripts/update_videos.py"
       - "scripts/ingest_publication.py"
+      - "scripts/merge_snapshots.py"
       - "data/jarvis_public.json"
       - "assets/newsroom.js"
       - "assets/channels.js"
@@ -40,6 +41,10 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+      - name: Synchronize latest public data on this disposable runner
+        run: |
+          git fetch --no-tags origin main
+          git reset --hard origin/main
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -47,7 +52,7 @@ jobs:
       - name: Check newsroom JavaScript syntax
         run: node --check assets/newsroom.js
       - name: Check Python feed builder syntax
-        run: python -m py_compile scripts/update_headlines.py scripts/update_videos.py
+        run: python -m py_compile scripts/update_headlines.py scripts/update_videos.py scripts/ingest_publication.py scripts/merge_snapshots.py
       - name: Validate channel IDs and public website links
         run: python scripts/test_site.py
       - name: Accept authorized public-only video notification
@@ -61,56 +66,33 @@ jobs:
         run: python scripts/update_videos.py
       - name: Check channel video JavaScript syntax
         run: node --check assets/channels.js
-      - name: Safely publish fresh public snapshots
+      - name: Safely publish verified public snapshots
         run: |
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          # Preserve freshly fetched JSON outside the runner worktree.
-          # Never rebase feed commits across another edit to these JSON files.
           cp data/headlines.json "$RUNNER_TEMP/headlines-new.json"
           cp data/videos.json "$RUNNER_TEMP/videos-new.json"
           cp data/jarvis_public.json "$RUNNER_TEMP/jarvis-new.json"
           for attempt in 1 2 3 4; do
             git fetch --no-tags origin main
-            # Only reset this disposable CI checkout, never the owner's PC or
-            # remote branch. All intervening website edits remain on origin/main.
+            # Only reset the disposable GitHub runner; never touch a user's PC.
             git reset --hard origin/main
-            # Another feed update may have completed after this run started.
-            # Never overwrite a newer feed snapshot with an older one.
-            python - "$RUNNER_TEMP" <<'PY'
-          import json
-          import pathlib
-          import sys
-          staging = pathlib.Path(sys.argv[1])
-          for target, newfile in (("headlines", "headlines-new.json"), ("videos", "videos-new.json"), ("jarvis_public", "jarvis-new.json")):
-              destination = pathlib.Path("data") / (target + ".json")
-              incoming = staging / newfile
-              try:
-                  current = json.loads(destination.read_text(encoding="utf-8"))
-                  proposed = json.loads(incoming.read_text(encoding="utf-8"))
-                  current_time = current.get("updated_at") or ""
-                  proposed_time = proposed.get("updated_at") or ""
-                  if current_time and proposed_time and current_time >= proposed_time:
-                      print(f"{target}: keeping newer remote snapshot")
-                      continue
-              except (OSError, ValueError):
-                  pass
-              destination.parent.mkdir(parents=True, exist_ok=True)
-              destination.write_bytes(incoming.read_bytes())
-          PY
+            # Combine new and existing owner-published videos by ID. Never
+            # overwrite unrelated site edits or replace newer RSS snapshots.
+            python scripts/merge_snapshots.py "$RUNNER_TEMP" data
             git add data/headlines.json data/videos.json data/jarvis_public.json
             if git diff --cached --quiet; then
-              echo "No newer public data to publish."
+              echo "Nothing new to publish."
               exit 0
             fi
-            git commit -m "Update public news and video snapshots"
+            git commit -m "Refresh source-linked news and public channel videos"
             if git push origin HEAD:main; then
-              echo "Published both public feeds without overwriting website edits."
+              echo "Published public data without overwriting website edits."
               exit 0
             fi
-            echo "Branch changed; retrying against latest main ($attempt/4)"
+            echo "Another commit landed; retrying against the latest branch ($attempt/4)"
             sleep 2
           done
-          echo "Feed publish failed after safe retries" >&2
+          echo "Could not publish public feed snapshot after safe retries" >&2
           exit 1
