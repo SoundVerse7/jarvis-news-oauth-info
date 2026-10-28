@@ -161,7 +161,7 @@
           typeof v.video_id==="string" && videoIdPattern.test(v.video_id) &&
           typeof v.title==="string"&&v.title.length>0 &&
           typeof v.published==="string";
-      }).slice(0,24);
+      }).slice(0,40);
       if (stamp && json.updated_at) {
         var checked = new Date(json.updated_at);
         var status = "Public video feed checked " + dateLabel(json.updated_at);
