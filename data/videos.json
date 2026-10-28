@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T00:58:14Z",
+  "updated_at": "2026-10-28T01:01:02Z",
   "channels": [
     {
       "key": "original",
@@ -28,6 +28,7 @@
       "last_success_at": null
     }
   ],
+  "owner_confirmed_added": 0,
   "items": [
     {
       "channel": "news",
