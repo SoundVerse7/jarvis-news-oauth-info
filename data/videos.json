@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T19:29:11Z",
+  "updated_at": "2026-10-28T21:03:10Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-28T19:29:11Z"
+      "last_success_at": "2026-10-28T21:03:10Z"
     },
     {
       "channel": "news",
       "status": "ok",
-      "videos": 8,
-      "last_success_at": "2026-10-28T19:29:11Z"
+      "videos": 9,
+      "last_success_at": "2026-10-28T21:03:10Z"
     }
   ],
   "owner_confirmed_added": 1,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "9b3cWNlkp6Y",
+      "title": "92-year-old US judge handling Maduro case dies - what we know",
+      "published": "2026-10-28T21:03:00Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "IxM6zotvdeA",
       "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
-      "published": "2026-10-28T19:28:59Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-28T19:29:11Z"
     },
     {
       "channel": "news",

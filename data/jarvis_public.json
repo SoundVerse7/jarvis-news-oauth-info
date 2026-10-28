@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T19:29:10Z",
+  "updated_at": "2026-10-28T21:03:09Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "9b3cWNlkp6Y",
+      "title": "92-year-old US judge handling Maduro case dies - what we know",
+      "published": "2026-10-28T21:03:00Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
