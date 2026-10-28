@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T11:26:00Z",
+  "updated_at": "2026-10-28T13:03:45Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "B-JQVsjX-YU",
+      "title": "BREAKING: Injuries reported after two trains collide in Spain",
+      "published": "2026-10-28T13:03:30Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",

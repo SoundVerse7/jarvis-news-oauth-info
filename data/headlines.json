@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-10-28T13:02:08Z",
+  "updated_at": "2026-10-28T13:03:45Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "550bbc6da906a492",
+      "title": "Ocean’s ability to absorb carbon is weakening as climate change intensifies, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168687",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
+    },
     {
       "id": "1bde56e26416aadf",
       "title": "Press Conference: Monetary Policy Report – October 2026",
@@ -173,14 +182,6 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-10-24T12:00:00Z"
-    },
-    {
-      "id": "841b193dace150a4",
-      "title": "UN marks 81 years of global cooperation",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168665",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-23T12:00:00Z"
     },
     {
       "id": "11274263ec4ec7aa",
