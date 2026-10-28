@@ -168,7 +168,16 @@
         if (isFinite(checked.getTime()) && Date.now()-checked.getTime() > 6*3600*1000)
           status += " · Updates delayed";
         var failures = Array.isArray(json.status) ? json.status.filter(function(x){return x.status!=="ok";}) : [];
-        if (failures.length) status += " · Some YouTube feeds delayed";
+        if (failures.length) {
+          var namesOfFailed = failures.map(function(x){return x.channel==="original" ? "Public Mind Report" : x.channel==="news" ? "World News" : "Unknown";});
+          status += " · Saved video list shown; update unavailable for: " + namesOfFailed.join(", ");
+          var lastTimes = failures.map(function(x){return x.last_success_at ? new Date(x.last_success_at) : null;})
+            .filter(function(t){return t && isFinite(t.getTime());});
+          if (lastTimes.length) {
+            var earliest = new Date(Math.min.apply(null,lastTimes.map(function(t){return t.getTime();})));
+            status += " · Last confirmed " + dateLabel(earliest.toISOString());
+          }
+        }
         stamp.textContent=status;
       }
       render();
