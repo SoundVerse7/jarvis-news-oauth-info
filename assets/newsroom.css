@@ -32,3 +32,11 @@
 .promo-mini .handle{margin:0 0 9px}
 @media(max-width:970px){.channel-pair{grid-template-columns:1fr}.channel-description{min-height:0}.video-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:620px){.channel-hero{gap:15px}.channel-hero img{width:72px;height:72px}.channel-card{padding:22px}.promo-mini,.video-grid{grid-template-columns:1fr}.video-copy{padding:17px}}
+
+
+/* Non-intrusive viewer-controlled sharing; never tracks a share */
+.video-actions{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-top:15px;border-top:1px solid #354050;padding-top:13px}
+.video-watch{font-size:.77rem;color:#ff8495;font-weight:850;text-decoration:none}
+.video-watch:hover{text-decoration:underline}
+.video-share{background:#222c3b;color:#e9eef5;border:1px solid #435268;border-radius:4px;padding:7px 10px;font-size:.76rem;font-weight:750}
+.video-share:hover{background:#333f51}
