@@ -1,6 +1,6 @@
 (function() {
   "use strict";
-  var state = {items:[], filter:"All", search:"", visible:9};
+  var state = {items:[], videos:[], filter:"All", search:"", visible:9};
   var ticker = document.getElementById("headline-ticker");
   var tickerSource = document.getElementById("ticker-source");
   var featured = document.getElementById("featured-news");
@@ -40,6 +40,47 @@
     p.appendChild(document.createTextNode(" · " + dateLabel(item.published)));
     return p;
   }
+  // Suggest a specific video only when its public title overlaps with two
+  // distinctive words in the source headline. Title overlap is NOT evidence
+  // that the video covers or verifies that exact event.
+  var common = new Set(["about","after","again","ahead","against","amid","around","between",
+    "could","daily","during","first","from","have","into","latest","major","more","news",
+    "over","report","reports","says","since","some","that","their","there","these",
+    "this","those","today","under","what","when","where","which","while","with",
+    "world","year","years","your","video","update","updates","breaking"]);
+  function titleTerms(title) {
+    return new Set((title.toLowerCase().match(/[a-z]{4,}/g)||[])
+      .filter(function(word){return !common.has(word);}));
+  }
+  function matchingVideo(item) {
+    var headline = titleTerms(item.title);
+    var best = null, score = 0;
+    state.videos.forEach(function(video){
+      var terms = titleTerms(video.title);
+      var shared = 0;
+      headline.forEach(function(term){if(terms.has(term)) shared++;});
+      if(shared >= 2 && shared > score) {score = shared;best = video;}
+    });
+    return best;
+  }
+  function videoReference(item) {
+    var recommended = matchingVideo(item);
+    var para = el("p", "story-channel-cta");
+    var channel = item.category === "World" ? "news" : "original";
+    var url, label;
+    if (recommended) {
+      url = "https://www.youtube.com/watch?v=" + encodeURIComponent(recommended.video_id);
+      label = "YouTube video with similar title keywords ↗";
+      para.title = "Similar words do not establish that the video covers or verifies this news event.";
+    } else {
+      url = channel === "news" ? "https://www.youtube.com/@PublicMindReportNews/videos" :
+                                "https://www.youtube.com/@PUBLICMINDREPORT/videos";
+      label = channel === "news" ? "Explore our World News channel ↗" :
+                                   "Explore our Economy & Commentary videos ↗";
+    }
+    para.appendChild(externalLink(url, label, "channel-story-link"));
+    return para;
+  }
   function article(item, isFeature) {
     var block = el(isFeature ? "div" : "article", isFeature ? "feature-copy" : "story");
     block.appendChild(el("span", "article-tag", item.category));
@@ -48,6 +89,7 @@
     block.appendChild(heading);
     block.appendChild(byline(item));
     block.appendChild(externalLink(item.url, "Read at original source ↗", "source-link"));
+    block.appendChild(videoReference(item));
     return block;
   }
   function render() {
@@ -141,6 +183,34 @@
       render();
     }
   }
+  async function loadVideoReferences() {
+    try {
+      var data;
+      try {
+        var res = await fetch("https://api.github.com/repos/SoundVerse7/jarvis-news-oauth-info/contents/data/videos.json?ref=main",
+          {cache:"no-cache",headers:{"Accept":"application/vnd.github+json"}});
+        if (!res.ok) throw new Error("No GitHub video snapshot");
+        var wrap = await res.json();
+        if (wrap.encoding !== "base64" || typeof wrap.content !== "string") throw new Error("Invalid video snapshot");
+        var bytes = Uint8Array.from(atob(wrap.content.replace(/\s/g,"")),function(ch){return ch.charCodeAt(0);});
+        data = JSON.parse(new TextDecoder("utf-8").decode(bytes));
+      } catch(apiError) {
+        var fallback = await fetch("data/videos.json",{cache:"no-cache"});
+        if (!fallback.ok) throw new Error("No public video snapshot");
+        data = await fallback.json();
+      }
+      if (!data || !Array.isArray(data.items)) return;
+      state.videos = data.items.filter(function(v){
+        return v && (v.channel === "original" || v.channel === "news") &&
+          typeof v.video_id === "string" && /^[A-Za-z0-9_-]{11}$/.test(v.video_id) &&
+          typeof v.title === "string" && v.title.length > 0;
+      });
+      render();
+    } catch(err) {
+      // Generic channel links remain available when YouTube/GitHub is unavailable.
+    }
+  }
   render();
   load();
+  loadVideoReferences();
 })();
