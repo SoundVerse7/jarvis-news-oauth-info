@@ -40,3 +40,10 @@
 .video-watch:hover{text-decoration:underline}
 .video-share{background:#222c3b;color:#e9eef5;border:1px solid #435268;border-radius:4px;padding:7px 10px;font-size:.76rem;font-weight:750}
 .video-share:hover{background:#333f51}
+
+
+/* Source-to-channel discovery: attribution comes before promotion. */
+.story-channel-cta{margin:13px 0 0;padding:10px 0 0;border-top:1px solid #354050;font-size:.78rem;line-height:1.5}
+.story-channel-cta .channel-story-link{color:#ff8396;text-decoration:none;font-weight:750}
+.story-channel-cta .channel-story-link:hover{text-decoration:underline}
+.feature-copy .story-channel-cta{margin-top:18px;padding-top:14px}
