@@ -6,7 +6,9 @@ import datetime as dt
 import importlib.util
 import json
 import pathlib
+import tempfile
 import unittest
+from unittest import mock
 import xml.etree.ElementTree as ET
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
@@ -63,6 +65,36 @@ class WebsiteChecks(unittest.TestCase):
                 data = json.loads((ROOT / "data" / filename).read_text(encoding="utf-8"))
                 self.assertIn("items", data)
                 self.assertIsInstance(data["items"], list)
+
+    def test_website_discloses_generic_channel_links(self):
+        script = (ROOT / "assets" / "newsroom.js").read_text(encoding="utf-8")
+        self.assertIn("YouTube video with similar title keywords", script)
+        self.assertIn("Explore our World News channel", script)
+        self.assertIn("Explore our Economy & Commentary videos", script)
+        self.assertIn("shared >= 2", script)
+        self.assertIn("Similar words do not establish", script)
+
+    def test_outage_keeps_video_and_last_success(self):
+        original = videos.CHANNELS[0]
+        prior = {
+            "updated_at": "2026-10-27T21:00:00Z",
+            "items": [{"channel":"original","channel_name":original["name"],
+                       "video_id":"HjEuopztg3I","title":"Public sample","published":"2026-10-24T23:59:07Z"}],
+            "status": [{"channel":"original","status":"ok","videos":1,
+                        "last_success_at":"2026-10-27T19:00:00Z"}]
+        }
+        with tempfile.TemporaryDirectory() as tempdir:
+            path = pathlib.Path(tempdir) / "videos.json"
+            path.write_text(json.dumps(prior), encoding="utf-8")
+            with mock.patch.object(videos, "OUT", path):
+                with mock.patch.object(videos, "fetch", side_effect=OSError("Temporary public feed outage")):
+                    self.assertEqual(videos.main(), 0)
+            data = json.loads(path.read_text(encoding="utf-8"))
+            self.assertEqual(len(data["items"]), 1)
+            original_status = next(x for x in data["status"] if x["channel"] == "original")
+            self.assertEqual(original_status["status"], "unavailable")
+            self.assertEqual(original_status["last_success_at"], "2026-10-27T19:00:00Z")
+            self.assertNotEqual(original_status["last_success_at"], data["updated_at"])
 
     def test_no_public_payment_promotions(self):
         for page in ("index.html", "channels.html", "videos.html"):
