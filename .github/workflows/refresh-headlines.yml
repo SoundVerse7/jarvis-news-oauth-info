@@ -2,12 +2,18 @@ name: Refresh headlines and public YouTube videos
 
 on:
   workflow_dispatch:
+  # An authenticated, owner-authorized JARVIS installation can later notify
+  # this repository AFTER confirming the video is public on the correct channel.
+  repository_dispatch:
+    types: [jarvis_public_video]
   push:
     branches: [main]
     paths:
       - ".github/workflows/refresh-headlines.yml"
       - "scripts/update_headlines.py"
       - "scripts/update_videos.py"
+      - "scripts/ingest_publication.py"
+      - "data/jarvis_public.json"
       - "assets/newsroom.js"
       - "assets/channels.js"
       - "index.html"
@@ -44,6 +50,11 @@ jobs:
         run: python -m py_compile scripts/update_headlines.py scripts/update_videos.py
       - name: Validate channel IDs and public website links
         run: python scripts/test_site.py
+      - name: Accept authorized public-only video notification
+        if: github.event_name == 'repository_dispatch'
+        env:
+          JARVIS_PUBLIC_PAYLOAD: ${{ toJSON(github.event.client_payload) }}
+        run: python scripts/ingest_publication.py
       - name: Fetch official-source headlines
         run: python scripts/update_headlines.py
       - name: Fetch both public YouTube video feeds
@@ -59,6 +70,7 @@ jobs:
           # Never rebase feed commits across another edit to these JSON files.
           cp data/headlines.json "$RUNNER_TEMP/headlines-new.json"
           cp data/videos.json "$RUNNER_TEMP/videos-new.json"
+          cp data/jarvis_public.json "$RUNNER_TEMP/jarvis-new.json"
           for attempt in 1 2 3 4; do
             git fetch --no-tags origin main
             # Only reset this disposable CI checkout, never the owner's PC or
@@ -71,13 +83,15 @@ jobs:
           import pathlib
           import sys
           staging = pathlib.Path(sys.argv[1])
-          for target, newfile in (("headlines", "headlines-new.json"), ("videos", "videos-new.json")):
+          for target, newfile in (("headlines", "headlines-new.json"), ("videos", "videos-new.json"), ("jarvis_public", "jarvis-new.json")):
               destination = pathlib.Path("data") / (target + ".json")
               incoming = staging / newfile
               try:
                   current = json.loads(destination.read_text(encoding="utf-8"))
                   proposed = json.loads(incoming.read_text(encoding="utf-8"))
-                  if str(current.get("updated_at", "")) >= str(proposed.get("updated_at", "")):
+                  current_time = current.get("updated_at") or ""
+                  proposed_time = proposed.get("updated_at") or ""
+                  if current_time and proposed_time and current_time >= proposed_time:
                       print(f"{target}: keeping newer remote snapshot")
                       continue
               except (OSError, ValueError):
@@ -85,7 +99,7 @@ jobs:
               destination.parent.mkdir(parents=True, exist_ok=True)
               destination.write_bytes(incoming.read_bytes())
           PY
-            git add data/headlines.json data/videos.json
+            git add data/headlines.json data/videos.json data/jarvis_public.json
             if git diff --cached --quiet; then
               echo "No newer public data to publish."
               exit 0
