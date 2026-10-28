@@ -90,10 +90,13 @@ def main():
             pass
     records = []
     status = []
+    attempted_at = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+    prior_status = {s.get("channel"): s for s in old.get("status", []) if isinstance(s, dict)}
     for channel in CHANNELS:
         try:
             latest = parse_channel(fetch(channel["id"]), channel)
-            status.append({"channel": channel["key"], "status": "ok", "videos": len(latest)})
+            status.append({"channel": channel["key"], "status": "ok", "videos": len(latest),
+                           "last_success_at": attempted_at})
             records.extend(latest)
             print(channel["key"], len(latest), "public videos")
         except Exception as exc:
@@ -101,11 +104,18 @@ def main():
             previous = [x for x in old.get("items", []) if x.get("channel") == channel["key"]
                         and VIDEO_ID.fullmatch(str(x.get("video_id", ""))) and x.get("title")]
             records.extend(previous[:12])
-            status.append({"channel": channel["key"], "status": "unavailable"})
+            earlier = prior_status.get(channel["key"], {})
+            # Only claim a previously confirmed refresh time. Never use this
+            # attempt's timestamp as the last successful YouTube update.
+            previous_success = earlier.get("last_success_at")
+            if not previous_success and earlier.get("status") == "ok":
+                previous_success = old.get("updated_at")
+            status.append({"channel": channel["key"], "status": "unavailable",
+                           "videos": len(previous), "last_success_at": previous_success})
             print(channel["key"], "RSS unavailable:", type(exc).__name__, str(exc)[:100])
     records.sort(key=lambda x: x.get("published", ""), reverse=True)
     result = {
-        "updated_at": dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
+        "updated_at": attempted_at,
         "channels": CHANNELS, "status": status, "items": records[:24]
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
