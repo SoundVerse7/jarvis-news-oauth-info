@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T02:59:51Z",
+  "updated_at": "2026-10-28T03:19:36Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "zCpj0G4Qnwk",
+      "title": "No clear winner in Israeli election and 33 more stories",
+      "published": "2026-10-27T23:50:48Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
