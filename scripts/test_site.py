@@ -16,6 +16,10 @@ spec = importlib.util.spec_from_file_location("videos", ROOT / "scripts" / "upda
 videos = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(videos)
 
+handoff_spec = importlib.util.spec_from_file_location("handoff", ROOT / "scripts" / "ingest_publication.py")
+handoff = importlib.util.module_from_spec(handoff_spec)
+handoff_spec.loader.exec_module(handoff)
+
 
 class WebsiteChecks(unittest.TestCase):
     def test_correct_distinct_youtube_channels(self):
@@ -95,6 +99,60 @@ class WebsiteChecks(unittest.TestCase):
             self.assertEqual(original_status["status"], "unavailable")
             self.assertEqual(original_status["last_success_at"], "2026-10-27T19:00:00Z")
             self.assertNotEqual(original_status["last_success_at"], data["updated_at"])
+
+    @staticmethod
+    def public_news_payload():
+        now = dt.datetime.now(dt.timezone.utc)
+        return {
+            "channel_id": "UCc3QJDTVAvImoGQSHOHTu3Q",
+            "verified_channel_id": "UCc3QJDTVAvImoGQSHOHTu3Q",
+            "privacy_status": "public",
+            "verified_public": True,
+            "video_id": "AbC123defG_",
+            "title": "Example verified public video",
+            "published": (now - dt.timedelta(minutes=5)).isoformat()
+        }
+
+    def test_handoff_rejects_wrong_channel_and_private_video(self):
+        good = self.public_news_payload()
+        self.assertEqual(handoff.validate(good)["channel"], "news")
+        for changes in (
+            {"channel_id":"UCAVVVfl6qdT1JZsndhyhetA"},
+            {"verified_channel_id":"UCAVVVfl6qdT1JZsndhyhetA"},
+            {"privacy_status":"private"},
+            {"verified_public":False},
+            {"video_id":"bad id"},
+            {"published":"2020-01-01T00:00:00Z"},
+            {"published":"not a timestamp"}
+        ):
+            with self.subTest(changes=changes), self.assertRaises(ValueError):
+                handoff.validate({**good, **changes})
+
+    def test_handoff_is_deduplicated_and_preserves_channel(self):
+        with tempfile.TemporaryDirectory() as folder:
+            file = pathlib.Path(folder) / "jarvis_public.json"
+            payload = self.public_news_payload()
+            handoff.ingest(payload, path=file)
+            handoff.ingest(payload, path=file)
+            saved = json.loads(file.read_text(encoding="utf-8"))
+            self.assertEqual(len(saved["items"]), 1)
+            self.assertEqual(saved["items"][0]["video_id"], payload["video_id"])
+            self.assertEqual(saved["items"][0]["channel"], "news")
+            self.assertEqual(saved["items"][0]["source"], "owner_confirmed_public")
+
+    def test_public_handoff_appears_when_rss_is_unavailable(self):
+        with tempfile.TemporaryDirectory() as folder:
+            base = pathlib.Path(folder)
+            payload = self.public_news_payload()
+            handoff.ingest(payload, path=base / "jarvis_public.json")
+            with mock.patch.object(videos, "OUT", base / "videos.json"):
+                with mock.patch.object(videos, "fetch", side_effect=OSError("RSS outage")):
+                    self.assertEqual(videos.main(), 0)
+            snapshot = json.loads((base / "videos.json").read_text(encoding="utf-8"))
+            matches = [x for x in snapshot["items"] if x["video_id"] == payload["video_id"]]
+            self.assertEqual(len(matches), 1)
+            self.assertEqual(matches[0]["channel"], "news")
+            self.assertEqual(snapshot["owner_confirmed_added"], 1)
 
     def test_no_public_payment_promotions(self):
         for page in ("index.html", "channels.html", "videos.html"):
