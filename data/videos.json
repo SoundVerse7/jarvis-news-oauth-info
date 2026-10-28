@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T13:03:46Z",
+  "updated_at": "2026-10-28T14:55:22Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-28T13:03:46Z"
+      "last_success_at": "2026-10-28T14:55:22Z"
     },
     {
       "channel": "news",
       "status": "ok",
-      "videos": 5,
-      "last_success_at": "2026-10-28T13:03:46Z"
+      "videos": 6,
+      "last_success_at": "2026-10-28T14:55:22Z"
     }
   ],
   "owner_confirmed_added": 1,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "J4ymyOkXUFo",
+      "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
+      "published": "2026-10-28T14:55:07Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "B-JQVsjX-YU",
       "title": "BREAKING: Injuries reported after two trains collide in Spain",
-      "published": "2026-10-28T13:03:30Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-28T13:03:50Z"
     },
     {
       "channel": "news",

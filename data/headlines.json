@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-10-28T13:03:45Z",
+  "updated_at": "2026-10-28T14:55:21Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
@@ -19,7 +18,7 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 5
+      "recent_headlines": 4
     }
   ],
   "items": [
@@ -41,7 +40,7 @@
     },
     {
       "id": "df496099d22cf769",
-      "title": "Rate announcement to come at 9:45 (ET)",
+      "title": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
       "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
       "source": "Bank of Canada",
       "category": "Economy",
@@ -49,7 +48,7 @@
     },
     {
       "id": "0698b5424bb53ec1",
-      "title": "Press Conference Opening Statement to come at 9:45 (ET)",
+      "title": "Monetary Policy Report Press Conference Opening Statement",
       "url": "https://www.bankofcanada.ca/2026/10/opening-statement-2026-10-28/",
       "source": "Bank of Canada",
       "category": "Economy",
@@ -254,14 +253,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-15T14:00:00Z"
-    },
-    {
-      "id": "15c2bd28b1120531",
-      "title": "Monthly wind generation in ISO-NE is about 68% higher than last year",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68304",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-10-14T14:00:00Z"
     }
   ]
 }

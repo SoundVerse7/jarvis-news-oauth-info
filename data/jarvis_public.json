@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-28T13:03:45Z",
+  "updated_at": "2026-10-28T14:55:20Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "J4ymyOkXUFo",
+      "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
+      "published": "2026-10-28T14:55:07Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
