@@ -20,6 +20,10 @@ handoff_spec = importlib.util.spec_from_file_location("handoff", ROOT / "scripts
 handoff = importlib.util.module_from_spec(handoff_spec)
 handoff_spec.loader.exec_module(handoff)
 
+merge_spec = importlib.util.spec_from_file_location("merge_snapshots", ROOT / "scripts" / "merge_snapshots.py")
+merge_snapshots = importlib.util.module_from_spec(merge_spec)
+merge_spec.loader.exec_module(merge_snapshots)
+
 
 class WebsiteChecks(unittest.TestCase):
     def test_correct_distinct_youtube_channels(self):
@@ -153,6 +157,38 @@ class WebsiteChecks(unittest.TestCase):
             self.assertEqual(len(matches), 1)
             self.assertEqual(matches[0]["channel"], "news")
             self.assertEqual(snapshot["owner_confirmed_added"], 1)
+
+    def test_public_snapshot_merge_preserves_all_owner_events(self):
+        with tempfile.TemporaryDirectory() as folder:
+            base = pathlib.Path(folder)
+            stage, remote = base / "stage", base / "remote"
+            stage.mkdir()
+            remote.mkdir()
+            now = dt.datetime.now(dt.timezone.utc)
+            early = (now - dt.timedelta(minutes=6)).isoformat()
+            late = (now - dt.timedelta(minutes=2)).isoformat()
+            first = handoff.validate(self.public_news_payload())
+            second = dict(first, video_id="ZyX987uvwQ_", title="Another public news video")
+            def save(folder, name, data):
+                (folder / name).write_text(json.dumps(data), encoding="utf-8")
+            save(stage, "jarvis-new.json", {"schema":1,"updated_at":early,"items":[first]})
+            save(remote, "jarvis_public.json", {"schema":1,"updated_at":late,"items":[second]})
+            save(stage, "headlines-new.json", {"updated_at":early,"items":[{"id":"old"}]})
+            save(remote, "headlines.json", {"updated_at":late,"items":[{"id":"newer"}]})
+            save(stage, "videos-new.json", {"updated_at":early,"items":[]})
+            save(remote, "videos.json", {"updated_at":late,
+                "items":[{"channel":"original","video_id":"HjEuopztg3I",
+                          "title":"Original public video","published":early}]})
+            changes = merge_snapshots.merge(stage, remote)
+            self.assertIn("jarvis_public", changes)
+            owner = json.loads((remote / "jarvis_public.json").read_text())
+            self.assertEqual(set(x["video_id"] for x in owner["items"]),
+                             {first["video_id"], second["video_id"]})
+            news = json.loads((remote / "videos.json").read_text())
+            self.assertEqual(set(x["video_id"] for x in news["items"]),
+                             {"HjEuopztg3I", first["video_id"], second["video_id"]})
+            headlines = json.loads((remote / "headlines.json").read_text())
+            self.assertEqual(headlines["items"][0]["id"], "newer")
 
     def test_no_public_payment_promotions(self):
         for page in ("index.html", "channels.html", "videos.html"):
