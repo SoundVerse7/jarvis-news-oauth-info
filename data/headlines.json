@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-10-29T13:27:29Z",
+  "updated_at": "2026-10-29T16:28:57Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -13,7 +14,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 10
+      "recent_headlines": 9
     },
     {
       "source": "U.S. EIA",
@@ -22,6 +23,30 @@
     }
   ],
   "items": [
+    {
+      "id": "6d5f94b54e3e2bf7",
+      "title": "LNG imports make up increasing share of Colombia's natural gas supply",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-10-29T14:00:00Z"
+    },
+    {
+      "id": "a5d0aaf431534a11",
+      "title": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168698",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-29T12:00:00Z"
+    },
+    {
+      "id": "19225343a15843d2",
+      "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168697",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-29T12:00:00Z"
+    },
     {
       "id": "8394c8b6e85496b4",
       "title": "Bank of Canada webcasts The John Kuszczak Memorial Lecture",
@@ -215,22 +240,6 @@
       "published": "2026-10-27T12:00:00Z"
     },
     {
-      "id": "55450105f54378f4",
-      "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168677",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "a61abb04aeca3ebd",
-      "title": "Ebola: 20 contacts released from quarantine in Kenya, amid vaccine ‘hope’ in DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168676",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-27T12:00:00Z"
-    },
-    {
       "id": "11274263ec4ec7aa",
       "title": "U.S. refineries have been running at very high rates in 2026",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
@@ -247,14 +256,6 @@
       "published": "2026-10-19T14:00:00Z"
     },
     {
-      "id": "71e4c73603d44be1",
-      "title": "The Bank of Canada releases the third quarter issues of the Business Outlook Survey and the Canadian Survey of Consumer Expectations",
-      "url": "https://www.bankofcanada.ca/2026/10/the-bank-of-canada-releases-the-third-quarter-issues-of-the-business-outlook-survey-and-the-canadian-survey-of-consumer-expectations/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-19T11:00:48Z"
-    },
-    {
       "id": "e2834c74f4065e96",
       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
@@ -269,14 +270,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-16T14:00:00Z"
-    },
-    {
-      "id": "cb5890d031cd055d",
-      "title": "PJM, ERCOT, and SWPP all set peak load records this summer",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68305",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-10-15T14:00:00Z"
     }
   ]
 }

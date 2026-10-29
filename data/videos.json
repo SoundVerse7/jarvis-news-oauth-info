@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T13:27:30Z",
+  "updated_at": "2026-10-29T16:28:57Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-29T13:27:30Z"
+      "last_success_at": "2026-10-29T16:28:57Z"
     },
     {
       "channel": "news",
       "status": "ok",
-      "videos": 11,
-      "last_success_at": "2026-10-29T13:27:30Z"
+      "videos": 12,
+      "last_success_at": "2026-10-29T16:28:57Z"
     }
   ],
   "owner_confirmed_added": 1,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "-giX78nIkW0",
+      "title": "NEW: Putin calls Elon Musk a 'genius'",
+      "published": "2026-10-29T16:28:56Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "0ojwf8oE5E4",
       "title": "ECB head Lagarde resigns amid mounting economic | Economy Briefing",
-      "published": "2026-10-29T13:27:18Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-29T13:27:39Z"
     },
     {
       "channel": "news",
@@ -113,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "_f8v9oWBEY4",
       "title": "Netherlands pulls out of Eurovision again",
-      "published": "2026-10-27T12:56:37Z"
+      "published": "2026-10-27T12:56:30Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "original",

@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-29T13:27:29Z",
+  "updated_at": "2026-10-29T16:28:57Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "-giX78nIkW0",
+      "title": "NEW: Putin calls Elon Musk a 'genius'",
+      "published": "2026-10-29T16:28:43Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
