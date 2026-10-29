@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:35:24Z",
+  "updated_at": "2026-10-29T21:50:28Z",
   "sources": [
     {
       "source": "UN News",
@@ -9,7 +9,7 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 2
+      "recent_headlines": 3
     },
     {
       "source": "Bank of Canada",
@@ -23,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "41690a4ebc45cdda",
+      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-10-29T20:30:00Z"
+    },
     {
       "id": "6532f5dfcd665d72",
       "title": "Bank of Canada Expands Access to Eligible Non-Primary Dealer Government Securities Distributors to Select Market Operations",
@@ -38,6 +46,30 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-29T14:00:00Z"
+    },
+    {
+      "id": "0fc8b59d007f2fb3",
+      "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168705",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-29T12:00:00Z"
+    },
+    {
+      "id": "32502b6d4b449f65",
+      "title": "AI is changing the way we think. The question is whether we’ll notice in time",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-29T12:00:00Z"
+    },
+    {
+      "id": "01d4e3d04c4f2e0f",
+      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-29T12:00:00Z"
     },
     {
       "id": "4db6ca8d400593c4",
@@ -214,30 +246,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-28T09:45:35Z"
-    },
-    {
-      "id": "4f0a25166f580f1f",
-      "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168686",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "6212f2be6175ecda",
-      "title": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "891abf0c21e897b8",
-      "title": "Security Council LIVE: Women and girls face greater dangers in war",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-27T12:00:00Z"
     },
     {
       "id": "11274263ec4ec7aa",

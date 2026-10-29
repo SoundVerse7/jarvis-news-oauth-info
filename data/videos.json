@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T19:35:25Z",
+  "updated_at": "2026-10-29T21:50:28Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-29T19:35:25Z"
+      "last_success_at": "2026-10-29T21:50:28Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-29T19:35:25Z"
+      "last_success_at": "2026-10-29T21:50:28Z"
     }
   ],
   "owner_confirmed_added": 2,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "JnVAt-kX1PA",
       "title": "ECB head Lagarde resigns amid mounting economic | World News Briefing",
-      "published": "2026-10-29T19:35:13Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-29T19:35:35Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "UdsaqB9anuo",
       "title": "DOJ takes steps to charge James Comey again - what we know",
-      "published": "2026-10-27T21:08:29Z"
+      "published": "2026-10-27T21:08:13Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
