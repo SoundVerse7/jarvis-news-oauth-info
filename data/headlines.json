@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T11:20:03Z",
+  "updated_at": "2026-10-29T13:27:29Z",
   "sources": [
     {
       "source": "UN News",
@@ -13,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 8
+      "recent_headlines": 10
     },
     {
       "source": "U.S. EIA",
@@ -22,6 +22,22 @@
     }
   ],
   "items": [
+    {
+      "id": "8394c8b6e85496b4",
+      "title": "Bank of Canada webcasts The John Kuszczak Memorial Lecture",
+      "url": "https://www.bankofcanada.ca/2026/10/bank-canada-webcasts-john-kuszczak-memorial-lecture-2026-10-29/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-29T11:30:30Z"
+    },
+    {
+      "id": "a1a82447eeeb63f2",
+      "title": "John Kuszczak Memorial Lecture 2026",
+      "url": "https://www.bankofcanada.ca/multimedia/john-kuszczak-memorial-lecture-2026-10-29/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-10-29T11:30:11Z"
+    },
     {
       "id": "a0c3e1be77e8b5a2",
       "title": "Federal Reserve issues FOMC statement",
