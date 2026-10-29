@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T10:04:33Z",
+  "updated_at": "2026-10-29T11:20:04Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-29T10:04:33Z"
+      "last_success_at": "2026-10-29T11:20:04Z"
     },
     {
       "channel": "news",
       "status": "ok",
-      "videos": 10,
-      "last_success_at": "2026-10-29T10:04:33Z"
+      "videos": 11,
+      "last_success_at": "2026-10-29T11:20:04Z"
     }
   ],
   "owner_confirmed_added": 0,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "sRpcih4qGZA",
+      "title": "FBI agents raid billionaire's mansion in Eric Swalwell investigation",
+      "published": "2026-10-29T11:20:00Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
