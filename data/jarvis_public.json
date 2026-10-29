@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-29T18:00:14Z",
+  "updated_at": "2026-10-29T19:35:24Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "JnVAt-kX1PA",
+      "title": "ECB head Lagarde resigns amid mounting economic | World News Briefing",
+      "published": "2026-10-29T19:35:13Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",

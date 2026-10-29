@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T18:00:15Z",
+  "updated_at": "2026-10-29T19:35:25Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-29T18:00:15Z"
+      "last_success_at": "2026-10-29T19:35:25Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-29T18:00:15Z"
+      "last_success_at": "2026-10-29T19:35:25Z"
     }
   ],
   "owner_confirmed_added": 2,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "JnVAt-kX1PA",
+      "title": "ECB head Lagarde resigns amid mounting economic | World News Briefing",
+      "published": "2026-10-29T19:35:13Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "49vKv28JMCk",
       "title": "BREAKING: Albania: opposition MPs disrupt parliament with smoke flares",
-      "published": "2026-10-29T18:00:03Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-29T18:00:32Z"
     },
     {
       "channel": "news",
@@ -114,13 +121,6 @@
       "video_id": "UdsaqB9anuo",
       "title": "DOJ takes steps to charge James Comey again - what we know",
       "published": "2026-10-27T21:08:29Z"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "7ovJxk3X1BY",
-      "title": "NEW: Trump, Obama hold rallies ahead of midterms",
-      "published": "2026-10-27T16:28:05Z"
     },
     {
       "channel": "news",
