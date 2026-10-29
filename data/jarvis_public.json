@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-29T16:28:57Z",
+  "updated_at": "2026-10-29T18:00:14Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "49vKv28JMCk",
+      "title": "BREAKING: Albania: opposition MPs disrupt parliament with smoke flares",
+      "published": "2026-10-29T18:00:03Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
