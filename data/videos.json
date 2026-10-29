@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T02:31:05Z",
+  "updated_at": "2026-10-29T10:04:33Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-28T21:03:10Z"
+      "last_success_at": "2026-10-29T10:04:33Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 10,
-      "last_success_at": "2026-10-28T21:03:10Z"
+      "last_success_at": "2026-10-29T10:04:33Z"
     }
   ],
   "owner_confirmed_added": 0,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "9b3cWNlkp6Y",
       "title": "92-year-old US judge handling Maduro case dies - what we know",
-      "published": "2026-10-28T21:03:00Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-28T21:03:16Z"
     },
     {
       "channel": "news",

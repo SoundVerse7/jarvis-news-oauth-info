@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-10-29T02:31:05Z",
+  "updated_at": "2026-10-29T10:04:33Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -45,6 +46,38 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-28T13:30:22Z"
+    },
+    {
+      "id": "81c7e1fa29b06e2c",
+      "title": "Higher Ground: How New York is raising a park to hold back the sea",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
+    },
+    {
+      "id": "78d5adf3487fd583",
+      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
+    },
+    {
+      "id": "284ebacccf5e384f",
+      "title": "UN human rights chief urges better protection of civilians in conflicts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168695",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
+    },
+    {
+      "id": "e7d51e03067ea29d",
+      "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-28T12:00:00Z"
     },
     {
       "id": "f0d4f11b447c3615",
@@ -181,38 +214,6 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-10-27T12:00:00Z"
-    },
-    {
-      "id": "9697967e8a1d2109",
-      "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-26T12:00:00Z"
-    },
-    {
-      "id": "25b28e42ff00fb53",
-      "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-26T12:00:00Z"
-    },
-    {
-      "id": "af84b0bc7217b043",
-      "title": "Women and girls’ share of civilian war deaths doubles since 2021",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168673",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-26T12:00:00Z"
-    },
-    {
-      "id": "28cf2b6e0f7512d3",
-      "title": "Ukraine: Investigators find Russia committed war crimes by targeting civilians",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168670",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-26T12:00:00Z"
     },
     {
       "id": "11274263ec4ec7aa",
