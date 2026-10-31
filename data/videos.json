@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:02:32Z",
+  "updated_at": "2026-10-31T18:36:39Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-31T16:02:32Z"
+      "last_success_at": "2026-10-31T18:36:39Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-31T16:02:32Z"
+      "last_success_at": "2026-10-31T18:36:39Z"
     }
   ],
   "owner_confirmed_added": 7,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "AKBwE8mtySY",
       "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
-      "published": "2026-10-31T16:02:22Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-31T16:02:35Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "aSfS04t4GQU",
       "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
-      "published": "2026-10-28T16:27:36Z"
+      "published": "2026-10-28T16:27:21Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
