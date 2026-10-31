@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T00:50:52Z",
+  "updated_at": "2026-10-31T01:53:47Z",
   "channels": [
     {
       "key": "original",
@@ -28,8 +28,16 @@
       "last_success_at": "2026-10-31T00:19:29Z"
     }
   ],
-  "owner_confirmed_added": 0,
+  "owner_confirmed_added": 1,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "pN1ZceeMgOU",
+      "title": "Trump predicts Iran war will end soon | War & Conflict Briefing",
+      "published": "2026-10-31T01:53:33Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
