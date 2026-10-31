@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T13:27:35Z",
+  "updated_at": "2026-10-31T16:02:31Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "AKBwE8mtySY",
+      "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
+      "published": "2026-10-31T16:02:22Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",

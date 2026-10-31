@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T13:41:01Z",
+  "updated_at": "2026-10-31T16:02:32Z",
   "channels": [
     {
       "key": "original",
@@ -19,24 +19,31 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-31T13:41:01Z"
+      "last_success_at": "2026-10-31T16:02:32Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-31T13:41:01Z"
+      "last_success_at": "2026-10-31T16:02:32Z"
     }
   ],
-  "owner_confirmed_added": 6,
+  "owner_confirmed_added": 7,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "AKBwE8mtySY",
+      "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
+      "published": "2026-10-31T16:02:22Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "6yOtmTESzpE",
       "title": "NEW: US midterms: Pope Leo XIV casts vote by mail",
-      "published": "2026-10-31T13:27:26Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-31T13:27:42Z"
     },
     {
       "channel": "news",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "J4ymyOkXUFo",
       "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
-      "published": "2026-10-28T14:55:31Z"
+      "published": "2026-10-28T14:55:07Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",

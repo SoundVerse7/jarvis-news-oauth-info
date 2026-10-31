@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T13:41:01Z",
+  "updated_at": "2026-10-31T16:02:31Z",
   "sources": [
     {
       "source": "UN News",
@@ -23,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "420d24734d08f560",
+      "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-31T12:00:00Z"
+    },
     {
       "id": "fd790217a3f85420",
       "title": "Somalia looks to the future as the UN's political mission closes",
@@ -211,14 +219,6 @@
       "id": "78d5adf3487fd583",
       "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-28T12:00:00Z"
-    },
-    {
-      "id": "284ebacccf5e384f",
-      "title": "UN human rights chief urges better protection of civilians in conflicts",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168695",
       "source": "UN News",
       "category": "World",
       "published": "2026-10-28T12:00:00Z"
