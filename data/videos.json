@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T18:36:39Z",
+  "updated_at": "2026-10-31T19:09:51Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-31T18:36:39Z"
+      "last_success_at": "2026-10-31T19:09:51Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-31T18:36:39Z"
+      "last_success_at": "2026-10-31T19:09:51Z"
     }
   ],
-  "owner_confirmed_added": 7,
+  "owner_confirmed_added": 8,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "dFSDqG8rRv8",
+      "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
+      "published": "2026-10-31T19:09:42Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",

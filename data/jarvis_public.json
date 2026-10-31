@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T16:02:31Z",
+  "updated_at": "2026-10-31T19:09:51Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "dFSDqG8rRv8",
+      "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
+      "published": "2026-10-31T19:09:42Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
