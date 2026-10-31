@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T20:50:23Z",
+  "updated_at": "2026-10-31T00:19:29Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-30T20:50:23Z"
+      "last_success_at": "2026-10-31T00:19:29Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-30T20:50:23Z"
+      "last_success_at": "2026-10-31T00:19:29Z"
     }
   ],
-  "owner_confirmed_added": 2,
+  "owner_confirmed_added": 3,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "FNb6k4ZjYlI",
+      "title": "Oman rescues 25 from burning oil tanker in Strait… | World News…",
+      "published": "2026-10-31T00:19:20Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
