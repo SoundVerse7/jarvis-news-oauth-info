@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:10:54Z",
+  "updated_at": "2026-10-31T13:27:36Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-31T11:10:54Z"
+      "last_success_at": "2026-10-31T13:27:36Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-31T11:10:54Z"
+      "last_success_at": "2026-10-31T13:27:36Z"
     }
   ],
-  "owner_confirmed_added": 5,
+  "owner_confirmed_added": 6,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "6yOtmTESzpE",
+      "title": "NEW: US midterms: Pope Leo XIV casts vote by mail",
+      "published": "2026-10-31T13:27:26Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
