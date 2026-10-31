@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T07:01:56Z",
+  "updated_at": "2026-10-31T11:10:54Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-31T07:01:56Z"
+      "last_success_at": "2026-10-31T11:10:54Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-31T07:01:56Z"
+      "last_success_at": "2026-10-31T11:10:54Z"
     }
   ],
-  "owner_confirmed_added": 4,
+  "owner_confirmed_added": 5,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HtGxJ8uA68c",
+      "title": "NEW: US approves sale of 500 Patriot missiles to Ukraine",
+      "published": "2026-10-31T11:10:37Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "B-JQVsjX-YU",
       "title": "BREAKING: Injuries reported after two trains collide in Spain",
-      "published": "2026-10-28T13:03:50Z"
+      "published": "2026-10-28T13:03:30Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",

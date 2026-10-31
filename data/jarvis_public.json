@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-31T01:53:46Z",
+  "updated_at": "2026-10-31T11:10:52Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HtGxJ8uA68c",
+      "title": "NEW: US approves sale of 500 Patriot missiles to Ukraine",
+      "published": "2026-10-31T11:10:36Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
