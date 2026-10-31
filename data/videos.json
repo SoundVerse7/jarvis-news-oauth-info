@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:09:51Z",
+  "updated_at": "2026-10-31T22:31:19Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-10-31T19:09:51Z"
+      "last_success_at": "2026-10-31T22:31:19Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-10-31T19:09:51Z"
+      "last_success_at": "2026-10-31T22:31:19Z"
     }
   ],
   "owner_confirmed_added": 8,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "dFSDqG8rRv8",
       "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
-      "published": "2026-10-31T19:09:42Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-10-31T19:09:55Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "IxM6zotvdeA",
       "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
-      "published": "2026-10-28T19:29:11Z"
+      "published": "2026-10-28T19:28:59Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",

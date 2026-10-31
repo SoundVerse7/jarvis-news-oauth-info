@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T19:09:51Z",
+  "updated_at": "2026-10-31T22:31:18Z",
   "sources": [
     {
       "source": "UN News",
@@ -23,6 +23,22 @@
     }
   ],
   "items": [
+    {
+      "id": "1453bce6b86187d8",
+      "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-31T12:00:00Z"
+    },
+    {
+      "id": "9a14b3ba93863914",
+      "title": "Samarkand: A ‘living museum’ on the Silk Road grapples with a tourism boom",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168711",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-10-31T12:00:00Z"
+    },
     {
       "id": "420d24734d08f560",
       "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
@@ -206,22 +222,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-28T13:30:22Z"
-    },
-    {
-      "id": "81c7e1fa29b06e2c",
-      "title": "Higher Ground: How New York is raising a park to hold back the sea",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168679",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-28T12:00:00Z"
-    },
-    {
-      "id": "78d5adf3487fd583",
-      "title": "Civilians in Sudan’s El Obeid trapped between drones and incarceration",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168696",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-28T12:00:00Z"
     },
     {
       "id": "be4112c87d18217d",
