@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T21:13:16Z",
+  "updated_at": "2026-11-01T22:02:06Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-01T21:13:16Z"
+      "last_success_at": "2026-11-01T22:02:06Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-01T21:13:16Z"
+      "last_success_at": "2026-11-01T22:02:06Z"
     }
   ],
-  "owner_confirmed_added": 5,
+  "owner_confirmed_added": 6,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Wwu2f8QV--8",
+      "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
+      "published": "2026-11-01T22:01:55Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "aSfS04t4GQU",
       "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
       "published": "2026-10-28T16:27:21Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "J4ymyOkXUFo",
-      "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
-      "published": "2026-10-28T14:55:07Z",
       "source": "owner_confirmed_public"
     },
     {
