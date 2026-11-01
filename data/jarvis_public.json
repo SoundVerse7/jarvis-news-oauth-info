@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T12:05:40Z",
+  "updated_at": "2026-11-01T14:15:51Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "esZBQe9gFo8",
+      "title": "Why it matters: Bolivia declares state of emergency",
+      "published": "2026-11-01T14:15:40Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
