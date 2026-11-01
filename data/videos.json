@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T20:28:37Z",
+  "updated_at": "2026-11-01T21:13:16Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-01T20:28:37Z"
+      "last_success_at": "2026-11-01T21:13:16Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-01T20:28:37Z"
+      "last_success_at": "2026-11-01T21:13:16Z"
     }
   ],
   "owner_confirmed_added": 5,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "ZvV6ScS971Q",
       "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-      "published": "2026-11-01T20:28:28Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-01T20:28:38Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "49vKv28JMCk",
       "title": "BREAKING: Albania: opposition MPs disrupt parliament with smoke flares",
-      "published": "2026-10-29T18:00:32Z"
+      "published": "2026-10-29T18:00:03Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
