@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T02:16:52Z",
+  "updated_at": "2026-11-01T09:24:38Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-01T00:27:47Z"
+      "last_success_at": "2026-11-01T09:24:38Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-10-31T22:31:19Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-01T09:24:38Z"
     }
   ],
   "owner_confirmed_added": 1,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "2KIynvSa1qk",
       "title": "War & Conflict Briefing Oct 31: US approves sale of 500 Patriot…",
-      "published": "2026-11-01T00:27:36Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-01T00:27:56Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "9b3cWNlkp6Y",
       "title": "92-year-old US judge handling Maduro case dies - what we know",
-      "published": "2026-10-28T21:03:16Z"
+      "published": "2026-10-28T21:03:00Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
