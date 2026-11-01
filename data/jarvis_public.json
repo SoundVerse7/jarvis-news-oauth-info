@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T00:27:46Z",
+  "updated_at": "2026-11-01T12:05:40Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fY_b9iAG_mE",
+      "title": "Tusk defends overhaul of Poland’s constitutional court despite…",
+      "published": "2026-11-01T12:05:28Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
