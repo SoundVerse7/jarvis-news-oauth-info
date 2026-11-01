@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T17:22:35Z",
+  "updated_at": "2026-11-01T20:28:37Z",
   "channels": [
     {
       "key": "original",
@@ -19,24 +19,31 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-01T17:22:35Z"
+      "last_success_at": "2026-11-01T20:28:37Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-01T17:22:35Z"
+      "last_success_at": "2026-11-01T20:28:37Z"
     }
   ],
-  "owner_confirmed_added": 4,
+  "owner_confirmed_added": 5,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ZvV6ScS971Q",
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "published": "2026-11-01T20:28:28Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HcLAZqggHVQ",
       "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
-      "published": "2026-11-01T17:22:24Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-01T17:22:55Z"
     },
     {
       "channel": "news",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "-giX78nIkW0",
       "title": "NEW: Putin calls Elon Musk a 'genius'",
-      "published": "2026-10-29T16:28:56Z"
+      "published": "2026-10-29T16:28:43Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "J4ymyOkXUFo",
       "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
       "published": "2026-10-28T14:55:07Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "B-JQVsjX-YU",
-      "title": "BREAKING: Injuries reported after two trains collide in Spain",
-      "published": "2026-10-28T13:03:30Z",
       "source": "owner_confirmed_public"
     },
     {

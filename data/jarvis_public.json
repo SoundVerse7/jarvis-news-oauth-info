@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T17:22:34Z",
+  "updated_at": "2026-11-01T20:28:37Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ZvV6ScS971Q",
+      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
+      "published": "2026-11-01T20:28:28Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
