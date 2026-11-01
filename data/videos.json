@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T14:15:52Z",
+  "updated_at": "2026-11-01T16:50:18Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-01T14:15:52Z"
+      "last_success_at": "2026-11-01T16:50:18Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-01T14:15:52Z"
+      "last_success_at": "2026-11-01T16:50:18Z"
     }
   ],
   "owner_confirmed_added": 3,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "esZBQe9gFo8",
       "title": "Why it matters: Bolivia declares state of emergency",
-      "published": "2026-11-01T14:15:40Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-01T14:16:01Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "0ojwf8oE5E4",
       "title": "ECB head Lagarde resigns amid mounting economic | Economy Briefing",
-      "published": "2026-10-29T13:27:39Z"
+      "published": "2026-10-29T13:27:18Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
