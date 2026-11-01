@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-01T00:27:47Z",
+  "updated_at": "2026-11-01T02:16:52Z",
   "channels": [
     {
       "key": "original",
@@ -17,7 +17,7 @@
   "status": [
     {
       "channel": "original",
-      "status": "ok",
+      "status": "unavailable",
       "videos": 6,
       "last_success_at": "2026-11-01T00:27:47Z"
     },
