@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T17:26:27Z",
+  "updated_at": "2026-11-02T18:27:10Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-02T17:26:27Z"
+      "last_success_at": "2026-11-02T18:27:10Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-02T17:26:27Z"
+      "last_success_at": "2026-11-02T18:27:10Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "g3JmIsp7mqs",
       "title": "Trump invites Michigan Democrat Stevens to join… | World News Briefing",
-      "published": "2026-11-02T17:26:12Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-02T17:26:32Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "AKBwE8mtySY",
       "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
-      "published": "2026-10-31T16:02:35Z"
+      "published": "2026-10-31T16:02:22Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
