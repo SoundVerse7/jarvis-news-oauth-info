@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T07:43:06Z",
+  "updated_at": "2026-11-02T12:12:30Z",
   "channels": [
     {
       "key": "original",
@@ -17,34 +17,39 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-01T22:02:06Z"
+      "last_success_at": "2026-11-02T12:12:30Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-01T22:02:06Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-02T12:12:30Z"
     }
   ],
-  "owner_confirmed_added": 7,
+  "owner_confirmed_added": 8,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "dWN90g_7CVU",
+      "title": "BREAKING: Plane carrying 9 people crashes in Florida neighbourhood",
+      "published": "2026-11-02T12:12:16Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HTFpN2y0w-Q",
       "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
-      "published": "2026-11-02T01:05:08Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-02T01:05:27Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "Wwu2f8QV--8",
       "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
-      "published": "2026-11-01T22:01:55Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-01T22:02:07Z"
     },
     {
       "channel": "news",
@@ -114,21 +119,24 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "pN1ZceeMgOU",
       "title": "Trump predicts Iran war will end soon | War & Conflict Briefing",
-      "published": "2026-10-31T01:53:55Z"
+      "published": "2026-10-31T01:53:33Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "FNb6k4ZjYlI",
       "title": "Oman rescues 25 from burning oil tanker in Strait… | World News…",
-      "published": "2026-10-31T00:19:47Z"
+      "published": "2026-10-31T00:19:20Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "JnVAt-kX1PA",
       "title": "ECB head Lagarde resigns amid mounting economic | World News Briefing",
-      "published": "2026-10-29T19:35:35Z"
+      "published": "2026-10-29T19:35:13Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "9b3cWNlkp6Y",
       "title": "92-year-old US judge handling Maduro case dies - what we know",
       "published": "2026-10-28T21:03:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "IxM6zotvdeA",
-      "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
-      "published": "2026-10-28T19:28:59Z",
       "source": "owner_confirmed_public"
     },
     {
