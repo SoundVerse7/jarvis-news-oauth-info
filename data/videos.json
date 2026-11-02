@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T18:57:28Z",
+  "updated_at": "2026-11-02T20:34:17Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-02T18:57:28Z"
+      "last_success_at": "2026-11-02T20:34:17Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-02T18:57:28Z"
+      "last_success_at": "2026-11-02T20:34:17Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "TxNn8qtXt-M",
+      "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
+      "published": "2026-11-02T20:34:05Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "q-lZ0srvw94",
       "title": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
-      "published": "2026-11-02T18:57:18Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-02T18:57:34Z"
     },
     {
       "channel": "news",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "dFSDqG8rRv8",
       "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
-      "published": "2026-10-31T19:09:55Z"
+      "published": "2026-10-31T19:09:42Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "JnVAt-kX1PA",
       "title": "ECB head Lagarde resigns amid mounting economic | World News Briefing",
       "published": "2026-10-29T19:35:13Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "49vKv28JMCk",
-      "title": "BREAKING: Albania: opposition MPs disrupt parliament with smoke flares",
-      "published": "2026-10-29T18:00:03Z",
       "source": "owner_confirmed_public"
     },
     {

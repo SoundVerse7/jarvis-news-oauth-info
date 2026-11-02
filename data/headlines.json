@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-02T18:57:28Z",
+  "updated_at": "2026-11-02T20:34:17Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,22 @@
     }
   ],
   "items": [
+    {
+      "id": "e30cb372c956e69d",
+      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-02T12:00:00Z"
+    },
+    {
+      "id": "5d5425854bdd6cc3",
+      "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168720",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-02T12:00:00Z"
+    },
     {
       "id": "7a4ba80d8fdfae0b",
       "title": "Six in seven journalist murders go unpunished, UNESCO reports",
@@ -162,22 +179,6 @@
       "id": "0fc8b59d007f2fb3",
       "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168705",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-29T12:00:00Z"
-    },
-    {
-      "id": "32502b6d4b449f65",
-      "title": "AI is changing the way we think. The question is whether we’ll notice in time",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168704",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-29T12:00:00Z"
-    },
-    {
-      "id": "01d4e3d04c4f2e0f",
-      "title": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen war update",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168703",
       "source": "UN News",
       "category": "World",
       "published": "2026-10-29T12:00:00Z"
