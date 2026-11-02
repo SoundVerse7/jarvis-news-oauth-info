@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T15:52:40Z",
+  "updated_at": "2026-11-02T17:26:26Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "g3JmIsp7mqs",
+      "title": "Trump invites Michigan Democrat Stevens to join… | World News Briefing",
+      "published": "2026-11-02T17:26:12Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "UdsaqB9anuo",
       "title": "DOJ takes steps to charge James Comey again - what we know",
       "published": "2026-10-27T21:08:13Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "_f8v9oWBEY4",
-      "title": "Netherlands pulls out of Eurovision again",
-      "published": "2026-10-27T12:56:30Z",
       "source": "owner_confirmed_public"
     }
   ]

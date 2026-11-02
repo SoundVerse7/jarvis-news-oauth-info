@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T15:52:42Z",
+  "updated_at": "2026-11-02T17:26:27Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-02T15:52:42Z"
+      "last_success_at": "2026-11-02T17:26:27Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-02T15:52:42Z"
+      "last_success_at": "2026-11-02T17:26:27Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "g3JmIsp7mqs",
+      "title": "Trump invites Michigan Democrat Stevens to join… | World News Briefing",
+      "published": "2026-11-02T17:26:12Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "-giX78nIkW0",
       "title": "NEW: Putin calls Elon Musk a 'genius'",
       "published": "2026-10-29T16:28:43Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "0ojwf8oE5E4",
-      "title": "ECB head Lagarde resigns amid mounting economic | Economy Briefing",
-      "published": "2026-10-29T13:27:18Z",
       "source": "owner_confirmed_public"
     },
     {
