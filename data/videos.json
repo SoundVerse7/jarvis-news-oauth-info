@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T12:12:30Z",
+  "updated_at": "2026-11-02T14:20:42Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-02T12:12:30Z"
+      "last_success_at": "2026-11-02T14:20:42Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-02T12:12:30Z"
+      "last_success_at": "2026-11-02T14:20:42Z"
     }
   ],
-  "owner_confirmed_added": 8,
+  "owner_confirmed_added": 9,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "8Q44neubCXE",
+      "title": "NEW: Sen. Chris Murphy hospitalized following stroke",
+      "published": "2026-11-02T14:20:37Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HtGxJ8uA68c",
       "title": "NEW: US approves sale of 500 Patriot missiles to Ukraine",
-      "published": "2026-10-31T11:10:37Z"
+      "published": "2026-10-31T11:10:36Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "sRpcih4qGZA",
       "title": "FBI agents raid billionaire's mansion in Eric Swalwell investigation",
       "published": "2026-10-29T11:19:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "9b3cWNlkp6Y",
-      "title": "92-year-old US judge handling Maduro case dies - what we know",
-      "published": "2026-10-28T21:03:00Z",
       "source": "owner_confirmed_public"
     },
     {

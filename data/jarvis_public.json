@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T12:12:29Z",
+  "updated_at": "2026-11-02T14:20:41Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "8Q44neubCXE",
+      "title": "NEW: Sen. Chris Murphy hospitalized following stroke",
+      "published": "2026-11-02T14:20:27Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
