@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T14:20:41Z",
+  "updated_at": "2026-11-02T15:52:40Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "vvXmXkhKKag",
+      "title": "BREAKING: Cyberattack hits Belgian supermarket fridges and freezers",
+      "published": "2026-11-02T15:52:21Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",

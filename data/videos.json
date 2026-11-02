@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T14:20:42Z",
+  "updated_at": "2026-11-02T15:52:42Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-02T14:20:42Z"
+      "last_success_at": "2026-11-02T15:52:42Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-02T14:20:42Z"
+      "last_success_at": "2026-11-02T15:52:42Z"
     }
   ],
-  "owner_confirmed_added": 9,
+  "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "vvXmXkhKKag",
+      "title": "BREAKING: Cyberattack hits Belgian supermarket fridges and freezers",
+      "published": "2026-11-02T15:52:26Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "6yOtmTESzpE",
       "title": "NEW: US midterms: Pope Leo XIV casts vote by mail",
-      "published": "2026-10-31T13:27:42Z"
+      "published": "2026-10-31T13:27:26Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "0ojwf8oE5E4",
       "title": "ECB head Lagarde resigns amid mounting economic | Economy Briefing",
       "published": "2026-10-29T13:27:18Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "sRpcih4qGZA",
-      "title": "FBI agents raid billionaire's mansion in Eric Swalwell investigation",
-      "published": "2026-10-29T11:19:50Z",
       "source": "owner_confirmed_public"
     },
     {
