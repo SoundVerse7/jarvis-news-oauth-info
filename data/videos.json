@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T00:49:52Z",
+  "updated_at": "2026-11-02T01:05:21Z",
   "channels": [
     {
       "key": "original",
@@ -28,8 +28,16 @@
       "last_success_at": "2026-11-01T22:02:06Z"
     }
   ],
-  "owner_confirmed_added": 6,
+  "owner_confirmed_added": 7,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HTFpN2y0w-Q",
+      "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
+      "published": "2026-11-02T01:05:08Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "IxM6zotvdeA",
       "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
       "published": "2026-10-28T19:28:59Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "aSfS04t4GQU",
-      "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
-      "published": "2026-10-28T16:27:21Z",
       "source": "owner_confirmed_public"
     },
     {

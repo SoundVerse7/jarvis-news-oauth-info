@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-01T22:02:05Z",
+  "updated_at": "2026-11-02T01:05:20Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HTFpN2y0w-Q",
+      "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
+      "published": "2026-11-02T01:05:08Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
