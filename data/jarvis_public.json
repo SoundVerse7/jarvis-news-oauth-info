@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T17:44:14Z",
+  "updated_at": "2026-11-03T20:29:58Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "gMvm2WiE3ZQ",
+      "title": "Americans Vote in Key Midterms Set to Upend Trump Presidency",
+      "published": "2026-11-03T20:29:48Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "9b3cWNlkp6Y",
       "title": "92-year-old US judge handling Maduro case dies - what we know",
       "published": "2026-10-28T21:03:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "IxM6zotvdeA",
-      "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
-      "published": "2026-10-28T19:28:59Z",
       "source": "owner_confirmed_public"
     }
   ]
