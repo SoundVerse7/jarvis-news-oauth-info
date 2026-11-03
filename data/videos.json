@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T01:37:22Z",
+  "updated_at": "2026-11-03T09:38:23Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-02T20:34:17Z"
+      "last_success_at": "2026-11-03T09:38:23Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-02T20:34:17Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-03T09:38:23Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "TxNn8qtXt-M",
       "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
-      "published": "2026-11-02T20:34:05Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-02T20:34:34Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "2KIynvSa1qk",
       "title": "War & Conflict Briefing Oct 31: US approves sale of 500 Patriot…",
-      "published": "2026-11-01T00:27:56Z"
+      "published": "2026-11-01T00:27:36Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
