@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T14:25:06Z",
+  "updated_at": "2026-11-03T16:05:44Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "JP6x4oH8mBA",
+      "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
+      "published": "2026-11-03T16:05:33Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "aSfS04t4GQU",
       "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
       "published": "2026-10-28T16:27:21Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "J4ymyOkXUFo",
-      "title": "Why it matters: Ocean’s ability to absorb carbon is weakening",
-      "published": "2026-10-28T14:55:07Z",
       "source": "owner_confirmed_public"
     }
   ]

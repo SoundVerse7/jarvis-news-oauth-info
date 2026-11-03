@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:25:06Z",
+  "updated_at": "2026-11-03T16:05:44Z",
   "sources": [
     {
       "source": "UN News",
@@ -29,6 +29,14 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-03T14:00:00Z"
+    },
+    {
+      "id": "61453d1afcd1ad7f",
+      "title": "Opening Statement before the House of Commons Standing Committee on Finance",
+      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-house-commons-standing-committee-finance-2026-11-03/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-03T11:00:54Z"
     },
     {
       "id": "88dffe9343b8abb7",
@@ -253,14 +261,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-28T10:30:43Z"
-    },
-    {
-      "id": "df496099d22cf769",
-      "title": "Bank of Canada raises the policy rate by 25 basis points to 2½%",
-      "url": "https://www.bankofcanada.ca/2026/10/fad-press-release-2026-10-28/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-28T09:47:20Z"
     },
     {
       "id": "11274263ec4ec7aa",

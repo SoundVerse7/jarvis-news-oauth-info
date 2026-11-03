@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T14:25:07Z",
+  "updated_at": "2026-11-03T16:05:44Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-03T14:25:07Z"
+      "last_success_at": "2026-11-03T16:05:44Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-03T14:25:07Z"
+      "last_success_at": "2026-11-03T16:05:44Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "JP6x4oH8mBA",
+      "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
+      "published": "2026-11-03T16:05:41Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "wy5Sx2D8Xuw",
       "title": "Air-raid alerts and attacks on schools: the… | War & Conflict Briefing",
-      "published": "2026-11-03T14:24:52Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-03T14:25:09Z"
     },
     {
       "channel": "news",
@@ -113,14 +119,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HcLAZqggHVQ",
       "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
-      "published": "2026-11-01T17:22:55Z"
+      "published": "2026-11-01T17:22:24Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "esZBQe9gFo8",
       "title": "Why it matters: Bolivia declares state of emergency",
-      "published": "2026-11-01T14:16:01Z"
+      "published": "2026-11-01T14:15:40Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "HtGxJ8uA68c",
       "title": "NEW: US approves sale of 500 Patriot missiles to Ukraine",
       "published": "2026-10-31T11:10:36Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "pN1ZceeMgOU",
-      "title": "Trump predicts Iran war will end soon | War & Conflict Briefing",
-      "published": "2026-10-31T01:53:33Z",
       "source": "owner_confirmed_public"
     },
     {
