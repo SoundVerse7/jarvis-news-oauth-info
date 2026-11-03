@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T16:05:44Z",
+  "updated_at": "2026-11-03T17:44:14Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "6cQ8uz14wUU",
+      "title": "Trump to Remove Rwanda and South Africa from US Trade Deal",
+      "published": "2026-11-03T17:43:55Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "IxM6zotvdeA",
       "title": "NEW: Trump rolls back methane rules for US oil and gas industry",
       "published": "2026-10-28T19:28:59Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "aSfS04t4GQU",
-      "title": "FBI agents raid billionaire's mansion in Eric… | U.S. Politics…",
-      "published": "2026-10-28T16:27:21Z",
       "source": "owner_confirmed_public"
     }
   ]
