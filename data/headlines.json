@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-11-03T12:16:26Z",
+  "updated_at": "2026-11-03T14:25:06Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
@@ -19,10 +18,18 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 3
+      "recent_headlines": 4
     }
   ],
   "items": [
+    {
+      "id": "526cec034ccb484b",
+      "title": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-03T14:00:00Z"
+    },
     {
       "id": "88dffe9343b8abb7",
       "title": "Parliamentary Appearance by the Governor and the Senior Deputy Governor of the Bank of Canada",
