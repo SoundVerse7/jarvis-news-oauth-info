@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:38:23Z",
+  "updated_at": "2026-11-03T12:16:27Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-03T09:38:23Z"
+      "last_success_at": "2026-11-03T12:16:27Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-03T09:38:23Z"
+      "last_success_at": "2026-11-03T12:16:27Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "av-KoPbusDQ",
+      "title": "Trump asks Supreme Court to intervene in California ballot case",
+      "published": "2026-11-03T12:16:24Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "fY_b9iAG_mE",
       "title": "Tusk defends overhaul of Poland’s constitutional court despite…",
-      "published": "2026-11-01T12:05:40Z"
+      "published": "2026-11-01T12:05:28Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "FNb6k4ZjYlI",
       "title": "Oman rescues 25 from burning oil tanker in Strait… | World News…",
       "published": "2026-10-31T00:19:20Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "JnVAt-kX1PA",
-      "title": "ECB head Lagarde resigns amid mounting economic | World News Briefing",
-      "published": "2026-10-29T19:35:13Z",
       "source": "owner_confirmed_public"
     },
     {

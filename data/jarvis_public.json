@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-02T20:34:17Z",
+  "updated_at": "2026-11-03T12:16:26Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "av-KoPbusDQ",
+      "title": "Trump asks Supreme Court to intervene in California ballot case",
+      "published": "2026-11-03T12:16:14Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "B-JQVsjX-YU",
       "title": "BREAKING: Injuries reported after two trains collide in Spain",
       "published": "2026-10-28T13:03:30Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "YbbS-j0gTWM",
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "published": "2026-10-28T11:25:49Z",
       "source": "owner_confirmed_public"
     }
   ]

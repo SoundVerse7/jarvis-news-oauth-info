@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T09:38:23Z",
+  "updated_at": "2026-11-03T12:16:26Z",
   "sources": [
     {
       "source": "UN News",
@@ -14,7 +14,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 8
+      "recent_headlines": 9
     },
     {
       "source": "U.S. EIA",
@@ -23,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "88dffe9343b8abb7",
+      "title": "Parliamentary Appearance by the Governor and the Senior Deputy Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/11/parliamentary-appearance-governor-senior-deputy-governor-2026-11-3/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-03T11:00:36Z"
+    },
     {
       "id": "3e6e2af59bd0af6e",
       "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
