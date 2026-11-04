@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:57:20Z",
+  "updated_at": "2026-11-04T15:28:29Z",
   "channels": [
     {
       "key": "original",
@@ -18,25 +18,38 @@
     {
       "channel": "original",
       "status": "ok",
-      "videos": 6,
-      "last_success_at": "2026-11-04T12:57:20Z"
+      "videos": 7,
+      "last_success_at": "2026-11-04T15:28:29Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T12:57:20Z"
+      "last_success_at": "2026-11-04T15:28:29Z"
     }
   ],
-  "owner_confirmed_added": 10,
+  "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "LuJQUsCS95c",
+      "title": "Breaking: What Consequences for Israel",
+      "published": "2026-11-04T15:01:29Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "isKA6HQbdos",
+      "title": "Trump Attacks Norway, Israel in Chaos — And You Know What’s Next?",
+      "published": "2026-11-04T14:47:21Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "CypS9zcgLK4",
       "title": "Why It Matters: Democrats’ Blue Wave and a Bad Night for Trump: Key…",
-      "published": "2026-11-04T12:57:01Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-04T12:57:23Z"
     },
     {
       "channel": "news",
@@ -113,14 +126,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "8Q44neubCXE",
       "title": "NEW: Sen. Chris Murphy hospitalized following stroke",
-      "published": "2026-11-02T14:20:37Z"
+      "published": "2026-11-02T14:20:27Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "dWN90g_7CVU",
       "title": "BREAKING: Plane carrying 9 people crashes in Florida neighbourhood",
-      "published": "2026-11-02T12:12:16Z"
+      "published": "2026-11-02T12:12:06Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +183,6 @@
       "video_id": "fY_b9iAG_mE",
       "title": "Tusk defends overhaul of Poland’s constitutional court despite…",
       "published": "2026-11-01T12:05:28Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "2KIynvSa1qk",
-      "title": "War & Conflict Briefing Oct 31: US approves sale of 500 Patriot…",
-      "published": "2026-11-01T00:27:36Z",
       "source": "owner_confirmed_public"
     },
     {
