@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:19:51Z",
+  "updated_at": "2026-11-04T17:06:59Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-04T16:19:51Z"
+      "last_success_at": "2026-11-04T17:06:59Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T16:19:51Z"
+      "last_success_at": "2026-11-04T17:06:59Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fEZA2pqxUHk",
+      "title": "Breaking: Trump Blamed Fox News for Republican Losses Even",
+      "published": "2026-11-04T16:22:14Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "vvXmXkhKKag",
       "title": "BREAKING: Cyberattack hits Belgian supermarket fridges and freezers",
-      "published": "2026-11-02T15:52:26Z"
+      "published": "2026-11-02T15:52:21Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "esZBQe9gFo8",
       "title": "Why it matters: Bolivia declares state of emergency",
       "published": "2026-11-01T14:15:40Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fY_b9iAG_mE",
-      "title": "Tusk defends overhaul of Poland’s constitutional court despite…",
-      "published": "2026-11-01T12:05:28Z",
       "source": "owner_confirmed_public"
     },
     {
