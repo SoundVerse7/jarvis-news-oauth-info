@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T06:32:34Z",
+  "updated_at": "2026-11-04T11:32:20Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-03T20:29:58Z"
+      "last_success_at": "2026-11-04T11:32:20Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-03T20:29:58Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-04T11:32:20Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "EyDWaQk-xY0",
+      "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
+      "published": "2026-11-04T11:32:00Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "gMvm2WiE3ZQ",
       "title": "Americans Vote in Key Midterms Set to Upend Trump Presidency",
-      "published": "2026-11-03T20:29:48Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-03T20:30:00Z"
     },
     {
       "channel": "news",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "Wwu2f8QV--8",
       "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
-      "published": "2026-11-01T22:02:07Z"
+      "published": "2026-11-01T22:01:55Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "dFSDqG8rRv8",
       "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
       "published": "2026-10-31T19:09:42Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "AKBwE8mtySY",
-      "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
-      "published": "2026-10-31T16:02:22Z",
       "source": "owner_confirmed_public"
     },
     {

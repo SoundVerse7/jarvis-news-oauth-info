@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-03T20:29:58Z",
+  "updated_at": "2026-11-04T11:32:19Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "EyDWaQk-xY0",
+      "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
+      "published": "2026-11-04T11:32:00Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "sRpcih4qGZA",
       "title": "FBI agents raid billionaire's mansion in Eric Swalwell investigation",
       "published": "2026-10-29T11:19:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "9b3cWNlkp6Y",
-      "title": "92-year-old US judge handling Maduro case dies - what we know",
-      "published": "2026-10-28T21:03:00Z",
       "source": "owner_confirmed_public"
     }
   ]
