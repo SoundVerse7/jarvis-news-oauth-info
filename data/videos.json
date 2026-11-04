@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T18:42:55Z",
+  "updated_at": "2026-11-04T19:47:23Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-04T18:42:55Z"
+      "last_success_at": "2026-11-04T19:47:23Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T18:42:55Z"
+      "last_success_at": "2026-11-04T19:47:23Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "V1M1zS62YBo",
+      "title": "Mike Johnson Won't Seek New Term as House GOP Leader",
+      "published": "2026-11-04T19:43:56Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "TxNn8qtXt-M",
       "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
-      "published": "2026-11-02T20:34:34Z"
+      "published": "2026-11-02T20:34:05Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "Wwu2f8QV--8",
       "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
       "published": "2026-11-01T22:01:55Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ZvV6ScS971Q",
-      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-      "published": "2026-11-01T20:28:28Z",
       "source": "owner_confirmed_public"
     },
     {
