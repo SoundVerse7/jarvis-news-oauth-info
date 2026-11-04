@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T15:28:29Z",
+  "updated_at": "2026-11-04T16:19:51Z",
   "channels": [
     {
       "key": "original",
@@ -19,16 +19,16 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-04T15:28:29Z"
+      "last_success_at": "2026-11-04T16:19:51Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T15:28:29Z"
+      "last_success_at": "2026-11-04T16:19:51Z"
     }
   ],
-  "owner_confirmed_added": 11,
+  "owner_confirmed_added": 10,
   "items": [
     {
       "channel": "news",

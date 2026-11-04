@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T12:57:19Z",
+  "updated_at": "2026-11-04T16:19:51Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "LuJQUsCS95c",
+      "title": "Breaking: What Consequences for Israel",
+      "published": "2026-11-04T15:00:53Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "-giX78nIkW0",
       "title": "NEW: Putin calls Elon Musk a 'genius'",
       "published": "2026-10-29T16:28:43Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "0ojwf8oE5E4",
-      "title": "ECB head Lagarde resigns amid mounting economic | Economy Briefing",
-      "published": "2026-10-29T13:27:18Z",
       "source": "owner_confirmed_public"
     }
   ]
