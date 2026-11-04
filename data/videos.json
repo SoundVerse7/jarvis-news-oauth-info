@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T21:55:26Z",
+  "updated_at": "2026-11-04T22:22:50Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-04T21:55:26Z"
+      "last_success_at": "2026-11-04T22:22:50Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T21:55:26Z"
+      "last_success_at": "2026-11-04T22:22:50Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HfgT6Ma_zNU",
+      "title": "NEW: Trump Loses Control of Congress",
+      "published": "2026-11-04T22:19:01Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "wy5Sx2D8Xuw",
       "title": "Air-raid alerts and attacks on schools: the… | War & Conflict Briefing",
-      "published": "2026-11-03T14:25:09Z"
+      "published": "2026-11-03T14:24:52Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "dWN90g_7CVU",
       "title": "BREAKING: Plane carrying 9 people crashes in Florida neighbourhood",
       "published": "2026-11-02T12:12:06Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "HTFpN2y0w-Q",
-      "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
-      "published": "2026-11-02T01:05:08Z",
       "source": "owner_confirmed_public"
     },
     {
