@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T11:32:20Z",
+  "updated_at": "2026-11-04T12:57:20Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 6,
-      "last_success_at": "2026-11-04T11:32:20Z"
+      "last_success_at": "2026-11-04T12:57:20Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T11:32:20Z"
+      "last_success_at": "2026-11-04T12:57:20Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,10 +33,17 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "CypS9zcgLK4",
+      "title": "Why It Matters: Democrats’ Blue Wave and a Bad Night for Trump: Key…",
+      "published": "2026-11-04T12:57:01Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "EyDWaQk-xY0",
       "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
-      "published": "2026-11-04T11:32:00Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-04T11:32:29Z"
     },
     {
       "channel": "news",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HTFpN2y0w-Q",
       "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
-      "published": "2026-11-02T01:05:27Z"
+      "published": "2026-11-02T01:05:08Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "2KIynvSa1qk",
       "title": "War & Conflict Briefing Oct 31: US approves sale of 500 Patriot…",
       "published": "2026-11-01T00:27:36Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "dFSDqG8rRv8",
-      "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
-      "published": "2026-10-31T19:09:42Z",
       "source": "owner_confirmed_public"
     },
     {
