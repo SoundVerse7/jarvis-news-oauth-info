@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T22:22:49Z",
+  "updated_at": "2026-11-04T23:53:56Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "4kMRnRW8MvE",
+      "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
+      "published": "2026-11-04T23:23:24Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "AKBwE8mtySY",
       "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
       "published": "2026-10-31T16:02:22Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "6yOtmTESzpE",
-      "title": "NEW: US midterms: Pope Leo XIV casts vote by mail",
-      "published": "2026-10-31T13:27:26Z",
       "source": "owner_confirmed_public"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:22:50Z",
+  "updated_at": "2026-11-04T23:53:57Z",
   "channels": [
     {
       "key": "original",
@@ -17,19 +17,27 @@
   "status": [
     {
       "channel": "original",
-      "status": "ok",
+      "status": "unavailable",
       "videos": 7,
       "last_success_at": "2026-11-04T22:22:50Z"
     },
     {
       "channel": "news",
-      "status": "ok",
-      "videos": 12,
+      "status": "unavailable",
+      "videos": 20,
       "last_success_at": "2026-11-04T22:22:50Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "4kMRnRW8MvE",
+      "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
+      "published": "2026-11-04T23:23:24Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -175,14 +183,6 @@
       "video_id": "8Q44neubCXE",
       "title": "NEW: Sen. Chris Murphy hospitalized following stroke",
       "published": "2026-11-02T14:20:27Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "dWN90g_7CVU",
-      "title": "BREAKING: Plane carrying 9 people crashes in Florida neighbourhood",
-      "published": "2026-11-02T12:12:06Z",
       "source": "owner_confirmed_public"
     },
     {
