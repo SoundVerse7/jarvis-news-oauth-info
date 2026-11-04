@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T19:47:23Z",
+  "updated_at": "2026-11-04T21:17:58Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-04T19:47:23Z"
+      "last_success_at": "2026-11-04T21:17:58Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-04T19:47:23Z"
+      "last_success_at": "2026-11-04T21:17:58Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "OmBFnEzlaRI",
+      "title": "U.S., Colombia Launch Joint Exercise to Strengthen… | War & Conflict…",
+      "published": "2026-11-04T21:17:40Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "av-KoPbusDQ",
       "title": "Trump asks Supreme Court to intervene in California ballot case",
-      "published": "2026-11-03T12:16:24Z"
+      "published": "2026-11-03T12:16:14Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "HTFpN2y0w-Q",
       "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
       "published": "2026-11-02T01:05:08Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Wwu2f8QV--8",
-      "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
-      "published": "2026-11-01T22:01:55Z",
       "source": "owner_confirmed_public"
     },
     {
