@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:35:10Z",
+  "updated_at": "2026-11-05T13:10:27Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 8,
-      "last_success_at": "2026-11-05T11:35:10Z"
+      "last_success_at": "2026-11-05T13:10:27Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-05T11:35:10Z"
+      "last_success_at": "2026-11-05T13:10:27Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "UDY2wWfHcRg",
+      "title": "Breaking: Trump Says War Caused Election Wipeout But He ‘Had to Do It’",
+      "published": "2026-11-05T13:05:53Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "fEZA2pqxUHk",
       "title": "Breaking: Trump Blamed Fox News for Republican Losses Even",
-      "published": "2026-11-04T16:22:14Z"
+      "published": "2026-11-04T16:21:50Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -182,14 +190,6 @@
       "video_id": "wy5Sx2D8Xuw",
       "title": "Air-raid alerts and attacks on schools: the… | War & Conflict Briefing",
       "published": "2026-11-03T14:24:52Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "av-KoPbusDQ",
-      "title": "Trump asks Supreme Court to intervene in California ballot case",
-      "published": "2026-11-03T12:16:14Z",
       "source": "owner_confirmed_public"
     },
     {
