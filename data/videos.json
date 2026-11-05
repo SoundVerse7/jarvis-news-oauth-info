@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T02:30:17Z",
+  "updated_at": "2026-11-05T02:38:45Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "oqKTZcIUrH4",
+      "title": "Trump and Republicans Trampled in the Midterms",
+      "published": "2026-11-05T02:34:00Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -175,14 +183,6 @@
       "video_id": "q-lZ0srvw94",
       "title": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
       "published": "2026-11-02T18:57:18Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "g3JmIsp7mqs",
-      "title": "Trump invites Michigan Democrat Stevens to join… | World News Briefing",
-      "published": "2026-11-02T17:26:12Z",
       "source": "owner_confirmed_public"
     },
     {

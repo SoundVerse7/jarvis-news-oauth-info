@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T01:31:04Z",
+  "updated_at": "2026-11-05T02:38:45Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "oqKTZcIUrH4",
+      "title": "Trump and Republicans Trampled in the Midterms",
+      "published": "2026-11-05T02:34:00Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "fY_b9iAG_mE",
       "title": "Tusk defends overhaul of Poland’s constitutional court despite…",
       "published": "2026-11-01T12:05:28Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "2KIynvSa1qk",
-      "title": "War & Conflict Briefing Oct 31: US approves sale of 500 Patriot…",
-      "published": "2026-11-01T00:27:36Z",
       "source": "owner_confirmed_public"
     }
   ]
