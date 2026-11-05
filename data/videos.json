@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T11:01:43Z",
+  "updated_at": "2026-11-05T11:35:10Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 8,
-      "last_success_at": "2026-11-05T11:01:43Z"
+      "last_success_at": "2026-11-05T11:35:10Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-05T11:01:43Z"
+      "last_success_at": "2026-11-05T11:35:10Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fWOG1idYuiE",
+      "title": "Dublin-Rome Flight Lands in France Amid Bomb Threat",
+      "published": "2026-11-05T11:19:44Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "LuJQUsCS95c",
       "title": "Breaking: What Consequences for Israel",
-      "published": "2026-11-04T15:01:29Z"
+      "published": "2026-11-04T15:00:53Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "original",
@@ -182,14 +190,6 @@
       "video_id": "av-KoPbusDQ",
       "title": "Trump asks Supreme Court to intervene in California ballot case",
       "published": "2026-11-03T12:16:14Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "TxNn8qtXt-M",
-      "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
-      "published": "2026-11-02T20:34:05Z",
       "source": "owner_confirmed_public"
     },
     {
