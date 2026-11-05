@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T00:25:24Z",
+  "updated_at": "2026-11-05T01:31:04Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "I7Pf8CTkpyY",
+      "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
+      "published": "2026-11-05T01:26:01Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "2KIynvSa1qk",
       "title": "War & Conflict Briefing Oct 31: US approves sale of 500 Patriot…",
       "published": "2026-11-01T00:27:36Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "dFSDqG8rRv8",
-      "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
-      "published": "2026-10-31T19:09:42Z",
       "source": "owner_confirmed_public"
     }
   ]
