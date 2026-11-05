@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T02:38:45Z",
+  "updated_at": "2026-11-05T04:29:11Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "mSLkL1CiM8g",
+      "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
+      "published": "2026-11-05T04:26:04Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -175,14 +183,6 @@
       "video_id": "TxNn8qtXt-M",
       "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
       "published": "2026-11-02T20:34:05Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "q-lZ0srvw94",
-      "title": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
-      "published": "2026-11-02T18:57:18Z",
       "source": "owner_confirmed_public"
     },
     {
