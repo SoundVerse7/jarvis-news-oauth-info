@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T13:10:27Z",
+  "updated_at": "2026-11-05T18:26:16Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 8,
-      "last_success_at": "2026-11-05T13:10:27Z"
+      "last_success_at": "2026-11-05T18:26:16Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-05T13:10:27Z"
+      "last_success_at": "2026-11-05T18:26:16Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7O41NQJOyhc",
+      "title": "Harmeet Dhillon, Doj's Controversial Civil Rights Chief",
+      "published": "2026-11-05T18:25:58Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "3n8xCdKMCtU",
       "title": "Americans Have Said 'NO TO WAR and 7 More Stories",
-      "published": "2026-11-04T17:39:11Z"
+      "published": "2026-11-04T17:38:10Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -182,14 +190,6 @@
       "video_id": "JP6x4oH8mBA",
       "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
       "published": "2026-11-03T16:05:33Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "wy5Sx2D8Xuw",
-      "title": "Air-raid alerts and attacks on schools: the… | War & Conflict Briefing",
-      "published": "2026-11-03T14:24:52Z",
       "source": "owner_confirmed_public"
     },
     {

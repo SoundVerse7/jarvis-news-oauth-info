@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T13:10:26Z",
+  "updated_at": "2026-11-05T18:26:15Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7O41NQJOyhc",
+      "title": "Harmeet Dhillon, Doj's Controversial Civil Rights Chief",
+      "published": "2026-11-05T18:25:37Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Wwu2f8QV--8",
       "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
       "published": "2026-11-01T22:01:55Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ZvV6ScS971Q",
-      "title": "Evacuees of Russian-occupied Oleshky reunited with families",
-      "published": "2026-11-01T20:28:28Z",
       "source": "owner_confirmed_public"
     }
   ]

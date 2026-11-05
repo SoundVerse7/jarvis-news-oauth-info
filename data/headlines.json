@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T13:10:26Z",
+  "updated_at": "2026-11-05T18:26:15Z",
   "sources": [
     {
       "source": "UN News",
@@ -8,12 +8,12 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 2
+      "recent_headlines": 3
     },
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 10
+      "recent_headlines": 9
     },
     {
       "source": "U.S. EIA",
@@ -22,6 +22,30 @@
     }
   ],
   "items": [
+    {
+      "id": "2993c3bddd49024d",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-05T16:00:00Z"
+    },
+    {
+      "id": "3993941242fcf8c5",
+      "title": "Refineries have shifted production away from gasoline to middle distillates",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "689d39f509855d99",
+      "title": "Opening Statement to the Standing Senate Committee on Banking, Commerce and the Economy",
+      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-standing-senate-committee-banking-commerce-and-economy-2026-11-05/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-05T10:30:59Z"
+    },
     {
       "id": "a7a69cad71d695af",
       "title": "Parliamentary Appearance by the Governor and the Senior Deputy Governor of the Bank of Canada",
@@ -253,30 +277,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-28T13:30:22Z"
-    },
-    {
-      "id": "be4112c87d18217d",
-      "title": "Bank of Canada Media Interview – Radio-Canada",
-      "url": "https://www.bankofcanada.ca/2026/10/bank-canada-media-interview-radio-canada-2026-10-28/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-28T11:45:24Z"
-    },
-    {
-      "id": "1bde56e26416aadf",
-      "title": "Press Conference: Monetary Policy Report – October 2026",
-      "url": "https://www.bankofcanada.ca/multimedia/press-conference-monetary-policy-report-october-2026/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-28T10:30:43Z"
-    },
-    {
-      "id": "11274263ec4ec7aa",
-      "title": "U.S. refineries have been running at very high rates in 2026",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-10-22T14:00:00Z"
     }
   ]
 }
