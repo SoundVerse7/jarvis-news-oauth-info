@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T04:29:11Z",
+  "updated_at": "2026-11-05T11:01:43Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
-      "videos": 7,
-      "last_success_at": "2026-11-04T22:22:50Z"
+      "status": "ok",
+      "videos": 8,
+      "last_success_at": "2026-11-05T11:01:43Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-04T22:22:50Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-05T11:01:43Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -35,40 +35,42 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mSLkL1CiM8g",
       "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
-      "published": "2026-11-05T04:26:04Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-05T04:26:20Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "L7mWZ8azZAg",
+      "title": "Trump Attacks Norway, Israel in Chaos & LET THE GAME BEGIN!",
+      "published": "2026-11-05T02:35:16Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "oqKTZcIUrH4",
       "title": "Trump and Republicans Trampled in the Midterms",
-      "published": "2026-11-05T02:34:00Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-05T02:34:30Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "I7Pf8CTkpyY",
       "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
-      "published": "2026-11-05T01:26:01Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-05T01:26:14Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "ojjmYfRrsQk",
       "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
-      "published": "2026-11-05T00:25:11Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-05T00:25:52Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "4kMRnRW8MvE",
       "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
-      "published": "2026-11-04T23:23:24Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-04T23:23:45Z"
     },
     {
       "channel": "news",
@@ -131,35 +133,40 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "CypS9zcgLK4",
       "title": "Why It Matters: Democrats’ Blue Wave and a Bad Night for Trump: Key…",
-      "published": "2026-11-04T12:57:23Z"
+      "published": "2026-11-04T12:57:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "EyDWaQk-xY0",
       "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
-      "published": "2026-11-04T11:32:29Z"
+      "published": "2026-11-04T11:32:00Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "gMvm2WiE3ZQ",
       "title": "Americans Vote in Key Midterms Set to Upend Trump Presidency",
-      "published": "2026-11-03T20:30:00Z"
+      "published": "2026-11-03T20:29:48Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "6cQ8uz14wUU",
       "title": "Trump to Remove Rwanda and South Africa from US Trade Deal",
-      "published": "2026-11-03T17:44:11Z"
+      "published": "2026-11-03T17:43:55Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "JP6x4oH8mBA",
       "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
-      "published": "2026-11-03T16:05:41Z"
+      "published": "2026-11-03T16:05:33Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",

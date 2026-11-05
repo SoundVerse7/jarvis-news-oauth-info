@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T04:29:11Z",
+  "updated_at": "2026-11-05T11:01:42Z",
   "sources": [
     {
       "source": "UN News",
@@ -13,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 10
     },
     {
       "source": "U.S. EIA",
@@ -22,6 +22,14 @@
     }
   ],
   "items": [
+    {
+      "id": "a7a69cad71d695af",
+      "title": "Parliamentary Appearance by the Governor and the Senior Deputy Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/11/parliamentary-appearance-governor-senior-deputy-governor-bank-canada-2026-11-5/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-05T10:30:36Z"
+    },
     {
       "id": "911c5f3ce42449c7",
       "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
