@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-05T18:26:15Z",
+  "updated_at": "2026-11-05T18:47:22Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -37,6 +38,22 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "05801dfef83d1073",
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-05T12:00:00Z"
+    },
+    {
+      "id": "6c13159755ee6c82",
+      "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-05T12:00:00Z"
     },
     {
       "id": "689d39f509855d99",
@@ -186,22 +203,6 @@
       "id": "3e6e2af59bd0af6e",
       "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-02T12:00:00Z"
-    },
-    {
-      "id": "e30cb372c956e69d",
-      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-02T12:00:00Z"
-    },
-    {
-      "id": "5d5425854bdd6cc3",
-      "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168720",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-02T12:00:00Z"
