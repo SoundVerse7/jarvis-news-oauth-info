@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T23:53:56Z",
+  "updated_at": "2026-11-05T00:25:24Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ojjmYfRrsQk",
+      "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
+      "published": "2026-11-05T00:25:11Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "dFSDqG8rRv8",
       "title": "Virginia and D.C. sue over Trump's planned arch | World News Briefing",
       "published": "2026-10-31T19:09:42Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "AKBwE8mtySY",
-      "title": "ICE officer charged in Texas after allegedly hitting man with vehicle",
-      "published": "2026-10-31T16:02:22Z",
       "source": "owner_confirmed_public"
     }
   ]

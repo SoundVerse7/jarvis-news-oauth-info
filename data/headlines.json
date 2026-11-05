@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-04T23:53:56Z",
+  "updated_at": "2026-11-05T00:25:25Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,46 @@
     }
   ],
   "items": [
+    {
+      "id": "911c5f3ce42449c7",
+      "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "db7dbda9adf3f15c",
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "1e99467fc8a5e647",
+      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "d0e9fa9d3810ce37",
+      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-04T12:00:00Z"
+    },
+    {
+      "id": "bcc09b5f0dfe991b",
+      "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168736",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-04T12:00:00Z"
+    },
     {
       "id": "058e70e47725fd93",
       "title": "Afghan children face narrowing path to education, UN agencies report",
@@ -133,46 +174,6 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-11-02T12:00:00Z"
-    },
-    {
-      "id": "7a4ba80d8fdfae0b",
-      "title": "Six in seven journalist murders go unpunished, UNESCO reports",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168719",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-02T12:00:00Z"
-    },
-    {
-      "id": "2108fd36b3419221",
-      "title": "Breaking the silence in Mexico’s barracks",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-01T12:00:00Z"
-    },
-    {
-      "id": "102c0e55a093663d",
-      "title": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168718",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-01T12:00:00Z"
-    },
-    {
-      "id": "992c479e797e41cd",
-      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168717",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-01T12:00:00Z"
-    },
-    {
-      "id": "1453bce6b86187d8",
-      "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168716",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-10-31T12:00:00Z"
     },
     {
       "id": "a3882203fc769380",

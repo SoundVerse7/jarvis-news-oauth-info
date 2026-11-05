@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T23:53:57Z",
+  "updated_at": "2026-11-05T00:25:25Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ojjmYfRrsQk",
+      "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
+      "published": "2026-11-05T00:25:11Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -175,14 +183,6 @@
       "video_id": "vvXmXkhKKag",
       "title": "BREAKING: Cyberattack hits Belgian supermarket fridges and freezers",
       "published": "2026-11-02T15:52:21Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "8Q44neubCXE",
-      "title": "NEW: Sen. Chris Murphy hospitalized following stroke",
-      "published": "2026-11-02T14:20:27Z",
       "source": "owner_confirmed_public"
     },
     {
