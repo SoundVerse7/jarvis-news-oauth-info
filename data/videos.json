@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T07:57:27Z",
+  "updated_at": "2026-11-06T11:03:31Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
-      "videos": 8,
-      "last_success_at": "2026-11-05T18:47:22Z"
+      "status": "ok",
+      "videos": 7,
+      "last_success_at": "2026-11-06T11:03:31Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-06T00:20:53Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-06T11:03:31Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,26 +33,30 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ZM3pctzWhwE",
+      "title": "Breaking: Trump Declares His Redesigned Oval Office a National Monument",
+      "published": "2026-11-06T11:01:26Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "KOiy-enOnZw",
       "title": "Why It Matters: Marco Rubio Denies Plans to Resign",
-      "published": "2026-11-06T02:55:17Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-06T02:56:08Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "oojWq0huS-I",
       "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
-      "published": "2026-11-06T01:43:09Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-06T01:43:43Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "sQe8LpIdPBQ",
       "title": "Top US Civil Rights Official Resigns | Economy Briefing",
-      "published": "2026-11-06T00:43:50Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-06T00:44:36Z"
     },
     {
       "channel": "news",
@@ -122,28 +126,32 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HfgT6Ma_zNU",
       "title": "NEW: Trump Loses Control of Congress",
-      "published": "2026-11-04T22:19:01Z"
+      "published": "2026-11-04T22:18:29Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "OmBFnEzlaRI",
       "title": "U.S., Colombia Launch Joint Exercise to Strengthen… | War & Conflict…",
-      "published": "2026-11-04T21:17:40Z"
+      "published": "2026-11-04T21:16:40Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "V1M1zS62YBo",
       "title": "Mike Johnson Won't Seek New Term as House GOP Leader",
-      "published": "2026-11-04T19:43:56Z"
+      "published": "2026-11-04T19:43:30Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "7Br4KLAltME",
       "title": "Iranian Leaders Welcome US Midterms, But Trump May Still Attack",
-      "published": "2026-11-04T18:39:39Z"
+      "published": "2026-11-04T18:39:06Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -170,26 +178,11 @@
       "source": "owner_confirmed_public"
     },
     {
-      "channel": "original",
-      "channel_name": "PUBLIC MIND REPORT",
-      "video_id": "isKA6HQbdos",
-      "title": "Trump Attacks Norway, Israel in Chaos — And You Know What’s Next?",
-      "published": "2026-11-04T14:47:21Z"
-    },
-    {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "CypS9zcgLK4",
       "title": "Why It Matters: Democrats’ Blue Wave and a Bad Night for Trump: Key…",
       "published": "2026-11-04T12:57:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "EyDWaQk-xY0",
-      "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
-      "published": "2026-11-04T11:32:00Z",
       "source": "owner_confirmed_public"
     },
     {
