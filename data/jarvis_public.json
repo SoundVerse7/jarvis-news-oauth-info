@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T11:03:31Z",
+  "updated_at": "2026-11-06T12:55:43Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Qm6AITj9jL0",
+      "title": "NEW: Trump's Lawyers to Argue Appeal in \"Hush Money\" Case",
+      "published": "2026-11-06T12:19:46Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "g3JmIsp7mqs",
       "title": "Trump invites Michigan Democrat Stevens to join… | World News Briefing",
       "published": "2026-11-02T17:26:12Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "vvXmXkhKKag",
-      "title": "BREAKING: Cyberattack hits Belgian supermarket fridges and freezers",
-      "published": "2026-11-02T15:52:21Z",
       "source": "owner_confirmed_public"
     }
   ]

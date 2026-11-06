@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:03:31Z",
+  "updated_at": "2026-11-06T12:55:44Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-06T11:03:31Z"
+      "last_success_at": "2026-11-06T12:55:44Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-06T11:03:31Z"
+      "last_success_at": "2026-11-06T12:55:44Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Qm6AITj9jL0",
+      "title": "NEW: Trump's Lawyers to Argue Appeal in \"Hush Money\" Case",
+      "published": "2026-11-06T12:19:54Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "4kMRnRW8MvE",
       "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
-      "published": "2026-11-04T23:23:45Z"
+      "published": "2026-11-04T23:23:24Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "LuJQUsCS95c",
       "title": "Breaking: What Consequences for Israel",
       "published": "2026-11-04T15:00:53Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "CypS9zcgLK4",
-      "title": "Why It Matters: Democrats’ Blue Wave and a Bad Night for Trump: Key…",
-      "published": "2026-11-04T12:57:01Z",
       "source": "owner_confirmed_public"
     },
     {
