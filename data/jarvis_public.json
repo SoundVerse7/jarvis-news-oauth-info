@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T01:50:01Z",
+  "updated_at": "2026-11-06T02:56:22Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "KOiy-enOnZw",
+      "title": "Why It Matters: Marco Rubio Denies Plans to Resign",
+      "published": "2026-11-06T02:55:17Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "8Q44neubCXE",
       "title": "NEW: Sen. Chris Murphy hospitalized following stroke",
       "published": "2026-11-02T14:20:27Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "dWN90g_7CVU",
-      "title": "BREAKING: Plane carrying 9 people crashes in Florida neighbourhood",
-      "published": "2026-11-02T12:12:06Z",
       "source": "owner_confirmed_public"
     }
   ]
