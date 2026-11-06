@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T01:11:46Z",
+  "updated_at": "2026-11-06T01:50:02Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "oojWq0huS-I",
+      "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
+      "published": "2026-11-06T01:43:09Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -182,14 +190,6 @@
       "video_id": "gMvm2WiE3ZQ",
       "title": "Americans Vote in Key Midterms Set to Upend Trump Presidency",
       "published": "2026-11-03T20:29:48Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "6cQ8uz14wUU",
-      "title": "Trump to Remove Rwanda and South Africa from US Trade Deal",
-      "published": "2026-11-03T17:43:55Z",
       "source": "owner_confirmed_public"
     },
     {

@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T01:11:45Z",
+  "updated_at": "2026-11-06T01:50:01Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "oojWq0huS-I",
+      "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
+      "published": "2026-11-06T01:43:09Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "dWN90g_7CVU",
       "title": "BREAKING: Plane carrying 9 people crashes in Florida neighbourhood",
       "published": "2026-11-02T12:12:06Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "HTFpN2y0w-Q",
-      "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
-      "published": "2026-11-02T01:05:08Z",
       "source": "owner_confirmed_public"
     }
   ]
