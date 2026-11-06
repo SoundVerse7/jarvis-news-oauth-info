@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:42:15Z",
+  "updated_at": "2026-11-06T19:50:52Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-06T17:42:15Z"
+      "last_success_at": "2026-11-06T19:50:52Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-06T17:42:15Z"
+      "last_success_at": "2026-11-06T19:50:52Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "AlGfcf-4l0w",
+      "title": "Breaking: Trump Names Stephen Miller as White House Chief of Staff",
+      "published": "2026-11-06T19:49:51Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "oqKTZcIUrH4",
       "title": "Trump and Republicans Trampled in the Midterms",
-      "published": "2026-11-05T02:34:30Z"
+      "published": "2026-11-05T02:34:00Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "7Br4KLAltME",
       "title": "Iranian Leaders Welcome US Midterms, But Trump May Still Attack",
       "published": "2026-11-04T18:39:06Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "3n8xCdKMCtU",
-      "title": "Americans Have Said 'NO TO WAR and 7 More Stories",
-      "published": "2026-11-04T17:38:10Z",
       "source": "owner_confirmed_public"
     },
     {

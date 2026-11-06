@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T17:42:14Z",
+  "updated_at": "2026-11-06T19:50:52Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "AlGfcf-4l0w",
+      "title": "Breaking: Trump Names Stephen Miller as White House Chief of Staff",
+      "published": "2026-11-06T19:49:43Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "av-KoPbusDQ",
       "title": "Trump asks Supreme Court to intervene in California ballot case",
       "published": "2026-11-03T12:16:14Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "TxNn8qtXt-M",
-      "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
-      "published": "2026-11-02T20:34:05Z",
       "source": "owner_confirmed_public"
     }
   ]
