@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T00:20:53Z",
+  "updated_at": "2026-11-06T01:11:46Z",
   "channels": [
     {
       "key": "original",
@@ -23,13 +23,21 @@
     },
     {
       "channel": "news",
-      "status": "ok",
-      "videos": 12,
+      "status": "unavailable",
+      "videos": 20,
       "last_success_at": "2026-11-06T00:20:53Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "sQe8LpIdPBQ",
+      "title": "Top US Civil Rights Official Resigns | Economy Briefing",
+      "published": "2026-11-06T00:43:50Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -182,14 +190,6 @@
       "video_id": "6cQ8uz14wUU",
       "title": "Trump to Remove Rwanda and South Africa from US Trade Deal",
       "published": "2026-11-03T17:43:55Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "JP6x4oH8mBA",
-      "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
-      "published": "2026-11-03T16:05:33Z",
       "source": "owner_confirmed_public"
     },
     {

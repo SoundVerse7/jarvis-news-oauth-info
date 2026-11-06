@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-05T18:26:15Z",
+  "updated_at": "2026-11-06T01:11:45Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "sQe8LpIdPBQ",
+      "title": "Top US Civil Rights Official Resigns | Economy Briefing",
+      "published": "2026-11-06T00:43:50Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "HTFpN2y0w-Q",
       "title": "Thousands join Indian opposition protest | War & Conflict Briefing",
       "published": "2026-11-02T01:05:08Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Wwu2f8QV--8",
-      "title": "Why it matters: Carney signals progress on Canada-US trade deal talks",
-      "published": "2026-11-01T22:01:55Z",
       "source": "owner_confirmed_public"
     }
   ]
