@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:57:52Z",
+  "updated_at": "2026-11-06T17:08:17Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-06T15:57:52Z"
+      "last_success_at": "2026-11-06T17:08:17Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-06T15:57:52Z"
+      "last_success_at": "2026-11-06T17:08:17Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "JVMtyS9zsUg",
+      "title": "Why It Matters: US Attorney Tasked with Leading Probe Into Trump's…",
+      "published": "2026-11-06T16:07:40Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "ojjmYfRrsQk",
       "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
-      "published": "2026-11-05T00:25:52Z"
+      "published": "2026-11-05T00:25:11Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "fEZA2pqxUHk",
       "title": "Breaking: Trump Blamed Fox News for Republican Losses Even",
       "published": "2026-11-04T16:21:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "LuJQUsCS95c",
-      "title": "Breaking: What Consequences for Israel",
-      "published": "2026-11-04T15:00:53Z",
       "source": "owner_confirmed_public"
     },
     {
