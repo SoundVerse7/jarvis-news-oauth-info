@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T12:55:43Z",
+  "updated_at": "2026-11-06T15:57:52Z",
   "sources": [
     {
       "source": "UN News",
@@ -19,10 +19,34 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 4
+      "recent_headlines": 5
     }
   ],
   "items": [
+    {
+      "id": "0300679559154a9d",
+      "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-06T14:00:00Z"
+    },
+    {
+      "id": "bab74e9da2aaeb06",
+      "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-06T12:00:00Z"
+    },
+    {
+      "id": "53bd7fe3f4332b5c",
+      "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-06T12:00:00Z"
+    },
     {
       "id": "6f42778ba9ae2f8b",
       "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
@@ -179,22 +203,6 @@
       "id": "6050d88993248dab",
       "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-03T12:00:00Z"
-    },
-    {
-      "id": "b58fea159839259e",
-      "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168730",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-03T12:00:00Z"
-    },
-    {
-      "id": "0caeba8ab4183dbc",
-      "title": "Gender equality pays off for business – so why are companies pulling back?",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168726",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-03T12:00:00Z"
