@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T17:08:17Z",
+  "updated_at": "2026-11-06T17:42:14Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "CVUHFL_5un8",
+      "title": "Trump Declares His Redesigned Oval Office a… | World News Briefing",
+      "published": "2026-11-06T17:40:11Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "TxNn8qtXt-M",
       "title": "Iran offers deal on Hormuz Strait | War & Conflict Briefing",
       "published": "2026-11-02T20:34:05Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "q-lZ0srvw94",
-      "title": "Case dismissed against 2 ex-FBI officials in Hunter Biden probe",
-      "published": "2026-11-02T18:57:18Z",
       "source": "owner_confirmed_public"
     }
   ]

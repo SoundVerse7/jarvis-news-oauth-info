@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:08:17Z",
+  "updated_at": "2026-11-06T17:42:15Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-06T17:08:17Z"
+      "last_success_at": "2026-11-06T17:42:15Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-06T17:08:17Z"
+      "last_success_at": "2026-11-06T17:42:15Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "CVUHFL_5un8",
+      "title": "Trump Declares His Redesigned Oval Office a… | World News Briefing",
+      "published": "2026-11-06T17:40:46Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "I7Pf8CTkpyY",
       "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
-      "published": "2026-11-05T01:26:14Z"
+      "published": "2026-11-05T01:26:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "3n8xCdKMCtU",
       "title": "Americans Have Said 'NO TO WAR and 7 More Stories",
       "published": "2026-11-04T17:38:10Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fEZA2pqxUHk",
-      "title": "Breaking: Trump Blamed Fox News for Republican Losses Even",
-      "published": "2026-11-04T16:21:50Z",
       "source": "owner_confirmed_public"
     },
     {
