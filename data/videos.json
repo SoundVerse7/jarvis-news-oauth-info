@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T19:50:52Z",
+  "updated_at": "2026-11-06T21:21:54Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-06T19:50:52Z"
+      "last_success_at": "2026-11-06T21:21:54Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-06T19:50:52Z"
+      "last_success_at": "2026-11-06T21:21:54Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "w_rAi8CKsCk",
+      "title": "Millions Fleeing Sudan’S War Risk Losing Shelter and 5 More Stories",
+      "published": "2026-11-06T21:07:18Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mSLkL1CiM8g",
       "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
-      "published": "2026-11-05T04:26:20Z"
+      "published": "2026-11-05T04:26:04Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "original",
@@ -175,14 +183,6 @@
       "video_id": "V1M1zS62YBo",
       "title": "Mike Johnson Won't Seek New Term as House GOP Leader",
       "published": "2026-11-04T19:43:30Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "7Br4KLAltME",
-      "title": "Iranian Leaders Welcome US Midterms, But Trump May Still Attack",
-      "published": "2026-11-04T18:39:06Z",
       "source": "owner_confirmed_public"
     },
     {

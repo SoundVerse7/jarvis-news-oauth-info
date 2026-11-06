@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T19:50:52Z",
+  "updated_at": "2026-11-06T21:21:53Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "w_rAi8CKsCk",
+      "title": "Millions Fleeing Sudan’S War Risk Losing Shelter and 5 More Stories",
+      "published": "2026-11-06T21:06:50Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "wy5Sx2D8Xuw",
       "title": "Air-raid alerts and attacks on schools: the… | War & Conflict Briefing",
       "published": "2026-11-03T14:24:52Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "av-KoPbusDQ",
-      "title": "Trump asks Supreme Court to intervene in California ballot case",
-      "published": "2026-11-03T12:16:14Z",
       "source": "owner_confirmed_public"
     }
   ]
