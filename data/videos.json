@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T01:58:41Z",
+  "updated_at": "2026-11-07T08:51:23Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-06T21:32:53Z"
+      "last_success_at": "2026-11-07T08:51:23Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-06T21:32:53Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-07T08:51:23Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -35,7 +35,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "w_rAi8CKsCk",
       "title": "Millions Fleeing Sudan’S War Risk Losing Shelter and 5 More Stories",
-      "published": "2026-11-06T21:07:18Z"
+      "published": "2026-11-06T21:06:50Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -119,8 +120,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mSLkL1CiM8g",
       "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
-      "published": "2026-11-05T04:26:04Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-05T04:26:20Z"
     },
     {
       "channel": "original",
