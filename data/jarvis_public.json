@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T19:54:29Z",
+  "updated_at": "2026-11-07T20:58:07Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "v0eEXmANVXs",
+      "title": "Trump Offers UFC Chief Dana White Press Secretary Job",
+      "published": "2026-11-07T20:56:51Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "fEZA2pqxUHk",
       "title": "Breaking: Trump Blamed Fox News for Republican Losses Even",
       "published": "2026-11-04T16:21:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "LuJQUsCS95c",
-      "title": "Breaking: What Consequences for Israel",
-      "published": "2026-11-04T15:00:53Z",
       "source": "owner_confirmed_public"
     }
   ]

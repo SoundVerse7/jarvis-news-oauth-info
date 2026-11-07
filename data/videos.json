@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T20:15:35Z",
+  "updated_at": "2026-11-07T20:58:08Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T20:15:35Z"
+      "last_success_at": "2026-11-07T20:58:08Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T20:15:35Z"
+      "last_success_at": "2026-11-07T20:58:08Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "v0eEXmANVXs",
+      "title": "Trump Offers UFC Chief Dana White Press Secretary Job",
+      "published": "2026-11-07T20:57:05Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "KOiy-enOnZw",
       "title": "Why It Matters: Marco Rubio Denies Plans to Resign",
-      "published": "2026-11-06T02:56:08Z"
+      "published": "2026-11-06T02:55:17Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -176,14 +184,6 @@
       "video_id": "L7mWZ8azZAg",
       "title": "Trump Attacks Norway, Israel in Chaos & LET THE GAME BEGIN!",
       "published": "2026-11-05T02:35:16Z"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "oqKTZcIUrH4",
-      "title": "Trump and Republicans Trampled in the Midterms",
-      "published": "2026-11-05T02:34:00Z",
-      "source": "owner_confirmed_public"
     },
     {
       "channel": "original",
