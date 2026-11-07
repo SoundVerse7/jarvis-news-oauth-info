@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T15:42:07Z",
+  "updated_at": "2026-11-07T17:33:04Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T15:42:07Z"
+      "last_success_at": "2026-11-07T17:33:04Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T15:42:07Z"
+      "last_success_at": "2026-11-07T17:33:04Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fnva5M1LGUc",
+      "title": "DOJ Official Resigns Amid Questions About \"Grand… | U.S. Politics…",
+      "published": "2026-11-07T16:32:47Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "7O41NQJOyhc",
       "title": "Harmeet Dhillon, Doj's Controversial Civil Rights Chief",
-      "published": "2026-11-05T18:25:58Z"
+      "published": "2026-11-05T18:25:37Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "ojjmYfRrsQk",
       "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
       "published": "2026-11-05T00:25:11Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "4kMRnRW8MvE",
-      "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
-      "published": "2026-11-04T23:23:24Z",
       "source": "owner_confirmed_public"
     },
     {

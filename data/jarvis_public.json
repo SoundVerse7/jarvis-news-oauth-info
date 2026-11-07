@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T15:11:20Z",
+  "updated_at": "2026-11-07T17:33:03Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fnva5M1LGUc",
+      "title": "DOJ Official Resigns Amid Questions About \"Grand… | U.S. Politics…",
+      "published": "2026-11-07T16:32:13Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "EyDWaQk-xY0",
       "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
       "published": "2026-11-04T11:32:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "gMvm2WiE3ZQ",
-      "title": "Americans Vote in Key Midterms Set to Upend Trump Presidency",
-      "published": "2026-11-03T20:29:48Z",
       "source": "owner_confirmed_public"
     }
   ]
