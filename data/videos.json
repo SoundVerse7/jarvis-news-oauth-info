@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:33:04Z",
+  "updated_at": "2026-11-07T18:47:57Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T17:33:04Z"
+      "last_success_at": "2026-11-07T18:47:57Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T17:33:04Z"
+      "last_success_at": "2026-11-07T18:47:57Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "y9J4ldvCg1Y",
+      "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
+      "published": "2026-11-07T18:47:25Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "sQe8LpIdPBQ",
       "title": "Top US Civil Rights Official Resigns | Economy Briefing",
-      "published": "2026-11-06T00:44:36Z"
+      "published": "2026-11-06T00:43:50Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "I7Pf8CTkpyY",
       "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
       "published": "2026-11-05T01:26:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ojjmYfRrsQk",
-      "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
-      "published": "2026-11-05T00:25:11Z",
       "source": "owner_confirmed_public"
     },
     {

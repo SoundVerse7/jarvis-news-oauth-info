@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T17:33:03Z",
+  "updated_at": "2026-11-07T18:47:56Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "y9J4ldvCg1Y",
+      "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
+      "published": "2026-11-07T18:47:07Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "CypS9zcgLK4",
       "title": "Why It Matters: Democrats’ Blue Wave and a Bad Night for Trump: Key…",
       "published": "2026-11-04T12:57:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "EyDWaQk-xY0",
-      "title": "Democrats Win Control of U.S. House, in Major Rebuke to Trump",
-      "published": "2026-11-04T11:32:00Z",
       "source": "owner_confirmed_public"
     }
   ]
