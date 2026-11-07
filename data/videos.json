@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T08:51:23Z",
+  "updated_at": "2026-11-07T12:01:34Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T08:51:23Z"
+      "last_success_at": "2026-11-07T12:01:34Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T08:51:23Z"
+      "last_success_at": "2026-11-07T12:01:34Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Rh9RgqyGiU8",
+      "title": "Judge Blocks Construction of Trump's Massive 'Triumphal Arch'",
+      "published": "2026-11-07T11:54:19Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mSLkL1CiM8g",
       "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
-      "published": "2026-11-05T04:26:20Z"
+      "published": "2026-11-05T04:26:04Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "original",
@@ -175,14 +183,6 @@
       "video_id": "OmBFnEzlaRI",
       "title": "U.S., Colombia Launch Joint Exercise to Strengthen… | War & Conflict…",
       "published": "2026-11-04T21:16:40Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "V1M1zS62YBo",
-      "title": "Mike Johnson Won't Seek New Term as House GOP Leader",
-      "published": "2026-11-04T19:43:30Z",
       "source": "owner_confirmed_public"
     },
     {

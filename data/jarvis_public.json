@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-06T21:21:53Z",
+  "updated_at": "2026-11-07T12:01:34Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Rh9RgqyGiU8",
+      "title": "Judge Blocks Construction of Trump's Massive 'Triumphal Arch'",
+      "published": "2026-11-07T11:54:14Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "JP6x4oH8mBA",
       "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
       "published": "2026-11-03T16:05:33Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "wy5Sx2D8Xuw",
-      "title": "Air-raid alerts and attacks on schools: the… | War & Conflict Briefing",
-      "published": "2026-11-03T14:24:52Z",
       "source": "owner_confirmed_public"
     }
   ]
