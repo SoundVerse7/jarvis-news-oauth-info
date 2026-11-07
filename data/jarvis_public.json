@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T13:44:46Z",
+  "updated_at": "2026-11-07T15:11:20Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "DJXEeO-U_mk",
+      "title": "Sen. Chris Murphy Out of Hospital, Will Miss Votes After Stroke",
+      "published": "2026-11-07T15:09:58Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "gMvm2WiE3ZQ",
       "title": "Americans Vote in Key Midterms Set to Upend Trump Presidency",
       "published": "2026-11-03T20:29:48Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "6cQ8uz14wUU",
-      "title": "Trump to Remove Rwanda and South Africa from US Trade Deal",
-      "published": "2026-11-03T17:43:55Z",
       "source": "owner_confirmed_public"
     }
   ]

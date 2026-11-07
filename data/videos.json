@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:44:48Z",
+  "updated_at": "2026-11-07T15:11:20Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T13:44:48Z"
+      "last_success_at": "2026-11-07T15:11:20Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T13:44:48Z"
+      "last_success_at": "2026-11-07T15:11:20Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "DJXEeO-U_mk",
+      "title": "Sen. Chris Murphy Out of Hospital, Will Miss Votes After Stroke",
+      "published": "2026-11-07T15:10:04Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "UDY2wWfHcRg",
       "title": "Breaking: Trump Says War Caused Election Wipeout But He ‘Had to Do It’",
-      "published": "2026-11-05T13:05:53Z"
+      "published": "2026-11-05T13:05:43Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "4kMRnRW8MvE",
       "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
       "published": "2026-11-04T23:23:24Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "HfgT6Ma_zNU",
-      "title": "NEW: Trump Loses Control of Congress",
-      "published": "2026-11-04T22:18:29Z",
       "source": "owner_confirmed_public"
     },
     {
