@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T12:01:34Z",
+  "updated_at": "2026-11-07T13:44:48Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T12:01:34Z"
+      "last_success_at": "2026-11-07T13:44:48Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T12:01:34Z"
+      "last_success_at": "2026-11-07T13:44:48Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HCaLMHfNlQk",
+      "title": "Cornell Faculty Vote No Confidence in… and 7 More Stories",
+      "published": "2026-11-07T13:43:22Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "fWOG1idYuiE",
       "title": "Dublin-Rome Flight Lands in France Amid Bomb Threat",
-      "published": "2026-11-05T11:19:44Z"
+      "published": "2026-11-05T11:19:18Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "HfgT6Ma_zNU",
       "title": "NEW: Trump Loses Control of Congress",
       "published": "2026-11-04T22:18:29Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "OmBFnEzlaRI",
-      "title": "U.S., Colombia Launch Joint Exercise to Strengthen… | War & Conflict…",
-      "published": "2026-11-04T21:16:40Z",
       "source": "owner_confirmed_public"
     },
     {

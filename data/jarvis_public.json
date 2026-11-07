@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T12:01:34Z",
+  "updated_at": "2026-11-07T13:44:46Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "HCaLMHfNlQk",
+      "title": "Cornell Faculty Vote No Confidence in… and 7 More Stories",
+      "published": "2026-11-07T13:42:53Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "6cQ8uz14wUU",
       "title": "Trump to Remove Rwanda and South Africa from US Trade Deal",
       "published": "2026-11-03T17:43:55Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "JP6x4oH8mBA",
-      "title": "Four Planes Flying Across Europe Targeted by Bomb Threats",
-      "published": "2026-11-03T16:05:33Z",
       "source": "owner_confirmed_public"
     }
   ]
