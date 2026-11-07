@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:47:57Z",
+  "updated_at": "2026-11-07T19:54:30Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T18:47:57Z"
+      "last_success_at": "2026-11-07T19:54:30Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-07T18:47:57Z"
+      "last_success_at": "2026-11-07T19:54:30Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "UUOb35xvQjQ",
+      "title": "Cornell Faculty Vote No Confidence in University's… | U.S. Politics…",
+      "published": "2026-11-07T19:51:44Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "oojWq0huS-I",
       "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
-      "published": "2026-11-06T01:43:43Z"
+      "published": "2026-11-06T01:43:09Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "oqKTZcIUrH4",
       "title": "Trump and Republicans Trampled in the Midterms",
       "published": "2026-11-05T02:34:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "I7Pf8CTkpyY",
-      "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
-      "published": "2026-11-05T01:26:01Z",
       "source": "owner_confirmed_public"
     },
     {
