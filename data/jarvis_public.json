@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T13:18:13Z",
+  "updated_at": "2026-11-08T14:27:16Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "8sFjjRGenAw",
+      "title": "Breaking: How Democrats Will Try to End Trump's Tariffs",
+      "published": "2026-11-08T14:24:55Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "OmBFnEzlaRI",
       "title": "U.S., Colombia Launch Joint Exercise to Strengthen… | War & Conflict…",
       "published": "2026-11-04T21:16:40Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "V1M1zS62YBo",
-      "title": "Mike Johnson Won't Seek New Term as House GOP Leader",
-      "published": "2026-11-04T19:43:30Z",
       "source": "owner_confirmed_public"
     }
   ]

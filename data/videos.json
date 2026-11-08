@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T13:31:52Z",
+  "updated_at": "2026-11-08T14:27:17Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-08T13:31:52Z"
+      "last_success_at": "2026-11-08T14:27:17Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-08T13:31:52Z"
+      "last_success_at": "2026-11-08T14:27:17Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "8sFjjRGenAw",
+      "title": "Breaking: How Democrats Will Try to End Trump's Tariffs",
+      "published": "2026-11-08T14:25:05Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "CVUHFL_5un8",
       "title": "Trump Declares His Redesigned Oval Office a… | World News Briefing",
-      "published": "2026-11-06T17:40:46Z"
+      "published": "2026-11-06T17:40:11Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "sQe8LpIdPBQ",
       "title": "Top US Civil Rights Official Resigns | Economy Briefing",
       "published": "2026-11-06T00:43:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "7O41NQJOyhc",
-      "title": "Harmeet Dhillon, Doj's Controversial Civil Rights Chief",
-      "published": "2026-11-05T18:25:37Z",
       "source": "owner_confirmed_public"
     },
     {
