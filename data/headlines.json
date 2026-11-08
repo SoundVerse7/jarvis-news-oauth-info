@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T02:27:49Z",
+  "updated_at": "2026-11-08T06:09:47Z",
   "sources": [
     {
       "source": "UN News",
@@ -23,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "61e25bbfe9ca02ad",
+      "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168759",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-07T12:00:00Z"
+    },
     {
       "id": "0300679559154a9d",
       "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
@@ -187,14 +195,6 @@
       "id": "bcc09b5f0dfe991b",
       "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168736",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-04T12:00:00Z"
-    },
-    {
-      "id": "058e70e47725fd93",
-      "title": "Afghan children face narrowing path to education, UN agencies report",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-04T12:00:00Z"
