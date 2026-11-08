@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-07T20:58:07Z",
+  "updated_at": "2026-11-08T02:27:49Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "owYDt0XTUH8",
+      "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
+      "published": "2026-11-08T02:24:34Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "3n8xCdKMCtU",
       "title": "Americans Have Said 'NO TO WAR and 7 More Stories",
       "published": "2026-11-04T17:38:10Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fEZA2pqxUHk",
-      "title": "Breaking: Trump Blamed Fox News for Republican Losses Even",
-      "published": "2026-11-04T16:21:50Z",
       "source": "owner_confirmed_public"
     }
   ]

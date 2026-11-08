@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T23:40:59Z",
+  "updated_at": "2026-11-08T02:27:50Z",
   "channels": [
     {
       "key": "original",
@@ -23,13 +23,21 @@
     },
     {
       "channel": "news",
-      "status": "ok",
-      "videos": 12,
+      "status": "unavailable",
+      "videos": 20,
       "last_success_at": "2026-11-07T23:40:59Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "owYDt0XTUH8",
+      "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
+      "published": "2026-11-08T02:24:34Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "fWOG1idYuiE",
       "title": "Dublin-Rome Flight Lands in France Amid Bomb Threat",
       "published": "2026-11-05T11:19:18Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "mSLkL1CiM8g",
-      "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
-      "published": "2026-11-05T04:26:04Z",
       "source": "owner_confirmed_public"
     },
     {
