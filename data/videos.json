@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T18:51:10Z",
+  "updated_at": "2026-11-08T21:03:52Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-08T18:51:10Z"
+      "last_success_at": "2026-11-08T21:03:52Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-08T18:51:10Z"
+      "last_success_at": "2026-11-08T21:03:52Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "m0kScf05Dh8",
+      "title": "How Democrats Will Try to End Trump's Tariffs | U.S. Politics Briefing",
+      "published": "2026-11-08T21:03:11Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -120,7 +127,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "AlGfcf-4l0w",
       "title": "Breaking: Trump Names Stephen Miller as White House Chief of Staff",
-      "published": "2026-11-06T19:49:51Z"
+      "published": "2026-11-06T19:49:43Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "oojWq0huS-I",
       "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
       "published": "2026-11-06T01:43:09Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "sQe8LpIdPBQ",
-      "title": "Top US Civil Rights Official Resigns | Economy Briefing",
-      "published": "2026-11-06T00:43:50Z",
       "source": "owner_confirmed_public"
     },
     {

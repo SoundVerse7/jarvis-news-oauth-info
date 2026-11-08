@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T14:27:16Z",
+  "updated_at": "2026-11-08T21:03:52Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "m0kScf05Dh8",
+      "title": "How Democrats Will Try to End Trump's Tariffs | U.S. Politics Briefing",
+      "published": "2026-11-08T21:02:45Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "HfgT6Ma_zNU",
       "title": "NEW: Trump Loses Control of Congress",
       "published": "2026-11-04T22:18:29Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "OmBFnEzlaRI",
-      "title": "U.S., Colombia Launch Joint Exercise to Strengthen… | War & Conflict…",
-      "published": "2026-11-04T21:16:40Z",
       "source": "owner_confirmed_public"
     }
   ]
