@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T02:27:49Z",
+  "updated_at": "2026-11-08T12:34:41Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ioaEtMkz8Y8",
+      "title": "Floods in Gaza Leave Tens of Thousands Without Shelter",
+      "published": "2026-11-08T12:05:49Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "7Br4KLAltME",
       "title": "Iranian Leaders Welcome US Midterms, But Trump May Still Attack",
       "published": "2026-11-04T18:39:06Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "3n8xCdKMCtU",
-      "title": "Americans Have Said 'NO TO WAR and 7 More Stories",
-      "published": "2026-11-04T17:38:10Z",
       "source": "owner_confirmed_public"
     }
   ]

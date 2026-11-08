@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T06:09:47Z",
+  "updated_at": "2026-11-08T12:34:42Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 7,
-      "last_success_at": "2026-11-07T20:58:08Z"
+      "last_success_at": "2026-11-08T12:34:42Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-07T23:40:59Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-08T12:34:42Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ioaEtMkz8Y8",
+      "title": "Floods in Gaza Leave Tens of Thousands Without Shelter",
+      "published": "2026-11-08T12:06:10Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "owYDt0XTUH8",
       "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
-      "published": "2026-11-08T02:24:34Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-08T02:24:47Z"
     },
     {
       "channel": "news",
@@ -121,14 +127,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "Qm6AITj9jL0",
       "title": "NEW: Trump's Lawyers to Argue Appeal in \"Hush Money\" Case",
-      "published": "2026-11-06T12:19:54Z"
+      "published": "2026-11-06T12:19:46Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "ZM3pctzWhwE",
       "title": "Breaking: Trump Declares His Redesigned Oval Office a National Monument",
-      "published": "2026-11-06T11:01:26Z"
+      "published": "2026-11-06T11:01:15Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "UDY2wWfHcRg",
       "title": "Breaking: Trump Says War Caused Election Wipeout But He ‘Had to Do It’",
       "published": "2026-11-05T13:05:43Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fWOG1idYuiE",
-      "title": "Dublin-Rome Flight Lands in France Amid Bomb Threat",
-      "published": "2026-11-05T11:19:18Z",
       "source": "owner_confirmed_public"
     },
     {
