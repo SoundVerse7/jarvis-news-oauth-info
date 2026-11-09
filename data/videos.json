@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T11:40:46Z",
+  "updated_at": "2026-11-09T13:11:51Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-09T11:40:46Z"
+      "last_success_at": "2026-11-09T13:11:51Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-09T11:40:46Z"
+      "last_success_at": "2026-11-09T13:11:51Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "vGlP1Mfslqc",
+      "title": "Iran Threatens to ‘Rain Down Hell’ If US Escalates War",
+      "published": "2026-11-09T12:26:48Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -140,7 +147,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "y9J4ldvCg1Y",
       "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
-      "published": "2026-11-07T18:47:25Z"
+      "published": "2026-11-07T18:47:07Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "CVUHFL_5un8",
       "title": "Trump Declares His Redesigned Oval Office a… | World News Briefing",
       "published": "2026-11-06T17:40:11Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "JVMtyS9zsUg",
-      "title": "Why It Matters: US Attorney Tasked with Leading Probe Into Trump's…",
-      "published": "2026-11-06T16:07:32Z",
       "source": "owner_confirmed_public"
     },
     {

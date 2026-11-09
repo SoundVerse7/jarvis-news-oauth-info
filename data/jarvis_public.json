@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T11:22:01Z",
+  "updated_at": "2026-11-09T13:11:50Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "vGlP1Mfslqc",
+      "title": "Iran Threatens to ‘Rain Down Hell’ If US Escalates War",
+      "published": "2026-11-09T12:26:33Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "oqKTZcIUrH4",
       "title": "Trump and Republicans Trampled in the Midterms",
       "published": "2026-11-05T02:34:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "I7Pf8CTkpyY",
-      "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
-      "published": "2026-11-05T01:26:01Z",
       "source": "owner_confirmed_public"
     }
   ]
