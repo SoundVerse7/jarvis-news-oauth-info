@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T13:52:19Z",
+  "updated_at": "2026-11-09T14:59:03Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-09T13:52:19Z"
+      "last_success_at": "2026-11-09T14:59:03Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-09T13:52:19Z"
+      "last_success_at": "2026-11-09T14:59:03Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "w05KnWfmjyY",
+      "title": "Trump Defends Nvidia CEO Amid Chinese Spying Allegations",
+      "published": "2026-11-09T14:58:14Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -140,7 +147,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "v0eEXmANVXs",
       "title": "Trump Offers UFC Chief Dana White Press Secretary Job",
-      "published": "2026-11-07T20:57:05Z"
+      "published": "2026-11-07T20:56:51Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "w_rAi8CKsCk",
       "title": "Millions Fleeing Sudan’S War Risk Losing Shelter and 5 More Stories",
       "published": "2026-11-06T21:06:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "AlGfcf-4l0w",
-      "title": "Breaking: Trump Names Stephen Miller as White House Chief of Staff",
-      "published": "2026-11-06T19:49:43Z",
       "source": "owner_confirmed_public"
     },
     {
