@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:34:08Z",
+  "updated_at": "2026-11-09T20:46:41Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-09T19:34:08Z"
+      "last_success_at": "2026-11-09T20:46:41Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-09T19:34:08Z"
+      "last_success_at": "2026-11-09T20:46:41Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Ld-s2IVjfXw",
+      "title": "Hegseth Mandates Military Education Reform - What We Know",
+      "published": "2026-11-09T20:42:06Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -140,7 +147,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "ioaEtMkz8Y8",
       "title": "Floods in Gaza Leave Tens of Thousands Without Shelter",
-      "published": "2026-11-08T12:06:10Z"
+      "published": "2026-11-08T12:05:49Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "HCaLMHfNlQk",
       "title": "Cornell Faculty Vote No Confidence in… and 7 More Stories",
       "published": "2026-11-07T13:42:53Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Rh9RgqyGiU8",
-      "title": "Judge Blocks Construction of Trump's Massive 'Triumphal Arch'",
-      "published": "2026-11-07T11:54:14Z",
       "source": "owner_confirmed_public"
     },
     {

@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T19:34:08Z",
+  "updated_at": "2026-11-09T20:46:41Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Ld-s2IVjfXw",
+      "title": "Hegseth Mandates Military Education Reform - What We Know",
+      "published": "2026-11-09T20:41:37Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "7O41NQJOyhc",
       "title": "Harmeet Dhillon, Doj's Controversial Civil Rights Chief",
       "published": "2026-11-05T18:25:37Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "UDY2wWfHcRg",
-      "title": "Breaking: Trump Says War Caused Election Wipeout But He ‘Had to Do It’",
-      "published": "2026-11-05T13:05:43Z",
       "source": "owner_confirmed_public"
     }
   ]
