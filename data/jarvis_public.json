@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T14:59:03Z",
+  "updated_at": "2026-11-09T19:34:08Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "sFQR6InytlM",
+      "title": "Breaking: Defense Secretary Pete Hegseth Could Face Impeachment Vote",
+      "published": "2026-11-09T19:31:15Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "UDY2wWfHcRg",
       "title": "Breaking: Trump Says War Caused Election Wipeout But He ‘Had to Do It’",
       "published": "2026-11-05T13:05:43Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fWOG1idYuiE",
-      "title": "Dublin-Rome Flight Lands in France Amid Bomb Threat",
-      "published": "2026-11-05T11:19:18Z",
       "source": "owner_confirmed_public"
     }
   ]
