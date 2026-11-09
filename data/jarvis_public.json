@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T21:53:50Z",
+  "updated_at": "2026-11-09T23:38:07Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "DwNZ_HWiT2M",
+      "title": "Breaking: Trump Admin Proposes Stricter Unemployment Work Search Rules",
+      "published": "2026-11-09T23:35:05Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "oojWq0huS-I",
       "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
       "published": "2026-11-06T01:43:09Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "sQe8LpIdPBQ",
-      "title": "Top US Civil Rights Official Resigns | Economy Briefing",
-      "published": "2026-11-06T00:43:50Z",
       "source": "owner_confirmed_public"
     }
   ]
