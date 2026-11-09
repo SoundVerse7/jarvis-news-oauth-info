@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T01:05:41Z",
+  "updated_at": "2026-11-09T02:29:23Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "OX7SGb0FQaE",
+      "title": "Trump: Deportation Policy Might Have Been \"Too Tough\"",
+      "published": "2026-11-09T02:14:03Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "ojjmYfRrsQk",
       "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
       "published": "2026-11-05T00:25:11Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "4kMRnRW8MvE",
-      "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
-      "published": "2026-11-04T23:23:24Z",
       "source": "owner_confirmed_public"
     }
   ]

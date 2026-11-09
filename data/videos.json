@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T01:05:42Z",
+  "updated_at": "2026-11-09T02:29:24Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "OX7SGb0FQaE",
+      "title": "Trump: Deportation Policy Might Have Been \"Too Tough\"",
+      "published": "2026-11-09T02:14:03Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "ZM3pctzWhwE",
       "title": "Breaking: Trump Declares His Redesigned Oval Office a National Monument",
       "published": "2026-11-06T11:01:15Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "KOiy-enOnZw",
-      "title": "Why It Matters: Marco Rubio Denies Plans to Resign",
-      "published": "2026-11-06T02:55:17Z",
       "source": "owner_confirmed_public"
     },
     {
