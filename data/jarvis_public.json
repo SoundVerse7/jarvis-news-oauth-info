@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T13:11:50Z",
+  "updated_at": "2026-11-09T13:52:19Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7hepWGNokL0",
+      "title": "Philippines: 'Trump Out!' Women Rally Ahead of ASEAN Summit",
+      "published": "2026-11-09T13:43:08Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "mSLkL1CiM8g",
       "title": "Why It Matters: Hong Kong Pro-Democracy Activist Joshua Wong…",
       "published": "2026-11-05T04:26:04Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "oqKTZcIUrH4",
-      "title": "Trump and Republicans Trampled in the Midterms",
-      "published": "2026-11-05T02:34:00Z",
       "source": "owner_confirmed_public"
     }
   ]
