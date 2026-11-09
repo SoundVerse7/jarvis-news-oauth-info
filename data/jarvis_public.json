@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T20:46:41Z",
+  "updated_at": "2026-11-09T21:53:50Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7hwZOTFbRlA",
+      "title": "Hegseth Impeachment Articles Introduced by Rep. Massie",
+      "published": "2026-11-09T21:51:37Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "sQe8LpIdPBQ",
       "title": "Top US Civil Rights Official Resigns | Economy Briefing",
       "published": "2026-11-06T00:43:50Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "7O41NQJOyhc",
-      "title": "Harmeet Dhillon, Doj's Controversial Civil Rights Chief",
-      "published": "2026-11-05T18:25:37Z",
       "source": "owner_confirmed_public"
     }
   ]

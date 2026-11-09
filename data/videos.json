@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T20:46:41Z",
+  "updated_at": "2026-11-09T21:53:50Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-09T20:46:41Z"
+      "last_success_at": "2026-11-09T21:53:50Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-09T20:46:41Z"
+      "last_success_at": "2026-11-09T21:53:50Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7hwZOTFbRlA",
+      "title": "Hegseth Impeachment Articles Introduced by Rep. Massie",
+      "published": "2026-11-09T21:51:49Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -140,7 +147,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "D3xgb-dLDmo",
       "title": "Democrats’ Congressional Win Could Strengthen… | World News Briefing",
-      "published": "2026-11-08T13:06:42Z"
+      "published": "2026-11-08T13:05:56Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "DJXEeO-U_mk",
       "title": "Sen. Chris Murphy Out of Hospital, Will Miss Votes After Stroke",
       "published": "2026-11-07T15:09:58Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "HCaLMHfNlQk",
-      "title": "Cornell Faculty Vote No Confidence in… and 7 More Stories",
-      "published": "2026-11-07T13:42:53Z",
       "source": "owner_confirmed_public"
     },
     {
