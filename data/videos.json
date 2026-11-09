@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:55:37Z",
+  "updated_at": "2026-11-09T01:05:42Z",
   "channels": [
     {
       "key": "original",
@@ -17,19 +17,27 @@
   "status": [
     {
       "channel": "original",
-      "status": "ok",
+      "status": "unavailable",
       "videos": 7,
       "last_success_at": "2026-11-08T22:55:37Z"
     },
     {
       "channel": "news",
-      "status": "ok",
-      "videos": 12,
+      "status": "unavailable",
+      "videos": 20,
       "last_success_at": "2026-11-08T22:55:37Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "75y_CnaeSPw",
+      "title": "Nvidia Announces Investigation of CEO - What We Know",
+      "published": "2026-11-09T01:00:52Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "KOiy-enOnZw",
       "title": "Why It Matters: Marco Rubio Denies Plans to Resign",
       "published": "2026-11-06T02:55:17Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "oojWq0huS-I",
-      "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
-      "published": "2026-11-06T01:43:09Z",
       "source": "owner_confirmed_public"
     },
     {

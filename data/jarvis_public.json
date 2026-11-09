@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-08T21:03:52Z",
+  "updated_at": "2026-11-09T01:05:41Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "75y_CnaeSPw",
+      "title": "Nvidia Announces Investigation of CEO - What We Know",
+      "published": "2026-11-09T01:00:52Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "4kMRnRW8MvE",
       "title": "Breaking: Vance Blames Iran War for GOP Midterm Losses",
       "published": "2026-11-04T23:23:24Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "HfgT6Ma_zNU",
-      "title": "NEW: Trump Loses Control of Congress",
-      "published": "2026-11-04T22:18:29Z",
       "source": "owner_confirmed_public"
     }
   ]
