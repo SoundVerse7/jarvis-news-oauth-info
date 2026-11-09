@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T02:29:23Z",
+  "updated_at": "2026-11-09T11:22:01Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "zaNmEkpnwLE",
+      "title": "Krakow Shooting Suspect Has Died in Hospital, Police Say",
+      "published": "2026-11-09T11:07:01Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "I7Pf8CTkpyY",
       "title": "NEW: What Next for Iran War After Trump's Midterms Defeat?",
       "published": "2026-11-05T01:26:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ojjmYfRrsQk",
-      "title": "Europe & Canada Briefing Nov 4: Pope Leo XIV Welcomes Bob Dylan to…",
-      "published": "2026-11-05T00:25:11Z",
       "source": "owner_confirmed_public"
     }
   ]

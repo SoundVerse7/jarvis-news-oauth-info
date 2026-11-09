@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:42:01Z",
+  "updated_at": "2026-11-09T11:22:01Z",
   "channels": [
     {
       "key": "original",
@@ -17,34 +17,74 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
-      "videos": 7,
-      "last_success_at": "2026-11-08T22:55:37Z"
+      "status": "ok",
+      "videos": 11,
+      "last_success_at": "2026-11-09T11:22:01Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-08T22:55:37Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-09T11:22:01Z"
     }
   ],
-  "owner_confirmed_added": 10,
+  "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "zaNmEkpnwLE",
+      "title": "Krakow Shooting Suspect Has Died in Hospital, Police Say",
+      "published": "2026-11-09T11:07:13Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "rnpaw1R_Rfc",
+      "title": "Brazil, Trump, Israel: A Week of Political Chaos",
+      "published": "2026-11-09T09:02:41Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "NdoWyZkG02g",
+      "title": "U.S. Boat Strikes: 240 Dead — What Is Happening?",
+      "published": "2026-11-09T09:02:37Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "c9XIzjBIOQk",
+      "title": "Anthropic's $1.5 Trillion IPO? There's a Catch",
+      "published": "2026-11-09T09:02:32Z"
+    },
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "YL8r32iQniU",
+      "title": "Wall Street Rose — But Most Stocks Actually Fell",
+      "published": "2026-11-09T09:02:28Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "OX7SGb0FQaE",
       "title": "Trump: Deportation Policy Might Have Been \"Too Tough\"",
-      "published": "2026-11-09T02:14:03Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-09T02:14:20Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "JPHgvnHFdPU",
+      "title": "LIVE: War Alert: Trump Confirms US Strikes in Iran",
+      "published": "2026-11-09T01:09:43Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "75y_CnaeSPw",
       "title": "Nvidia Announces Investigation of CEO - What We Know",
-      "published": "2026-11-09T01:00:52Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-09T01:01:09Z"
     },
     {
       "channel": "news",
@@ -107,28 +147,32 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "fnva5M1LGUc",
       "title": "DOJ Official Resigns Amid Questions About \"Grand… | U.S. Politics…",
-      "published": "2026-11-07T16:32:47Z"
+      "published": "2026-11-07T16:32:13Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "DJXEeO-U_mk",
       "title": "Sen. Chris Murphy Out of Hospital, Will Miss Votes After Stroke",
-      "published": "2026-11-07T15:10:04Z"
+      "published": "2026-11-07T15:09:58Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "HCaLMHfNlQk",
       "title": "Cornell Faculty Vote No Confidence in… and 7 More Stories",
-      "published": "2026-11-07T13:43:22Z"
+      "published": "2026-11-07T13:42:53Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "Rh9RgqyGiU8",
       "title": "Judge Blocks Construction of Trump's Massive 'Triumphal Arch'",
-      "published": "2026-11-07T11:54:19Z"
+      "published": "2026-11-07T11:54:14Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -160,22 +204,6 @@
       "video_id": "JVMtyS9zsUg",
       "title": "Why It Matters: US Attorney Tasked with Leading Probe Into Trump's…",
       "published": "2026-11-06T16:07:32Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Qm6AITj9jL0",
-      "title": "NEW: Trump's Lawyers to Argue Appeal in \"Hush Money\" Case",
-      "published": "2026-11-06T12:19:46Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ZM3pctzWhwE",
-      "title": "Breaking: Trump Declares His Redesigned Oval Office a National Monument",
-      "published": "2026-11-06T11:01:15Z",
       "source": "owner_confirmed_public"
     },
     {
