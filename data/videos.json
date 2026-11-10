@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:49:49Z",
+  "updated_at": "2026-11-10T04:38:59Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-09T22:25:55Z"
+      "last_success_at": "2026-11-10T04:38:59Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-09T22:25:55Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-10T04:38:59Z"
     }
   ],
   "owner_confirmed_added": 11,
@@ -35,24 +35,21 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "nVyc7OebFC4",
       "title": "Trump, Rubio Defend Hegseth as Impeachment Bid Nears",
-      "published": "2026-11-10T01:46:12Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-10T01:46:36Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "YDSvb3HQ5p8",
       "title": "Watch: Trump Gives Post-Midterm Press Briefing, Alongside Dana White",
-      "published": "2026-11-10T00:40:13Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-10T00:40:29Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "DwNZ_HWiT2M",
       "title": "Breaking: Trump Admin Proposes Stricter Unemployment Work Search Rules",
-      "published": "2026-11-09T23:35:05Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-09T23:35:27Z"
     },
     {
       "channel": "news",
@@ -150,21 +147,24 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "75y_CnaeSPw",
       "title": "Nvidia Announces Investigation of CEO - What We Know",
-      "published": "2026-11-09T01:01:09Z"
+      "published": "2026-11-09T01:00:52Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "m0kScf05Dh8",
       "title": "How Democrats Will Try to End Trump's Tariffs | U.S. Politics Briefing",
-      "published": "2026-11-08T21:03:11Z"
+      "published": "2026-11-08T21:02:45Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "8sFjjRGenAw",
       "title": "Breaking: How Democrats Will Try to End Trump's Tariffs",
-      "published": "2026-11-08T14:25:05Z"
+      "published": "2026-11-08T14:24:55Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
