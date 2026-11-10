@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:43:37Z",
+  "updated_at": "2026-11-10T01:49:49Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "nVyc7OebFC4",
+      "title": "Trump, Rubio Defend Hegseth as Impeachment Bid Nears",
+      "published": "2026-11-10T01:46:12Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -196,14 +204,6 @@
       "video_id": "UUOb35xvQjQ",
       "title": "Cornell Faculty Vote No Confidence in University's… | U.S. Politics…",
       "published": "2026-11-07T19:51:10Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "y9J4ldvCg1Y",
-      "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
-      "published": "2026-11-07T18:47:07Z",
       "source": "owner_confirmed_public"
     },
     {
