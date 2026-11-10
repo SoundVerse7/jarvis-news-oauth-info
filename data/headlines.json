@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-10T16:35:50Z",
+  "updated_at": "2026-11-10T17:41:36Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -29,6 +30,46 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-10T13:30:35Z"
+    },
+    {
+      "id": "132c4c5204081e0d",
+      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "id": "d4a5b773f1531b19",
+      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "id": "30c987c3598b9908",
+      "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168772",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "id": "e46d78df8f21c244",
+      "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168771",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "id": "24a90a69335afe73",
+      "title": "Climate crisis could push 141 million more women into extreme poverty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168770",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
     },
     {
       "id": "2bae0dc9f043ef95",
@@ -135,30 +176,6 @@
       "published": "2026-11-06T12:00:00Z"
     },
     {
-      "id": "67c8c9001be009b5",
-      "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168751",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-06T12:00:00Z"
-    },
-    {
-      "id": "bab74e9da2aaeb06",
-      "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-06T12:00:00Z"
-    },
-    {
-      "id": "53bd7fe3f4332b5c",
-      "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-06T12:00:00Z"
-    },
-    {
       "id": "6f42778ba9ae2f8b",
       "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
       "url": "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/",
@@ -181,22 +198,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-05T14:00:00Z"
-    },
-    {
-      "id": "6af8b887c0eeeae9",
-      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168750",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-05T12:00:00Z"
-    },
-    {
-      "id": "05a73febba9c2243",
-      "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168749",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-05T12:00:00Z"
     },
     {
       "id": "689d39f509855d99",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:35:50Z",
+  "updated_at": "2026-11-10T17:41:37Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T16:35:50Z"
+      "last_success_at": "2026-11-10T17:41:37Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T16:35:50Z"
+      "last_success_at": "2026-11-10T17:41:37Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "i3AGW5-SrfM",
+      "title": "Why It Matters: First Suicide Bombers, Now Long-Range Drone Strikes…",
+      "published": "2026-11-10T17:38:26Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "vGlP1Mfslqc",
       "title": "Iran Threatens to ‘Rain Down Hell’ If US Escalates War",
-      "published": "2026-11-09T12:26:48Z"
+      "published": "2026-11-09T12:26:33Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "ioaEtMkz8Y8",
       "title": "Floods in Gaza Leave Tens of Thousands Without Shelter",
       "published": "2026-11-08T12:05:49Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "owYDt0XTUH8",
-      "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
-      "published": "2026-11-08T02:24:34Z",
       "source": "owner_confirmed_public"
     },
     {
