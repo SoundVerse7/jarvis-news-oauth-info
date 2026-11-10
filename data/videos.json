@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:51:12Z",
+  "updated_at": "2026-11-10T21:38:26Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T20:51:12Z"
+      "last_success_at": "2026-11-10T21:38:26Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T20:51:12Z"
+      "last_success_at": "2026-11-10T21:38:26Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "KotfeS2Sbj0",
+      "title": "House Panel Rebukes Doj's Handling of Epstein Case | World News…",
+      "published": "2026-11-10T21:38:08Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -196,14 +204,6 @@
       "video_id": "m0kScf05Dh8",
       "title": "How Democrats Will Try to End Trump's Tariffs | U.S. Politics Briefing",
       "published": "2026-11-08T21:02:45Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "8sFjjRGenAw",
-      "title": "Breaking: How Democrats Will Try to End Trump's Tariffs",
-      "published": "2026-11-08T14:24:55Z",
       "source": "owner_confirmed_public"
     },
     {

@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T19:58:43Z",
+  "updated_at": "2026-11-10T21:38:25Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "KotfeS2Sbj0",
+      "title": "House Panel Rebukes Doj's Handling of Epstein Case | World News…",
+      "published": "2026-11-10T21:38:08Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "HCaLMHfNlQk",
       "title": "Cornell Faculty Vote No Confidence in… and 7 More Stories",
       "published": "2026-11-07T13:42:53Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Rh9RgqyGiU8",
-      "title": "Judge Blocks Construction of Trump's Massive 'Triumphal Arch'",
-      "published": "2026-11-07T11:54:14Z",
       "source": "owner_confirmed_public"
     }
   ]
