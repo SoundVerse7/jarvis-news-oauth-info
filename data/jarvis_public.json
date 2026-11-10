@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T18:47:29Z",
+  "updated_at": "2026-11-10T19:58:43Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "4NOahyH7XUU",
+      "title": "Why It Matters: Hegseth, Polish Counterpart Announce Intent to Boost…",
+      "published": "2026-11-10T19:53:47Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Rh9RgqyGiU8",
       "title": "Judge Blocks Construction of Trump's Massive 'Triumphal Arch'",
       "published": "2026-11-07T11:54:14Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "w_rAi8CKsCk",
-      "title": "Millions Fleeing Sudan’S War Risk Losing Shelter and 5 More Stories",
-      "published": "2026-11-06T21:06:50Z",
       "source": "owner_confirmed_public"
     }
   ]

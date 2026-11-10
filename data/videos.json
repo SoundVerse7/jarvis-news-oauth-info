@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T18:47:30Z",
+  "updated_at": "2026-11-10T19:58:44Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T18:47:30Z"
+      "last_success_at": "2026-11-10T19:58:44Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T18:47:30Z"
+      "last_success_at": "2026-11-10T19:58:44Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "4NOahyH7XUU",
+      "title": "Why It Matters: Hegseth, Polish Counterpart Announce Intent to Boost…",
+      "published": "2026-11-10T19:54:06Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "w05KnWfmjyY",
       "title": "Trump Defends Nvidia CEO Amid Chinese Spying Allegations",
-      "published": "2026-11-09T14:58:14Z"
+      "published": "2026-11-09T14:57:53Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "8sFjjRGenAw",
       "title": "Breaking: How Democrats Will Try to End Trump's Tariffs",
       "published": "2026-11-08T14:24:55Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "D3xgb-dLDmo",
-      "title": "Democrats’ Congressional Win Could Strengthen… | World News Briefing",
-      "published": "2026-11-08T13:05:56Z",
       "source": "owner_confirmed_public"
     },
     {
