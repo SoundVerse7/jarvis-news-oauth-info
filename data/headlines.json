@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-10T21:38:25Z",
+  "updated_at": "2026-11-10T22:56:16Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -31,6 +32,30 @@
       "published": "2026-11-10T13:30:35Z"
     },
     {
+      "id": "bfac1d895948ef9f",
+      "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168781",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "id": "d0c10be203c2cc88",
+      "title": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168779",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
+      "id": "d736d806028c1262",
+      "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168778",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
+    },
+    {
       "id": "132c4c5204081e0d",
       "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
@@ -56,7 +81,7 @@
     },
     {
       "id": "e46d78df8f21c244",
-      "title": "Sudan war: First suicide bombers, now long-range drone strikes are the norm",
+      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168771",
       "source": "UN News",
       "category": "World",
@@ -143,36 +168,12 @@
       "published": "2026-11-08T12:00:00Z"
     },
     {
-      "id": "61e25bbfe9ca02ad",
-      "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168759",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-07T12:00:00Z"
-    },
-    {
       "id": "0300679559154a9d",
       "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-06T14:00:00Z"
-    },
-    {
-      "id": "54dba382ae12dc4c",
-      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168758",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-06T12:00:00Z"
-    },
-    {
-      "id": "5dc3421566c88939",
-      "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168757",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-06T12:00:00Z"
     },
     {
       "id": "6f42778ba9ae2f8b",
