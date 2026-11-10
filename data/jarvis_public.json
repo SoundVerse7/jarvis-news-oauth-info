@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T14:54:53Z",
+  "updated_at": "2026-11-10T16:35:50Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "E5Cm3IN-FwE",
+      "title": "Why It Matters: Trump’S C-SPAN Call Marks Latest Surprise…",
+      "published": "2026-11-10T16:13:31Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "CVUHFL_5un8",
       "title": "Trump Declares His Redesigned Oval Office a… | World News Briefing",
       "published": "2026-11-06T17:40:11Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "JVMtyS9zsUg",
-      "title": "Why It Matters: US Attorney Tasked with Leading Probe Into Trump's…",
-      "published": "2026-11-06T16:07:32Z",
       "source": "owner_confirmed_public"
     }
   ]

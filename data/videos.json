@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:54:54Z",
+  "updated_at": "2026-11-10T16:35:50Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T14:54:54Z"
+      "last_success_at": "2026-11-10T16:35:50Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T14:54:54Z"
+      "last_success_at": "2026-11-10T16:35:50Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "E5Cm3IN-FwE",
+      "title": "Why It Matters: Trump’S C-SPAN Call Marks Latest Surprise…",
+      "published": "2026-11-10T16:13:48Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "zaNmEkpnwLE",
       "title": "Krakow Shooting Suspect Has Died in Hospital, Police Say",
-      "published": "2026-11-09T11:07:13Z"
+      "published": "2026-11-09T11:07:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "original",
@@ -196,14 +204,6 @@
       "video_id": "owYDt0XTUH8",
       "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
       "published": "2026-11-08T02:24:34Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "v0eEXmANVXs",
-      "title": "Trump Offers UFC Chief Dana White Press Secretary Job",
-      "published": "2026-11-07T20:56:51Z",
       "source": "owner_confirmed_public"
     },
     {
