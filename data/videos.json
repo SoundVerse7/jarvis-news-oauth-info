@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:41:37Z",
+  "updated_at": "2026-11-10T18:47:30Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T17:41:37Z"
+      "last_success_at": "2026-11-10T18:47:30Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T17:41:37Z"
+      "last_success_at": "2026-11-10T18:47:30Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Baa-yVMS_Z4",
+      "title": "Why It Matters: Another Top DOJ Official Resigns",
+      "published": "2026-11-10T18:43:51Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "7hepWGNokL0",
       "title": "Philippines: 'Trump Out!' Women Rally Ahead of ASEAN Summit",
-      "published": "2026-11-09T13:43:20Z"
+      "published": "2026-11-09T13:43:08Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "D3xgb-dLDmo",
       "title": "Democrats’ Congressional Win Could Strengthen… | World News Briefing",
       "published": "2026-11-08T13:05:56Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ioaEtMkz8Y8",
-      "title": "Floods in Gaza Leave Tens of Thousands Without Shelter",
-      "published": "2026-11-08T12:05:49Z",
       "source": "owner_confirmed_public"
     },
     {
