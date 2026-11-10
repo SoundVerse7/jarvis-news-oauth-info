@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-09T23:38:07Z",
+  "updated_at": "2026-11-10T00:43:37Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "YDSvb3HQ5p8",
+      "title": "Watch: Trump Gives Post-Midterm Press Briefing, Alongside Dana White",
+      "published": "2026-11-10T00:40:13Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "KOiy-enOnZw",
       "title": "Why It Matters: Marco Rubio Denies Plans to Resign",
       "published": "2026-11-06T02:55:17Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "oojWq0huS-I",
-      "title": "Newsom Moves to Commute All California Death… | U.S. Politics Briefing",
-      "published": "2026-11-06T01:43:09Z",
       "source": "owner_confirmed_public"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T23:38:07Z",
+  "updated_at": "2026-11-10T00:43:37Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "YDSvb3HQ5p8",
+      "title": "Watch: Trump Gives Post-Midterm Press Briefing, Alongside Dana White",
+      "published": "2026-11-10T00:40:13Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -196,14 +204,6 @@
       "video_id": "y9J4ldvCg1Y",
       "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
       "published": "2026-11-07T18:47:07Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fnva5M1LGUc",
-      "title": "DOJ Official Resigns Amid Questions About \"Grand… | U.S. Politics…",
-      "published": "2026-11-07T16:32:13Z",
       "source": "owner_confirmed_public"
     },
     {
