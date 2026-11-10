@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T04:38:59Z",
+  "updated_at": "2026-11-10T11:32:11Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T04:38:59Z"
+      "last_success_at": "2026-11-10T11:32:11Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T04:38:59Z"
+      "last_success_at": "2026-11-10T11:32:11Z"
     }
   ],
-  "owner_confirmed_added": 11,
+  "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "sg7-6EcJzNI",
+      "title": "Why It Matters: Federal, Provincial, and Territorial Ministers…",
+      "published": "2026-11-10T11:28:12Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -134,13 +141,6 @@
       "video_id": "OX7SGb0FQaE",
       "title": "Trump: Deportation Policy Might Have Been \"Too Tough\"",
       "published": "2026-11-09T02:14:20Z"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "JPHgvnHFdPU",
-      "title": "LIVE: War Alert: Trump Confirms US Strikes in Iran",
-      "published": "2026-11-09T01:09:43Z"
     },
     {
       "channel": "news",

@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T01:49:48Z",
+  "updated_at": "2026-11-10T11:32:11Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "sg7-6EcJzNI",
+      "title": "Why It Matters: Federal, Provincial, and Territorial Ministers…",
+      "published": "2026-11-10T11:28:03Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Qm6AITj9jL0",
       "title": "NEW: Trump's Lawyers to Argue Appeal in \"Hush Money\" Case",
       "published": "2026-11-06T12:19:46Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ZM3pctzWhwE",
-      "title": "Breaking: Trump Declares His Redesigned Oval Office a National Monument",
-      "published": "2026-11-06T11:01:15Z",
       "source": "owner_confirmed_public"
     }
   ]
