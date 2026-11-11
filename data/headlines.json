@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-11T16:14:31Z",
+  "updated_at": "2026-11-11T17:53:33Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,22 @@
     }
   ],
   "items": [
+    {
+      "id": "cf886cd6267ba102",
+      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-11T12:00:00Z"
+    },
+    {
+      "id": "19c5bcec359f62b3",
+      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-11T12:00:00Z"
+    },
     {
       "id": "26a321e6136d12f3",
       "title": "Release of the Bank of Canada’s summary of deliberations",
@@ -146,22 +163,6 @@
       "id": "09e5d00e40330e6e",
       "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-09T12:00:00Z"
-    },
-    {
-      "id": "bc083116ff8f1cb0",
-      "title": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168761",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-09T12:00:00Z"
-    },
-    {
-      "id": "5e0f748a0bf32043",
-      "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168760",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-09T12:00:00Z"

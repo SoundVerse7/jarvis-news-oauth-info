@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T04:25:08Z",
+  "updated_at": "2026-11-11T17:53:32Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "M9hdeZPU7W4",
+      "title": "Trump Marks Veterans Day with Wreath Laying and 3 More Stories",
+      "published": "2026-11-11T17:44:08Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "owYDt0XTUH8",
       "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
       "published": "2026-11-08T02:24:34Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "v0eEXmANVXs",
-      "title": "Trump Offers UFC Chief Dana White Press Secretary Job",
-      "published": "2026-11-07T20:56:51Z",
       "source": "owner_confirmed_public"
     }
   ]
