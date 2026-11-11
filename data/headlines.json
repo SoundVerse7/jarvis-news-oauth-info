@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-11T17:53:33Z",
+  "updated_at": "2026-11-11T19:08:26Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 4
+      "recent_headlines": 3
     },
     {
       "source": "Bank of Canada",
@@ -286,14 +285,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-10-29T11:30:11Z"
-    },
-    {
-      "id": "a0c3e1be77e8b5a2",
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-10-28T18:00:00Z"
     }
   ]
 }

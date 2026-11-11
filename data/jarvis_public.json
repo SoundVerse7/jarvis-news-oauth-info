@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T17:53:32Z",
+  "updated_at": "2026-11-11T19:08:26Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "3QiFRTUeCQs",
+      "title": "White House Warns of \"Blatant Criminality\" in Democratic Probes",
+      "published": "2026-11-11T18:56:49Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "ioaEtMkz8Y8",
       "title": "Floods in Gaza Leave Tens of Thousands Without Shelter",
       "published": "2026-11-08T12:05:49Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "owYDt0XTUH8",
-      "title": "Trump Confirms US Strikes in Iran, Insists ‘It’S Not a War’",
-      "published": "2026-11-08T02:24:34Z",
       "source": "owner_confirmed_public"
     }
   ]
