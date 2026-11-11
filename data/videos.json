@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T02:18:14Z",
+  "updated_at": "2026-11-11T04:25:09Z",
   "channels": [
     {
       "key": "original",
@@ -23,9 +23,9 @@
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-11T00:03:42Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-11T04:25:09Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,18 +33,24 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "hrt_UskqfVw",
+      "title": "Kennedys Sue to Block Trump's Arch - What We Know",
+      "published": "2026-11-11T04:24:53Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "A-XwBfsw2mc",
       "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
-      "published": "2026-11-11T02:17:57Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-11T02:18:10Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mna3ENh5iWc",
       "title": "Sanders Won't Back Schumer as Democratic Leader in New Congress",
-      "published": "2026-11-11T01:07:47Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-11T01:08:13Z"
     },
     {
       "channel": "news",
@@ -121,14 +127,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "YDSvb3HQ5p8",
       "title": "Watch: Trump Gives Post-Midterm Press Briefing, Alongside Dana White",
-      "published": "2026-11-10T00:40:29Z"
+      "published": "2026-11-10T00:40:13Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "DwNZ_HWiT2M",
       "title": "Breaking: Trump Admin Proposes Stricter Unemployment Work Search Rules",
-      "published": "2026-11-09T23:35:27Z"
+      "published": "2026-11-09T23:35:05Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "7hepWGNokL0",
       "title": "Philippines: 'Trump Out!' Women Rally Ahead of ASEAN Summit",
       "published": "2026-11-09T13:43:08Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "vGlP1Mfslqc",
-      "title": "Iran Threatens to ‘Rain Down Hell’ If US Escalates War",
-      "published": "2026-11-09T12:26:33Z",
       "source": "owner_confirmed_public"
     },
     {

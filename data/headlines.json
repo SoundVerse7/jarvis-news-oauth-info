@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T02:18:13Z",
+  "updated_at": "2026-11-11T04:25:08Z",
   "sources": [
     {
       "source": "UN News",
@@ -30,6 +30,14 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-10T13:30:35Z"
+    },
+    {
+      "id": "7353459294dc9c98",
+      "title": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168782",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-10T12:00:00Z"
     },
     {
       "id": "bfac1d895948ef9f",
@@ -158,14 +166,6 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-11-09T12:00:00Z"
-    },
-    {
-      "id": "cea2141e7651804a",
-      "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168756",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-08T12:00:00Z"
     },
     {
       "id": "0300679559154a9d",
