@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T01:08:06Z",
+  "updated_at": "2026-11-11T02:18:13Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "A-XwBfsw2mc",
+      "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
+      "published": "2026-11-11T02:17:57Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "UUOb35xvQjQ",
       "title": "Cornell Faculty Vote No Confidence in University's… | U.S. Politics…",
       "published": "2026-11-07T19:51:10Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "y9J4ldvCg1Y",
-      "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
-      "published": "2026-11-07T18:47:07Z",
       "source": "owner_confirmed_public"
     }
   ]

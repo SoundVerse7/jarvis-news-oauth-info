@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T01:15:54Z",
+  "updated_at": "2026-11-11T02:18:14Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "A-XwBfsw2mc",
+      "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
+      "published": "2026-11-11T02:17:57Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "vGlP1Mfslqc",
       "title": "Iran Threatens to ‘Rain Down Hell’ If US Escalates War",
       "published": "2026-11-09T12:26:33Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "zaNmEkpnwLE",
-      "title": "Krakow Shooting Suspect Has Died in Hospital, Police Say",
-      "published": "2026-11-09T11:07:01Z",
       "source": "owner_confirmed_public"
     },
     {
