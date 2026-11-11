@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T00:03:41Z",
+  "updated_at": "2026-11-11T01:08:06Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "mna3ENh5iWc",
+      "title": "Sanders Won't Back Schumer as Democratic Leader in New Congress",
+      "published": "2026-11-11T01:07:47Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "y9J4ldvCg1Y",
       "title": "Why It Matters: Justice Department Drops Bid to Force California to…",
       "published": "2026-11-07T18:47:07Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "fnva5M1LGUc",
-      "title": "DOJ Official Resigns Amid Questions About \"Grand… | U.S. Politics…",
-      "published": "2026-11-07T16:32:13Z",
       "source": "owner_confirmed_public"
     }
   ]
