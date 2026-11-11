@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-11T19:08:26Z",
+  "updated_at": "2026-11-11T21:44:14Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -23,17 +24,25 @@
   ],
   "items": [
     {
-      "id": "cf886cd6267ba102",
-      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
+      "id": "19c5bcec359f62b3",
+      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-11T12:00:00Z"
     },
     {
-      "id": "19c5bcec359f62b3",
-      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
+      "id": "28046d614082ced3",
+      "title": "From Japan to Rwanda, early warnings are saving lives – but millions remain unprotected",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168787",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-11T12:00:00Z"
+    },
+    {
+      "id": "cf886cd6267ba102",
+      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-11T12:00:00Z"
@@ -154,14 +163,6 @@
       "id": "901504da9b55f540",
       "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168763",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-09T12:00:00Z"
-    },
-    {
-      "id": "09e5d00e40330e6e",
-      "title": "Families who fled Ethiopia for Kenya’s Moyale need food, water and shelter",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168762",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-09T12:00:00Z"
