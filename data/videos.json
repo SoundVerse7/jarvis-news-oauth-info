@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:47:57Z",
+  "updated_at": "2026-11-11T22:59:25Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-11T22:47:57Z"
+      "last_success_at": "2026-11-11T22:59:25Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-11T22:47:57Z"
+      "last_success_at": "2026-11-11T22:59:25Z"
     }
   ],
   "owner_confirmed_added": 13,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "svYxFYKl93U",
+      "title": "Breaking: Trump Defends Iran War in Veterans Day Speech",
+      "published": "2026-11-11T22:52:52Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "nVyc7OebFC4",
       "title": "Trump, Rubio Defend Hegseth as Impeachment Bid Nears",
       "published": "2026-11-10T01:46:12Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "YDSvb3HQ5p8",
-      "title": "Watch: Trump Gives Post-Midterm Press Briefing, Alongside Dana White",
-      "published": "2026-11-10T00:40:13Z",
       "source": "owner_confirmed_public"
     },
     {
