@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T04:25:09Z",
+  "updated_at": "2026-11-11T07:49:07Z",
   "channels": [
     {
       "key": "original",
@@ -23,8 +23,8 @@
     },
     {
       "channel": "news",
-      "status": "ok",
-      "videos": 12,
+      "status": "unavailable",
+      "videos": 20,
       "last_success_at": "2026-11-11T04:25:09Z"
     }
   ],
