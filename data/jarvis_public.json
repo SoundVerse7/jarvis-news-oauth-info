@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-10T22:56:16Z",
+  "updated_at": "2026-11-11T00:03:41Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Gvy_iSuYI5o",
+      "title": "US Again Fails to Show at UN for Its Human Rights Review",
+      "published": "2026-11-11T00:00:01Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "fnva5M1LGUc",
       "title": "DOJ Official Resigns Amid Questions About \"Grand… | U.S. Politics…",
       "published": "2026-11-07T16:32:13Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "DJXEeO-U_mk",
-      "title": "Sen. Chris Murphy Out of Hospital, Will Miss Votes After Stroke",
-      "published": "2026-11-07T15:09:58Z",
       "source": "owner_confirmed_public"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:56:17Z",
+  "updated_at": "2026-11-11T00:03:42Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-10T22:56:17Z"
+      "last_success_at": "2026-11-11T00:03:42Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-10T22:56:17Z"
+      "last_success_at": "2026-11-11T00:03:42Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Gvy_iSuYI5o",
+      "title": "US Again Fails to Show at UN for Its Human Rights Review",
+      "published": "2026-11-11T00:00:32Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "7hwZOTFbRlA",
       "title": "Hegseth Impeachment Articles Introduced by Rep. Massie",
-      "published": "2026-11-09T21:51:49Z"
+      "published": "2026-11-09T21:51:37Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -196,14 +204,6 @@
       "video_id": "OX7SGb0FQaE",
       "title": "Trump: Deportation Policy Might Have Been \"Too Tough\"",
       "published": "2026-11-09T02:14:03Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "75y_CnaeSPw",
-      "title": "Nvidia Announces Investigation of CEO - What We Know",
-      "published": "2026-11-09T01:00:52Z",
       "source": "owner_confirmed_public"
     },
     {
