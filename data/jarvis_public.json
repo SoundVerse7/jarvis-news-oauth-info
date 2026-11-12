@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T00:01:13Z",
+  "updated_at": "2026-11-12T01:56:10Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ng4tFHk5d2g",
+      "title": "Breaking: Kenya's Last Ebola Patient Leaves Hospital",
+      "published": "2026-11-12T01:09:05Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "75y_CnaeSPw",
       "title": "Nvidia Announces Investigation of CEO - What We Know",
       "published": "2026-11-09T01:00:52Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "m0kScf05Dh8",
-      "title": "How Democrats Will Try to End Trump's Tariffs | U.S. Politics Briefing",
-      "published": "2026-11-08T21:02:45Z",
       "source": "owner_confirmed_public"
     }
   ]
