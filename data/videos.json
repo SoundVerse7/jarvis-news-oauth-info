@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:59:25Z",
+  "updated_at": "2026-11-12T00:01:15Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-11T22:59:25Z"
+      "last_success_at": "2026-11-12T00:01:15Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-11T22:59:25Z"
+      "last_success_at": "2026-11-12T00:01:15Z"
     }
   ],
   "owner_confirmed_added": 13,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "vJf6T-SIyP4",
+      "title": "Why It Matters: ‘No More Delay’, Fletcher Tells Governments Stalling…",
+      "published": "2026-11-12T00:01:06Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "svYxFYKl93U",
       "title": "Breaking: Trump Defends Iran War in Veterans Day Speech",
-      "published": "2026-11-11T22:52:52Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-11T22:53:01Z"
     },
     {
       "channel": "news",
@@ -113,14 +119,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "yR_Y3QKQWpA",
       "title": "Why It Matters: House Expected to Hold Preliminary Vote on Hegseth…",
-      "published": "2026-11-10T22:40:48Z"
+      "published": "2026-11-10T22:40:28Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "KotfeS2Sbj0",
       "title": "House Panel Rebukes Doj's Handling of Epstein Case | World News…",
-      "published": "2026-11-10T21:38:39Z"
+      "published": "2026-11-10T21:38:08Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "sg7-6EcJzNI",
       "title": "Why It Matters: Federal, Provincial, and Territorial Ministers…",
       "published": "2026-11-10T11:28:03Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "nVyc7OebFC4",
-      "title": "Trump, Rubio Defend Hegseth as Impeachment Bid Nears",
-      "published": "2026-11-10T01:46:12Z",
       "source": "owner_confirmed_public"
     },
     {

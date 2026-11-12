@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-11T22:59:25Z",
+  "updated_at": "2026-11-12T00:01:13Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "vJf6T-SIyP4",
+      "title": "Why It Matters: ‘No More Delay’, Fletcher Tells Governments Stalling…",
+      "published": "2026-11-12T00:00:56Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "m0kScf05Dh8",
       "title": "How Democrats Will Try to End Trump's Tariffs | U.S. Politics Briefing",
       "published": "2026-11-08T21:02:45Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "8sFjjRGenAw",
-      "title": "Breaking: How Democrats Will Try to End Trump's Tariffs",
-      "published": "2026-11-08T14:24:55Z",
       "source": "owner_confirmed_public"
     }
   ]
