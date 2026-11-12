@@ -1,20 +1,19 @@
 {
-  "updated_at": "2026-11-12T12:49:08Z",
+  "updated_at": "2026-11-12T17:04:19Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 3
+      "recent_headlines": 4
     },
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 6
     },
     {
       "source": "U.S. EIA",
@@ -23,6 +22,22 @@
     }
   ],
   "items": [
+    {
+      "id": "e589a1e1c99ea10e",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-12T16:00:00Z"
+    },
+    {
+      "id": "e3f23c3f0faa7979",
+      "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-12T14:00:00Z"
+    },
     {
       "id": "59dc55a43db60f5e",
       "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
@@ -254,22 +269,6 @@
       "source": "Federal Reserve",
       "category": "Economy",
       "published": "2026-10-29T20:30:00Z"
-    },
-    {
-      "id": "6532f5dfcd665d72",
-      "title": "Bank of Canada Expands Access to Eligible Non-Primary Dealer Government Securities Distributors to Select Market Operations",
-      "url": "https://www.bankofcanada.ca/2026/10/market-notice-bank-of-canada-expands-access-to-eligible-non-primary-dealer-government-securities-distributors-to-select-market-operations/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-29T14:00:13Z"
-    },
-    {
-      "id": "6d5f94b54e3e2bf7",
-      "title": "LNG imports make up increasing share of Colombia's natural gas supply",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-10-29T14:00:00Z"
     }
   ]
 }
