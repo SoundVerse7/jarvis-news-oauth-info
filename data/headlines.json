@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-12T17:04:19Z",
+  "updated_at": "2026-11-12T20:52:01Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 4
+      "recent_headlines": 5
     },
     {
       "source": "Bank of Canada",
@@ -22,6 +23,22 @@
     }
   ],
   "items": [
+    {
+      "id": "1ee6867cdbb6f3c3",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adju",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-12T18:30:00Z"
+    },
+    {
+      "id": "87a784bdd6110f05",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-12T17:45:00Z"
+    },
     {
       "id": "e589a1e1c99ea10e",
       "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
@@ -37,6 +54,46 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-12T14:00:00Z"
+    },
+    {
+      "id": "e44bf41057f0c524",
+      "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "e5307a7894550b5b",
+      "title": "New platform aims to get money moving before disaster strikes",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "4d5f93737abb2dff",
+      "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168792",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "2151f47ceb263959",
+      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-12T12:00:00Z"
+    },
+    {
+      "id": "7e2899c1e4e25153",
+      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-12T12:00:00Z"
     },
     {
       "id": "59dc55a43db60f5e",
@@ -64,7 +121,7 @@
     },
     {
       "id": "cf886cd6267ba102",
-      "title": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+      "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
       "source": "UN News",
       "category": "World",
@@ -135,52 +192,12 @@
       "published": "2026-11-10T12:00:00Z"
     },
     {
-      "id": "e46d78df8f21c244",
-      "title": "Sudan war: First ‘suicide’ drone attacks, now long-range strikes are the norm",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168771",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-10T12:00:00Z"
-    },
-    {
-      "id": "24a90a69335afe73",
-      "title": "Climate crisis could push 141 million more women into extreme poverty",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168770",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-10T12:00:00Z"
-    },
-    {
       "id": "2bae0dc9f043ef95",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
       "source": "Federal Reserve",
       "category": "Economy",
       "published": "2026-11-09T21:00:00Z"
-    },
-    {
-      "id": "218a7ec8860b79d4",
-      "title": "At least 56 migrants die in weekend shipwrecks off Senegal and Greece",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168769",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-09T12:00:00Z"
-    },
-    {
-      "id": "fff849038eca5078",
-      "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168768",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-09T12:00:00Z"
-    },
-    {
-      "id": "c87f859afed345eb",
-      "title": "Children among the dead as heavy rains flood tents and shelters in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168766",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-09T12:00:00Z"
     },
     {
       "id": "0300679559154a9d",
@@ -261,14 +278,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-30T14:00:00Z"
-    },
-    {
-      "id": "41690a4ebc45cdda",
-      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-10-29T20:30:00Z"
     }
   ]
 }
