@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T03:51:17Z",
+  "updated_at": "2026-11-12T11:17:48Z",
   "channels": [
     {
       "key": "original",
@@ -17,15 +17,15 @@
   "status": [
     {
       "channel": "original",
-      "status": "unavailable",
+      "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-12T02:35:48Z"
+      "last_success_at": "2026-11-12T11:17:48Z"
     },
     {
       "channel": "news",
-      "status": "unavailable",
-      "videos": 20,
-      "last_success_at": "2026-11-12T02:35:48Z"
+      "status": "ok",
+      "videos": 12,
+      "last_success_at": "2026-11-12T11:17:48Z"
     }
   ],
   "owner_confirmed_added": 13,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "j_JTJsqu3Bg",
+      "title": "From Japan to Rwanda, Early Warnings Are… and 4 More Stories",
+      "published": "2026-11-12T11:12:26Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "2M4sszs-nH0",
       "title": "US Election Results Could Be Positive for Lebanon",
-      "published": "2026-11-12T02:35:34Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-12T02:35:58Z"
     },
     {
       "channel": "news",
@@ -49,7 +55,7 @@
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "vJf6T-SIyP4",
-      "title": "Why It Matters: ‘No More Delay’, Fletcher Tells Governments Stalling…",
+      "title": "‘No More Delay’, Fletcher Tells Governments Stalling on Support",
       "published": "2026-11-12T00:01:06Z"
     },
     {
@@ -70,14 +76,14 @@
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "cHJh9j-xX-E",
-      "title": "Canada Reimposes Sanctions on Iran for Violating Nuclear…",
+      "title": "Canada Reimposes Sanctions on Iran for Violating Nuclear Non-Proliferation Commitments",
       "published": "2026-11-11T21:21:53Z"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "I9qxn0zWlNo",
-      "title": "Russia’S Ambassador to the United States Dies, Aged 66",
+      "title": "Russia’s Ambassador to the United States Dies, Aged 66",
       "published": "2026-11-11T20:11:05Z"
     },
     {
@@ -91,7 +97,7 @@
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "M9hdeZPU7W4",
-      "title": "Trump Marks Veterans Day with Wreath Laying and 3 More Stories",
+      "title": "Trump Marks Veterans Day with Wreath Laying",
       "published": "2026-11-11T17:44:25Z"
     },
     {
@@ -113,14 +119,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "A-XwBfsw2mc",
       "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
-      "published": "2026-11-11T02:18:10Z"
+      "published": "2026-11-11T02:17:57Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mna3ENh5iWc",
       "title": "Sanders Won't Back Schumer as Democratic Leader in New Congress",
-      "published": "2026-11-11T01:08:13Z"
+      "published": "2026-11-11T01:07:47Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "i3AGW5-SrfM",
       "title": "Why It Matters: First Suicide Bombers, Now Long-Range Drone Strikes…",
       "published": "2026-11-10T17:38:12Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "E5Cm3IN-FwE",
-      "title": "Why It Matters: Trump’S C-SPAN Call Marks Latest Surprise…",
-      "published": "2026-11-10T16:13:31Z",
       "source": "owner_confirmed_public"
     },
     {
