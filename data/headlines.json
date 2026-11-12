@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:17:48Z",
+  "updated_at": "2026-11-12T12:25:56Z",
   "sources": [
     {
       "source": "UN News",
@@ -13,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 7
     },
     {
       "source": "U.S. EIA",
@@ -269,22 +269,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-10-29T14:00:00Z"
-    },
-    {
-      "id": "8394c8b6e85496b4",
-      "title": "Bank of Canada webcasts The John Kuszczak Memorial Lecture",
-      "url": "https://www.bankofcanada.ca/2026/10/bank-canada-webcasts-john-kuszczak-memorial-lecture-2026-10-29/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-29T11:30:30Z"
-    },
-    {
-      "id": "a1a82447eeeb63f2",
-      "title": "John Kuszczak Memorial Lecture 2026",
-      "url": "https://www.bankofcanada.ca/multimedia/john-kuszczak-memorial-lecture-2026-10-29/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-10-29T11:30:11Z"
     }
   ]
 }

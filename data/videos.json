@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:17:48Z",
+  "updated_at": "2026-11-12T12:25:56Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-12T11:17:48Z"
+      "last_success_at": "2026-11-12T12:25:56Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-12T11:17:48Z"
+      "last_success_at": "2026-11-12T12:25:56Z"
     }
   ],
   "owner_confirmed_added": 13,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "kSZBSqJEqwc",
+      "title": "Why It Matters: After 48 Years Patrolling the Blue Line",
+      "published": "2026-11-12T12:19:59Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -104,7 +111,7 @@
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "6iLM4XDkHX0",
-      "title": "LIVE: War Alert: Sudan War: First Suicide Bombers, Now",
+      "title": "LIVE: Canada Reimposes Sanctions on Iran - What We Know Now",
       "published": "2026-11-11T09:27:44Z"
     },
     {
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "hrt_UskqfVw",
       "title": "Kennedys Sue to Block Trump's Arch - What We Know",
-      "published": "2026-11-11T04:25:20Z"
+      "published": "2026-11-11T04:24:53Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "Baa-yVMS_Z4",
       "title": "Why It Matters: Another Top DOJ Official Resigns",
       "published": "2026-11-10T18:43:26Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "i3AGW5-SrfM",
-      "title": "Why It Matters: First Suicide Bombers, Now Long-Range Drone Strikes…",
-      "published": "2026-11-10T17:38:12Z",
       "source": "owner_confirmed_public"
     },
     {

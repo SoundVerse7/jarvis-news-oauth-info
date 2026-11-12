@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T11:17:48Z",
+  "updated_at": "2026-11-12T12:25:56Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "kSZBSqJEqwc",
+      "title": "Why It Matters: After 48 Years Patrolling the Blue Line",
+      "published": "2026-11-12T12:19:39Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "vGlP1Mfslqc",
       "title": "Iran Threatens to ‘Rain Down Hell’ If US Escalates War",
       "published": "2026-11-09T12:26:33Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "zaNmEkpnwLE",
-      "title": "Krakow Shooting Suspect Has Died in Hospital, Police Say",
-      "published": "2026-11-09T11:07:01Z",
       "source": "owner_confirmed_public"
     }
   ]
