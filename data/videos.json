@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:55:49Z",
+  "updated_at": "2026-11-13T17:47:13Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-13T15:55:49Z"
+      "last_success_at": "2026-11-13T17:47:13Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-13T15:55:49Z"
+      "last_success_at": "2026-11-13T17:47:13Z"
     }
   ],
   "owner_confirmed_added": 12,
