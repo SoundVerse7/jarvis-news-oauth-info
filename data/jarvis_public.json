@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-12T17:04:19Z",
+  "updated_at": "2026-11-13T14:25:57Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "Xs_EsFtSXc4",
+      "title": "Breaking: After Suffering Its Worst Election Result",
+      "published": "2026-11-13T13:27:47Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "w05KnWfmjyY",
       "title": "Trump Defends Nvidia CEO Amid Chinese Spying Allegations",
       "published": "2026-11-09T14:57:53Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "7hepWGNokL0",
-      "title": "Philippines: 'Trump Out!' Women Rally Ahead of ASEAN Summit",
-      "published": "2026-11-09T13:43:08Z",
       "source": "owner_confirmed_public"
     }
   ]

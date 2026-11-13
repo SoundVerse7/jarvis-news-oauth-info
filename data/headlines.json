@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T09:37:30Z",
+  "updated_at": "2026-11-13T14:25:57Z",
   "sources": [
     {
       "source": "UN News",
@@ -23,6 +23,30 @@
     }
   ],
   "items": [
+    {
+      "id": "2474a6edd8a20e4b",
+      "title": "Hydropower generation in the Southwest fell to record lows this summer",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68445",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-13T14:00:00Z"
+    },
+    {
+      "id": "caa6051ad9a7a5b6",
+      "title": "COP31: New initiative targets AI and reliable climate change information",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-13T12:00:00Z"
+    },
+    {
+      "id": "9cf54d021a2bc4e9",
+      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-13T12:00:00Z"
+    },
     {
       "id": "1ee6867cdbb6f3c3",
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adju",
@@ -176,22 +200,6 @@
       "published": "2026-11-10T12:00:00Z"
     },
     {
-      "id": "132c4c5204081e0d",
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-10T12:00:00Z"
-    },
-    {
-      "id": "d4a5b773f1531b19",
-      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-10T12:00:00Z"
-    },
-    {
       "id": "2bae0dc9f043ef95",
       "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
@@ -270,14 +278,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-03T11:00:36Z"
-    },
-    {
-      "id": "a3882203fc769380",
-      "title": "The share of solar generation with co-located battery storage is increasing",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68384",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-10-30T14:00:00Z"
     }
   ]
 }
