@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T15:55:48Z",
+  "updated_at": "2026-11-13T20:19:15Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "4BJvfgku7Lg",
+      "title": "Breaking: Supreme Court Takes Up Case Over Asylum Access at Border",
+      "published": "2026-11-13T20:11:37Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Ld-s2IVjfXw",
       "title": "Hegseth Mandates Military Education Reform - What We Know",
       "published": "2026-11-09T20:41:37Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "sFQR6InytlM",
-      "title": "Breaking: Defense Secretary Pete Hegseth Could Face Impeachment Vote",
-      "published": "2026-11-09T19:31:15Z",
       "source": "owner_confirmed_public"
     }
   ]
