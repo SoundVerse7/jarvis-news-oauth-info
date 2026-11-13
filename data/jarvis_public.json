@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T14:25:57Z",
+  "updated_at": "2026-11-13T15:55:48Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "kImvELc-vRQ",
+      "title": "Breaking: China Warns Against Fresh US Chip Curbs",
+      "published": "2026-11-13T15:36:38Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "sFQR6InytlM",
       "title": "Breaking: Defense Secretary Pete Hegseth Could Face Impeachment Vote",
       "published": "2026-11-09T19:31:15Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "w05KnWfmjyY",
-      "title": "Trump Defends Nvidia CEO Amid Chinese Spying Allegations",
-      "published": "2026-11-09T14:57:53Z",
       "source": "owner_confirmed_public"
     }
   ]
