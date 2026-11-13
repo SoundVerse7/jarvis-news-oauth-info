@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:52:21Z",
+  "updated_at": "2026-11-13T09:37:30Z",
   "sources": [
     {
       "source": "UN News",
@@ -54,6 +54,14 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-12T14:00:00Z"
+    },
+    {
+      "id": "23e5aead6df2bbc4",
+      "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-12T12:00:00Z"
     },
     {
       "id": "e44bf41057f0c524",
@@ -179,14 +187,6 @@
       "id": "d4a5b773f1531b19",
       "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-10T12:00:00Z"
-    },
-    {
-      "id": "30c987c3598b9908",
-      "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168772",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-10T12:00:00Z"
