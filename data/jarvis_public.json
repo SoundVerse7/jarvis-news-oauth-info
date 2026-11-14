@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-13T20:19:15Z",
+  "updated_at": "2026-11-14T14:43:57Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "PqVzcYF6pe0",
+      "title": "Breaking: US Has Floated Ukraine Ceding Donbas for Nato Membership",
+      "published": "2026-11-14T13:35:16Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "7hwZOTFbRlA",
       "title": "Hegseth Impeachment Articles Introduced by Rep. Massie",
       "published": "2026-11-09T21:51:37Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Ld-s2IVjfXw",
-      "title": "Hegseth Mandates Military Education Reform - What We Know",
-      "published": "2026-11-09T20:41:37Z",
       "source": "owner_confirmed_public"
     }
   ]
