@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-14T16:55:28Z",
+  "updated_at": "2026-11-14T23:00:29Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "cAiYV8YXwCo",
+      "title": "Breaking: European Security Plan Floated by U.S. Would Benefit Putin",
+      "published": "2026-11-14T22:29:26Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "YDSvb3HQ5p8",
       "title": "Watch: Trump Gives Post-Midterm Press Briefing, Alongside Dana White",
       "published": "2026-11-10T00:40:13Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "DwNZ_HWiT2M",
-      "title": "Breaking: Trump Admin Proposes Stricter Unemployment Work Search Rules",
-      "published": "2026-11-09T23:35:05Z",
       "source": "owner_confirmed_public"
     }
   ]
