@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T03:29:29Z",
+  "updated_at": "2026-11-15T11:31:03Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "XoaRrNCKCA0",
+      "title": "Federal Judge Blocks Trump from Closing Historic D.C. Golf Course, for Now",
+      "published": "2026-11-15T11:21:01Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "E5Cm3IN-FwE",
       "title": "Why It Matters: Trump’S C-SPAN Call Marks Latest Surprise…",
       "published": "2026-11-10T16:13:31Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "mWqMjC6VImE",
-      "title": "Consumer Prices Rose 0.4% in October, More Than Expected",
-      "published": "2026-11-10T14:53:41Z",
       "source": "owner_confirmed_public"
     }
   ]
