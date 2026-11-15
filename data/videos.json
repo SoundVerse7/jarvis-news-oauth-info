@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:02:22Z",
+  "updated_at": "2026-11-15T00:02:09Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 12,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "7E6OChwkMig",
+      "title": "Russia, Ukraine and US to Meet - What We Know",
+      "published": "2026-11-15T00:01:44Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "hrt_UskqfVw",
       "title": "Kennedys Sue to Block Trump's Arch - What We Know",
       "published": "2026-11-11T04:24:53Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "A-XwBfsw2mc",
-      "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
-      "published": "2026-11-11T02:17:57Z",
       "source": "owner_confirmed_public"
     },
     {
