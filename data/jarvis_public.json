@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T11:31:03Z",
+  "updated_at": "2026-11-15T15:58:42Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ebCQg_Q-qsY",
+      "title": "Copper Wires to Blame for US Flight Disruption, Says Trump Administration",
+      "published": "2026-11-15T15:44:11Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "i3AGW5-SrfM",
       "title": "Why It Matters: First Suicide Bombers, Now Long-Range Drone Strikes…",
       "published": "2026-11-10T17:38:12Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "E5Cm3IN-FwE",
-      "title": "Why It Matters: Trump’S C-SPAN Call Marks Latest Surprise…",
-      "published": "2026-11-10T16:13:31Z",
       "source": "owner_confirmed_public"
     }
   ]
