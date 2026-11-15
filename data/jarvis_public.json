@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T00:02:08Z",
+  "updated_at": "2026-11-15T02:48:31Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "K3Y6G9ik98k",
+      "title": "Canada and the Philippines Conclude Talks on Free Trade Deal",
+      "published": "2026-11-15T02:03:30Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "sg7-6EcJzNI",
       "title": "Why It Matters: Federal, Provincial, and Territorial Ministers…",
       "published": "2026-11-10T11:28:03Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "nVyc7OebFC4",
-      "title": "Trump, Rubio Defend Hegseth as Impeachment Bid Nears",
-      "published": "2026-11-10T01:46:12Z",
       "source": "owner_confirmed_public"
     }
   ]
