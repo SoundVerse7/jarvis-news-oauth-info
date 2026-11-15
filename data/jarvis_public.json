@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-15T15:58:42Z",
+  "updated_at": "2026-11-15T21:32:32Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "1p4pQsY_gDg",
+      "title": "Bessent Says Nvidia Must ‘Go Outside the Company’ to Find New CEO",
+      "published": "2026-11-15T20:11:19Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Baa-yVMS_Z4",
       "title": "Why It Matters: Another Top DOJ Official Resigns",
       "published": "2026-11-10T18:43:26Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "i3AGW5-SrfM",
-      "title": "Why It Matters: First Suicide Bombers, Now Long-Range Drone Strikes…",
-      "published": "2026-11-10T17:38:12Z",
       "source": "owner_confirmed_public"
     }
   ]
