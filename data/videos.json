@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T02:47:42Z",
+  "updated_at": "2026-11-16T05:10:09Z",
   "channels": [
     {
       "key": "original",
@@ -30,6 +30,14 @@
   ],
   "owner_confirmed_added": 12,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "uXp8yV5EIOo",
+      "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
+      "published": "2026-11-16T04:23:44Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "ng4tFHk5d2g",
       "title": "Breaking: Kenya's Last Ebola Patient Leaves Hospital",
       "published": "2026-11-12T01:09:05Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "vJf6T-SIyP4",
-      "title": "Why It Matters: ‘No More Delay’, Fletcher Tells Governments Stalling…",
-      "published": "2026-11-12T00:00:56Z",
       "source": "owner_confirmed_public"
     },
     {
