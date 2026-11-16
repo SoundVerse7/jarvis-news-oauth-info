@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T05:10:09Z",
+  "updated_at": "2026-11-16T05:10:12Z",
   "channels": [
     {
       "key": "original",
@@ -36,6 +36,14 @@
       "video_id": "uXp8yV5EIOo",
       "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
       "published": "2026-11-16T04:23:44Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "uHyey2lNles",
+      "title": "Trump Breaks Silence on US Ground Stop - What We Know",
+      "published": "2026-11-16T04:23:29Z",
       "source": "owner_confirmed_public"
     },
     {
@@ -168,14 +176,6 @@
       "video_id": "2M4sszs-nH0",
       "title": "US Election Results Could Be Positive for Lebanon",
       "published": "2026-11-12T02:35:34Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ng4tFHk5d2g",
-      "title": "Breaking: Kenya's Last Ebola Patient Leaves Hospital",
-      "published": "2026-11-12T01:09:05Z",
       "source": "owner_confirmed_public"
     },
     {
