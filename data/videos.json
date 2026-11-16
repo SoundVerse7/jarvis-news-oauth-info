@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T05:27:33Z",
+  "updated_at": "2026-11-16T05:27:36Z",
   "channels": [
     {
       "key": "original",
@@ -36,6 +36,14 @@
       "video_id": "mACeaR4tCT4",
       "title": "Trump Breaks Silence on US Ground Stop, Demands More Money from Congress",
       "published": "2026-11-16T04:25:07Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "y4oaVrDsx3A",
+      "title": "Breaking: China Stonewalls on Cases of Detained Americans",
+      "published": "2026-11-16T04:24:17Z",
       "source": "owner_confirmed_public"
     },
     {
@@ -168,14 +176,6 @@
       "video_id": "DfOUnmzaV_M",
       "title": "ICE Deportations and Arrests Hit Record High - What We Know",
       "published": "2026-11-12T17:04:02Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "kSZBSqJEqwc",
-      "title": "Why It Matters: After 48 Years Patrolling the Blue Line",
-      "published": "2026-11-12T12:19:39Z",
       "source": "owner_confirmed_public"
     },
     {
