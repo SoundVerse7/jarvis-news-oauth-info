@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T16:39:20Z",
+  "updated_at": "2026-11-16T18:20:32Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "I2mzti2gLog",
+      "title": "China Says Xi, Trump, Putin to Discuss 'World Peace'",
+      "published": "2026-11-16T18:12:09Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "cHJh9j-xX-E",
       "title": "Canada Reimposes Sanctions on Iran for Violating Nuclear…",
       "published": "2026-11-11T21:21:32Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "3QiFRTUeCQs",
-      "title": "White House Warns of \"Blatant Criminality\" in Democratic Probes",
-      "published": "2026-11-11T18:56:49Z",
       "source": "owner_confirmed_public"
     }
   ]

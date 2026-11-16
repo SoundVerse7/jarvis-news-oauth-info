@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-16T16:39:20Z",
+  "updated_at": "2026-11-16T18:20:32Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -23,12 +24,68 @@
   ],
   "items": [
     {
+      "id": "7dba4c4308c8a62a",
+      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "2c7a1b19d3afb590",
+      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "9d382a473ec70f7f",
+      "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "42914aa5898916a2",
+      "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "543962109195867f",
+      "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
       "id": "d799fcf4ed47b483",
       "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
       "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-16T10:00:04Z"
+    },
+    {
+      "id": "6c89a9610acaa0c9",
+      "title": "First Person: Managing risk on Ukraine’s frontline",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-15T12:00:00Z"
+    },
+    {
+      "id": "2a021621ae0c13d8",
+      "title": "Empowering faith and Indigenous leaders to combat hate",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-15T12:00:00Z"
     },
     {
       "id": "901fe109e2445314",
@@ -149,62 +206,6 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-11-12T12:00:00Z"
-    },
-    {
-      "id": "e44bf41057f0c524",
-      "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-12T12:00:00Z"
-    },
-    {
-      "id": "e5307a7894550b5b",
-      "title": "New platform aims to get money moving before disaster strikes",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-12T12:00:00Z"
-    },
-    {
-      "id": "4d5f93737abb2dff",
-      "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168792",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-12T12:00:00Z"
-    },
-    {
-      "id": "2151f47ceb263959",
-      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-12T12:00:00Z"
-    },
-    {
-      "id": "7e2899c1e4e25153",
-      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-12T12:00:00Z"
-    },
-    {
-      "id": "59dc55a43db60f5e",
-      "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168788",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-11T12:00:00Z"
-    },
-    {
-      "id": "19c5bcec359f62b3",
-      "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-11T12:00:00Z"
     },
     {
       "id": "26a321e6136d12f3",
