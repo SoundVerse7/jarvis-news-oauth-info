@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T19:47:27Z",
+  "updated_at": "2026-11-16T23:43:36Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "g1Q2I3VmadY",
+      "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
+      "published": "2026-11-16T23:43:23Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "vJf6T-SIyP4",
       "title": "Why It Matters: ‘No More Delay’, Fletcher Tells Governments Stalling…",
       "published": "2026-11-12T00:00:56Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "svYxFYKl93U",
-      "title": "Breaking: Trump Defends Iran War in Veterans Day Speech",
-      "published": "2026-11-11T22:52:52Z",
       "source": "owner_confirmed_public"
     }
   ]

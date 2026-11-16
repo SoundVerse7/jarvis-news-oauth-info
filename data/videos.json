@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T22:11:50Z",
+  "updated_at": "2026-11-16T23:43:37Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-16T22:11:50Z"
+      "last_success_at": "2026-11-16T23:43:37Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-16T22:11:50Z"
+      "last_success_at": "2026-11-16T23:43:37Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "g1Q2I3VmadY",
+      "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
+      "published": "2026-11-16T23:43:23Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "cAiYV8YXwCo",
       "title": "Breaking: European Security Plan Floated by U.S. Would Benefit Putin",
       "published": "2026-11-14T22:29:26Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ihEL5l_ci14",
-      "title": "Trump-Xi-Putin Trilateral Meeting at APEC: What to Expect",
-      "published": "2026-11-14T16:32:19Z",
       "source": "owner_confirmed_public"
     },
     {
