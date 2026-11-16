@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T11:08:51Z",
+  "updated_at": "2026-11-16T15:35:14Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "19dV8RhTtXo",
+      "title": "Estonia to Close Russia Border After ‘Sabotage’ Bid",
+      "published": "2026-11-16T13:43:35Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "M9hdeZPU7W4",
       "title": "Trump Marks Veterans Day with Wreath Laying and 3 More Stories",
       "published": "2026-11-11T17:44:08Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "hrt_UskqfVw",
-      "title": "Kennedys Sue to Block Trump's Arch - What We Know",
-      "published": "2026-11-11T04:24:53Z",
       "source": "owner_confirmed_public"
     }
   ]

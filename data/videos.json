@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:31:54Z",
+  "updated_at": "2026-11-16T15:35:17Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-16T11:31:54Z"
+      "last_success_at": "2026-11-16T15:35:17Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-16T11:31:54Z"
+      "last_success_at": "2026-11-16T15:35:17Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "19dV8RhTtXo",
+      "title": "Estonia to Close Russia Border After ‘Sabotage’ Bid",
+      "published": "2026-11-16T13:43:52Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "kPuHIxFyIao",
       "title": "Netanyahu Sends Plea to Eisenkot for Unity Government",
-      "published": "2026-11-15T02:59:22Z"
+      "published": "2026-11-15T02:59:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "kImvELc-vRQ",
       "title": "Breaking: China Warns Against Fresh US Chip Curbs",
       "published": "2026-11-13T15:36:38Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "Xs_EsFtSXc4",
-      "title": "Breaking: After Suffering Its Worst Election Result",
-      "published": "2026-11-13T13:27:47Z",
       "source": "owner_confirmed_public"
     },
     {

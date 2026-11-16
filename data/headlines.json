@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T11:31:54Z",
+  "updated_at": "2026-11-16T15:35:14Z",
   "sources": [
     {
       "source": "UN News",
@@ -13,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 6
+      "recent_headlines": 7
     },
     {
       "source": "U.S. EIA",
@@ -22,6 +22,14 @@
     }
   ],
   "items": [
+    {
+      "id": "d799fcf4ed47b483",
+      "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-16T10:00:04Z"
+    },
     {
       "id": "901fe109e2445314",
       "title": "Nadia Murad: ‘Day by day, I took my story back’",
