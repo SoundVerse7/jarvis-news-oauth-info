@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:35:17Z",
+  "updated_at": "2026-11-16T16:39:21Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-16T15:35:17Z"
+      "last_success_at": "2026-11-16T16:39:21Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-16T15:35:17Z"
+      "last_success_at": "2026-11-16T16:39:21Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "eNpSQp4H4vE",
+      "title": "For Trump in Shenzhen or Zhuhai Air Show? PLA’s J-10C Aerobatic Team Seen in South China",
+      "published": "2026-11-16T16:28:39Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "XoaRrNCKCA0",
       "title": "Federal Judge Blocks Trump from Closing Historic D.C. Golf Course, for Now",
-      "published": "2026-11-15T11:21:13Z"
+      "published": "2026-11-15T11:21:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "4BJvfgku7Lg",
       "title": "Breaking: Supreme Court Takes Up Case Over Asylum Access at Border",
       "published": "2026-11-13T20:11:37Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "kImvELc-vRQ",
-      "title": "Breaking: China Warns Against Fresh US Chip Curbs",
-      "published": "2026-11-13T15:36:38Z",
       "source": "owner_confirmed_public"
     },
     {

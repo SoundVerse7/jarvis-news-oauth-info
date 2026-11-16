@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T15:35:14Z",
+  "updated_at": "2026-11-16T16:39:20Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "eNpSQp4H4vE",
+      "title": "For Trump in Shenzhen or Zhuhai Air Show? PLA’s J-10C Aerobatic Team Seen in South China",
+      "published": "2026-11-16T16:28:15Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "3QiFRTUeCQs",
       "title": "White House Warns of \"Blatant Criminality\" in Democratic Probes",
       "published": "2026-11-11T18:56:49Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "M9hdeZPU7W4",
-      "title": "Trump Marks Veterans Day with Wreath Laying and 3 More Stories",
-      "published": "2026-11-11T17:44:08Z",
       "source": "owner_confirmed_public"
     }
   ]
