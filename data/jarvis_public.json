@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T05:27:38Z",
+  "updated_at": "2026-11-16T11:08:51Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "9XzKRxCh-Yw",
+      "title": "Houthis Advance in Yemen as Government Forces Move to Defend Aden",
+      "published": "2026-11-16T11:00:38Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "hrt_UskqfVw",
       "title": "Kennedys Sue to Block Trump's Arch - What We Know",
       "published": "2026-11-11T04:24:53Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "A-XwBfsw2mc",
-      "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
-      "published": "2026-11-11T02:17:57Z",
       "source": "owner_confirmed_public"
     }
   ]
