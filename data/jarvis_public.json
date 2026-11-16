@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T05:27:36Z",
+  "updated_at": "2026-11-16T05:27:38Z",
   "items": [
     {
       "channel": "news",
@@ -8,6 +8,14 @@
       "video_id": "mACeaR4tCT4",
       "title": "Trump Breaks Silence on US Ground Stop, Demands More Money from Congress",
       "published": "2026-11-16T04:25:07Z",
+      "source": "owner_confirmed_public"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "F0K-xEH6kQY",
+      "title": "In the ‘Kill Zone’, Ukraine Bets on Flying Evacuation Drones",
+      "published": "2026-11-16T04:24:32Z",
       "source": "owner_confirmed_public"
     },
     {
@@ -232,14 +240,6 @@
       "video_id": "A-XwBfsw2mc",
       "title": "Judge Allows Trump's $10Bn Defamation Case Against BBC to Proceed",
       "published": "2026-11-11T02:17:57Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "mna3ENh5iWc",
-      "title": "Sanders Won't Back Schumer as Democratic Leader in New Congress",
-      "published": "2026-11-11T01:07:47Z",
       "source": "owner_confirmed_public"
     }
   ]
