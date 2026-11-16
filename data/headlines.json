@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-16T19:47:27Z",
+  "updated_at": "2026-11-16T22:11:50Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,38 @@
     }
   ],
   "items": [
+    {
+      "id": "1924719aa89335fa",
+      "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "9029e19e2171e882",
+      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "817cd1e1918fbbb5",
+      "title": "Lebanon leading the way in mental health support",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
+    {
+      "id": "03c899d0776220ee",
+      "title": "AI gets climate science right – until users push back",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-16T12:00:00Z"
+    },
     {
       "id": "7dba4c4308c8a62a",
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
@@ -143,30 +176,6 @@
       "published": "2026-11-13T12:00:00Z"
     },
     {
-      "id": "8e8d04d3b9846a69",
-      "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-13T12:00:00Z"
-    },
-    {
-      "id": "caa6051ad9a7a5b6",
-      "title": "COP31: New initiative targets AI and reliable climate change information",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-13T12:00:00Z"
-    },
-    {
-      "id": "9cf54d021a2bc4e9",
-      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-13T12:00:00Z"
-    },
-    {
       "id": "1ee6867cdbb6f3c3",
       "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adju",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
@@ -197,14 +206,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-12T14:00:00Z"
-    },
-    {
-      "id": "23e5aead6df2bbc4",
-      "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-12T12:00:00Z"
     },
     {
       "id": "26a321e6136d12f3",
