@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T05:10:23Z",
+  "updated_at": "2026-11-16T05:27:33Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "mACeaR4tCT4",
+      "title": "Trump Breaks Silence on US Ground Stop, Demands More Money from Congress",
+      "published": "2026-11-16T04:25:07Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Gvy_iSuYI5o",
       "title": "US Again Fails to Show at UN for Its Human Rights Review",
       "published": "2026-11-11T00:00:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "yR_Y3QKQWpA",
-      "title": "Why It Matters: House Expected to Hold Preliminary Vote on Hegseth…",
-      "published": "2026-11-10T22:40:28Z",
       "source": "owner_confirmed_public"
     }
   ]
