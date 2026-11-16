@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T05:10:12Z",
+  "updated_at": "2026-11-16T05:10:23Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ipSuyC2es7M",
+      "title": "Koh Blames Trump for Blocking Biden-Era Infrastructure",
+      "published": "2026-11-16T04:24:00Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "yR_Y3QKQWpA",
       "title": "Why It Matters: House Expected to Hold Preliminary Vote on Hegseth…",
       "published": "2026-11-10T22:40:28Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "KotfeS2Sbj0",
-      "title": "House Panel Rebukes Doj's Handling of Epstein Case | World News…",
-      "published": "2026-11-10T21:38:08Z",
       "source": "owner_confirmed_public"
     }
   ]
