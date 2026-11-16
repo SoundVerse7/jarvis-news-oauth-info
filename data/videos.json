@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:20:33Z",
+  "updated_at": "2026-11-16T19:47:28Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-16T18:20:33Z"
+      "last_success_at": "2026-11-16T19:47:28Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-16T18:20:33Z"
+      "last_success_at": "2026-11-16T19:47:28Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "joVmyTzN1O8",
+      "title": "NEW: Third US Aircraft Carrier Arrives in Middle East",
+      "published": "2026-11-16T19:43:56Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "1p4pQsY_gDg",
       "title": "Bessent Says Nvidia Must ‘Go Outside the Company’ to Find New CEO",
-      "published": "2026-11-15T20:11:31Z"
+      "published": "2026-11-15T20:11:19Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "ihEL5l_ci14",
       "title": "Trump-Xi-Putin Trilateral Meeting at APEC: What to Expect",
       "published": "2026-11-14T16:32:19Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "PqVzcYF6pe0",
-      "title": "Breaking: US Has Floated Ukraine Ceding Donbas for Nato Membership",
-      "published": "2026-11-14T13:35:16Z",
       "source": "owner_confirmed_public"
     },
     {

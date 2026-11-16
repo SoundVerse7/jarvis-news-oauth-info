@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-16T18:20:32Z",
+  "updated_at": "2026-11-16T19:47:27Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "joVmyTzN1O8",
+      "title": "NEW: Third US Aircraft Carrier Arrives in Middle East",
+      "published": "2026-11-16T19:43:28Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "svYxFYKl93U",
       "title": "Breaking: Trump Defends Iran War in Veterans Day Speech",
       "published": "2026-11-11T22:52:52Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "cHJh9j-xX-E",
-      "title": "Canada Reimposes Sanctions on Iran for Violating Nuclear…",
-      "published": "2026-11-11T21:21:32Z",
       "source": "owner_confirmed_public"
     }
   ]

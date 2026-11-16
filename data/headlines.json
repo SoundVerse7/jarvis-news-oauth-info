@@ -1,10 +1,9 @@
 {
-  "updated_at": "2026-11-16T18:20:32Z",
+  "updated_at": "2026-11-16T19:47:27Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
