@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T23:43:37Z",
+  "updated_at": "2026-11-17T01:05:30Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-16T23:43:37Z"
+      "last_success_at": "2026-11-17T01:05:30Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-16T23:43:37Z"
+      "last_success_at": "2026-11-17T01:05:30Z"
     }
   ],
   "owner_confirmed_added": 11,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "3cVk2M9ePDI",
+      "title": "Carney Says Canada Will Only Sign a U.S. Trade Deal That Includes Viable Auto Sector",
+      "published": "2026-11-17T00:59:08Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "g1Q2I3VmadY",
       "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
-      "published": "2026-11-16T23:43:23Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-16T23:43:42Z"
     },
     {
       "channel": "news",
@@ -113,14 +119,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "uXp8yV5EIOo",
       "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
-      "published": "2026-11-16T04:24:04Z"
+      "published": "2026-11-16T04:23:44Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "uHyey2lNles",
       "title": "Trump Breaks Silence on US Ground Stop - What We Know",
-      "published": "2026-11-16T04:23:38Z"
+      "published": "2026-11-16T04:23:29Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "7E6OChwkMig",
       "title": "Russia, Ukraine and US to Meet - What We Know",
       "published": "2026-11-15T00:01:44Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "cAiYV8YXwCo",
-      "title": "Breaking: European Security Plan Floated by U.S. Would Benefit Putin",
-      "published": "2026-11-14T22:29:26Z",
       "source": "owner_confirmed_public"
     },
     {
