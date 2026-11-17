@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T18:24:21Z",
+  "updated_at": "2026-11-17T22:55:58Z",
   "sources": [
     {
       "source": "UN News",
@@ -30,6 +30,22 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-17T14:00:00Z"
+    },
+    {
+      "id": "cff41e40b9a1a96b",
+      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-17T12:00:00Z"
+    },
+    {
+      "id": "ca5eab4f8a8271ce",
+      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-17T12:00:00Z"
     },
     {
       "id": "c445ee26f942e340",
@@ -147,22 +163,6 @@
       "id": "6c89a9610acaa0c9",
       "title": "First Person: Managing risk on Ukraine’s frontline",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-15T12:00:00Z"
-    },
-    {
-      "id": "2a021621ae0c13d8",
-      "title": "Empowering faith and Indigenous leaders to combat hate",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168808",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-15T12:00:00Z"
-    },
-    {
-      "id": "901fe109e2445314",
-      "title": "Nadia Murad: ‘Day by day, I took my story back’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168801",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-15T12:00:00Z"
