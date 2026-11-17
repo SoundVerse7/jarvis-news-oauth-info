@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-17T14:31:14Z",
+  "updated_at": "2026-11-17T18:24:21Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -29,6 +30,38 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-17T14:00:00Z"
+    },
+    {
+      "id": "c445ee26f942e340",
+      "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-17T12:00:00Z"
+    },
+    {
+      "id": "1f968809e74611d9",
+      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-17T12:00:00Z"
+    },
+    {
+      "id": "22fef1d8978ed613",
+      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168822",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-17T12:00:00Z"
+    },
+    {
+      "id": "72928fed140e8c54",
+      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-17T12:00:00Z"
     },
     {
       "id": "1924719aa89335fa",
@@ -135,14 +168,6 @@
       "published": "2026-11-15T12:00:00Z"
     },
     {
-      "id": "656f256a2710e536",
-      "title": "When the rains fail: Preparing for drought in Central America",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168776",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-14T12:00:00Z"
-    },
-    {
       "id": "537d1229e28dcb29",
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
@@ -157,30 +182,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-13T14:00:00Z"
-    },
-    {
-      "id": "0deeb36dc5c97fe6",
-      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-13T12:00:00Z"
-    },
-    {
-      "id": "3a0059f8e9ef00d9",
-      "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168804",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-13T12:00:00Z"
-    },
-    {
-      "id": "a6e3656d0ae59f0b",
-      "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168802",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-13T12:00:00Z"
     },
     {
       "id": "1ee6867cdbb6f3c3",

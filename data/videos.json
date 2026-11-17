@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T14:31:15Z",
+  "updated_at": "2026-11-17T18:24:22Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-17T14:31:15Z"
+      "last_success_at": "2026-11-17T18:24:22Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-17T14:31:15Z"
+      "last_success_at": "2026-11-17T18:24:22Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "hmVB8SIgHC0",
+      "title": "United Airlines Says New Outage Resolved",
+      "published": "2026-11-17T18:18:59Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -90,7 +97,7 @@
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "_jIJjZMPSZg",
-      "title": "News Loop (Nov 17): Third US Aircraft Carrier Brings - What We Know Now",
+      "title": "News Loop (Nov 17): Freeman Johnson, Oldest Survivor - What We Know Now",
       "published": "2026-11-16T10:42:51Z"
     },
     {
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "y4oaVrDsx3A",
       "title": "Breaking: China Stonewalls on Cases of Detained Americans",
-      "published": "2026-11-16T04:24:27Z"
+      "published": "2026-11-16T04:24:17Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "kPuHIxFyIao",
       "title": "Netanyahu Sends Plea to Eisenkot for Unity Government",
       "published": "2026-11-15T02:59:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "K3Y6G9ik98k",
-      "title": "Canada and the Philippines Conclude Talks on Free Trade Deal",
-      "published": "2026-11-15T02:03:30Z",
       "source": "owner_confirmed_public"
     },
     {
