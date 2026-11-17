@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T04:33:15Z",
+  "updated_at": "2026-11-17T11:12:05Z",
   "sources": [
     {
       "source": "UN News",
@@ -13,7 +13,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 5
     },
     {
       "source": "U.S. EIA",
@@ -277,22 +277,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-03T14:00:00Z"
-    },
-    {
-      "id": "61453d1afcd1ad7f",
-      "title": "Opening Statement before the House of Commons Standing Committee on Finance",
-      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-house-commons-standing-committee-finance-2026-11-03/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-03T11:00:54Z"
-    },
-    {
-      "id": "88dffe9343b8abb7",
-      "title": "Parliamentary Appearance by the Governor and the Senior Deputy Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/parliamentary-appearance-governor-senior-deputy-governor-2026-11-3/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-03T11:00:36Z"
     }
   ]
 }
