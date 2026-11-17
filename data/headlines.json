@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T11:12:05Z",
+  "updated_at": "2026-11-17T14:31:14Z",
   "sources": [
     {
       "source": "UN News",
@@ -22,6 +22,14 @@
     }
   ],
   "items": [
+    {
+      "id": "b9b1dbb35bdc6562",
+      "title": "How does EIA account for small differences between energy supply and demand data?",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-17T14:00:00Z"
+    },
     {
       "id": "1924719aa89335fa",
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
@@ -269,14 +277,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-05T10:30:36Z"
-    },
-    {
-      "id": "526cec034ccb484b",
-      "title": "Global refinery inputs fell sharply in the second quarter of 2026 before modest recovery",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68404",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-11-03T14:00:00Z"
     }
   ]
 }
