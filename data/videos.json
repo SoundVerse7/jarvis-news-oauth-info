@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:10:31Z",
+  "updated_at": "2026-11-18T22:01:15Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-18T19:10:31Z"
+      "last_success_at": "2026-11-18T22:01:15Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-18T19:10:31Z"
+      "last_success_at": "2026-11-18T22:01:15Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -35,8 +35,7 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "rW6f-AhwPPs",
       "title": "Papal Politics and Peru - What We Know",
-      "published": "2026-11-18T19:10:18Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-18T19:10:35Z"
     },
     {
       "channel": "news",
@@ -120,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "9XzKRxCh-Yw",
       "title": "Houthis Advance in Yemen as Government Forces Move to Defend Aden",
-      "published": "2026-11-16T11:00:51Z"
+      "published": "2026-11-16T11:00:38Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
