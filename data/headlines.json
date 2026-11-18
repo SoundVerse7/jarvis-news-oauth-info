@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T11:37:15Z",
+  "updated_at": "2026-11-18T14:06:38Z",
   "sources": [
     {
       "source": "UN News",
@@ -14,15 +14,47 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 5
+      "recent_headlines": 7
     },
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 5
+      "recent_headlines": 6
     }
   ],
   "items": [
+    {
+      "id": "a4c390e9c48b4825",
+      "title": "U.S. natural gas inventories end injection season above normal levels",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-18T14:00:00Z"
+    },
+    {
+      "id": "44de81e9935ce0df",
+      "title": "Speech: Edmonton Chamber of Commerce",
+      "url": "https://www.bankofcanada.ca/multimedia/speech-edmonton-chamber-of-commerce-2026-11-18/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-18T12:45:14Z"
+    },
+    {
+      "id": "d4b1ba756ecfc549",
+      "title": "Speech by Toni Gravelle, Deputy Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/11/speech-toni-gravelle-2026-11-18/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-18T12:30:13Z"
+    },
+    {
+      "id": "5c8f207ad1b0ea80",
+      "title": "Dozens more children killed in Yemen amid escalating hostilities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-18T12:00:00Z"
+    },
     {
       "id": "b9b1dbb35bdc6562",
       "title": "How does EIA account for small differences between energy supply and demand data?",
@@ -158,14 +190,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-16T10:00:04Z"
-    },
-    {
-      "id": "6c89a9610acaa0c9",
-      "title": "First Person: Managing risk on Ukraine’s frontline",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168807",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-15T12:00:00Z"
     },
     {
       "id": "537d1229e28dcb29",
