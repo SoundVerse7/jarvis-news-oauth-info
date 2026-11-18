@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T04:27:42Z",
+  "updated_at": "2026-11-18T11:37:15Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-18T04:27:42Z"
+      "last_success_at": "2026-11-18T11:37:15Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-18T04:27:42Z"
+      "last_success_at": "2026-11-18T11:37:15Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "wPZdESAtnkk",
+      "title": "Nvidia Stock Up 3% as Earnings Beat Expectations. Neoclouds Surge",
+      "published": "2026-11-18T11:37:03Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "1p4pQsY_gDg",
       "title": "Bessent Says Nvidia Must ‘Go Outside the Company’ to Find New CEO",
       "published": "2026-11-15T20:11:19Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ebCQg_Q-qsY",
-      "title": "Copper Wires to Blame for US Flight Disruption, Says Trump Administration",
-      "published": "2026-11-15T15:44:11Z",
       "source": "owner_confirmed_public"
     },
     {

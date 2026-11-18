@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-18T02:14:21Z",
+  "updated_at": "2026-11-18T11:37:15Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "wPZdESAtnkk",
+      "title": "Nvidia Stock Up 3% as Earnings Beat Expectations. Neoclouds Surge",
+      "published": "2026-11-18T11:37:03Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "Xs_EsFtSXc4",
       "title": "Breaking: After Suffering Its Worst Election Result",
       "published": "2026-11-13T13:27:47Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "DfOUnmzaV_M",
-      "title": "ICE Deportations and Arrests Hit Record High - What We Know",
-      "published": "2026-11-12T17:04:02Z",
       "source": "owner_confirmed_public"
     }
   ]
