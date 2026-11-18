@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T14:06:38Z",
+  "updated_at": "2026-11-18T19:10:30Z",
   "sources": [
     {
       "source": "UN News",
@@ -9,12 +9,12 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 6
+      "recent_headlines": 7
     },
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 9
     },
     {
       "source": "U.S. EIA",
@@ -23,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "c0c4ef66e0d9307c",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-18T19:00:00Z"
+    },
     {
       "id": "a4c390e9c48b4825",
       "title": "U.S. natural gas inventories end injection season above normal levels",
@@ -38,6 +46,22 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-18T12:45:14Z"
+    },
+    {
+      "id": "cb89b041fcb66f6c",
+      "title": "Setting the scenario: Monetary policy communications in uncertain times",
+      "url": "https://www.bankofcanada.ca/2026/11/setting-the-scenario-monetary-policy-communications-in-uncertain-times/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-18T12:30:41Z"
+    },
+    {
+      "id": "deac24a67efa25e3",
+      "title": "Talking about an uncertain future",
+      "url": "https://www.bankofcanada.ca/2026/11/talking-about-an-uncertain-future/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-18T12:30:24Z"
     },
     {
       "id": "d4b1ba756ecfc549",
