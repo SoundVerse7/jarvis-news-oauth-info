@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:20:00Z",
+  "updated_at": "2026-11-19T14:52:17Z",
   "sources": [
     {
       "source": "UN News",
@@ -19,10 +19,18 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 5
+      "recent_headlines": 6
     }
   ],
   "items": [
+    {
+      "id": "7dd88225b4ad6945",
+      "title": "Oil flows through Middle East chokepoints increased in the third quarter",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-19T14:00:00Z"
+    },
     {
       "id": "c0c4ef66e0d9307c",
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",

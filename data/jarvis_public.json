@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T14:20:00Z",
+  "updated_at": "2026-11-19T14:52:17Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "y7cxm4E_mq0",
+      "title": "South Florida Hit with Over 15 Inches of Rain",
+      "published": "2026-11-19T14:41:57Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "PqVzcYF6pe0",
       "title": "Breaking: US Has Floated Ukraine Ceding Donbas for Nato Membership",
       "published": "2026-11-14T13:35:16Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "4BJvfgku7Lg",
-      "title": "Breaking: Supreme Court Takes Up Case Over Asylum Access at Border",
-      "published": "2026-11-13T20:11:37Z",
       "source": "owner_confirmed_public"
     }
   ]

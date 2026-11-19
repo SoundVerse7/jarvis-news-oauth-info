@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:20:01Z",
+  "updated_at": "2026-11-19T14:52:17Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-19T14:20:01Z"
+      "last_success_at": "2026-11-19T14:52:17Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-19T14:20:01Z"
+      "last_success_at": "2026-11-19T14:52:17Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "y7cxm4E_mq0",
+      "title": "South Florida Hit with Over 15 Inches of Rain",
+      "published": "2026-11-19T14:42:11Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "eNpSQp4H4vE",
       "title": "For Trump in Shenzhen or Zhuhai Air Show? PLA’s J-10C Aerobatic Team Seen in South China",
-      "published": "2026-11-16T16:28:39Z"
+      "published": "2026-11-16T16:28:15Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "uXp8yV5EIOo",
       "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
       "published": "2026-11-16T04:23:44Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "uHyey2lNles",
-      "title": "Trump Breaks Silence on US Ground Stop - What We Know",
-      "published": "2026-11-16T04:23:29Z",
       "source": "owner_confirmed_public"
     },
     {
