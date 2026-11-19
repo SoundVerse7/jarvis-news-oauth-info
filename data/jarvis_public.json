@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T17:21:31Z",
+  "updated_at": "2026-11-19T18:48:27Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "J_vbMoaca4U",
+      "title": "Grand Theft Auto 6 Is a Masterpiece, Say Critics",
+      "published": "2026-11-19T18:25:28Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "cAiYV8YXwCo",
       "title": "Breaking: European Security Plan Floated by U.S. Would Benefit Putin",
       "published": "2026-11-14T22:29:26Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ihEL5l_ci14",
-      "title": "Trump-Xi-Putin Trilateral Meeting at APEC: What to Expect",
-      "published": "2026-11-14T16:32:19Z",
       "source": "owner_confirmed_public"
     }
   ]
