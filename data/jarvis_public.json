@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T19:32:03Z",
+  "updated_at": "2026-11-19T22:27:50Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "DhdHoe5Xn-4",
+      "title": "Elon Musk Says Record Spending on US Midterms Was 'Pretty Foolish'",
+      "published": "2026-11-19T22:27:36Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "K3Y6G9ik98k",
       "title": "Canada and the Philippines Conclude Talks on Free Trade Deal",
       "published": "2026-11-15T02:03:30Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "7E6OChwkMig",
-      "title": "Russia, Ukraine and US to Meet - What We Know",
-      "published": "2026-11-15T00:01:44Z",
       "source": "owner_confirmed_public"
     }
   ]

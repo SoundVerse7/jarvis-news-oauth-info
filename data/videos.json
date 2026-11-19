@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T22:11:59Z",
+  "updated_at": "2026-11-19T22:27:51Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-19T22:11:59Z"
+      "last_success_at": "2026-11-19T22:27:51Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-19T22:11:59Z"
+      "last_success_at": "2026-11-19T22:27:51Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "DhdHoe5Xn-4",
+      "title": "Elon Musk Says Record Spending on US Midterms Was 'Pretty Foolish'",
+      "published": "2026-11-19T22:27:47Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "3cVk2M9ePDI",
       "title": "Carney Says Canada Will Only Sign a U.S. Trade Deal That Includes Viable Auto Sector",
-      "published": "2026-11-17T00:59:08Z"
+      "published": "2026-11-17T00:58:35Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "mACeaR4tCT4",
       "title": "Trump Breaks Silence on US Ground Stop, Demands More Money from Congress",
       "published": "2026-11-16T04:25:07Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "F0K-xEH6kQY",
-      "title": "In the ‘Kill Zone’, Ukraine Bets on Flying Evacuation Drones",
-      "published": "2026-11-16T04:24:32Z",
       "source": "owner_confirmed_public"
     },
     {
