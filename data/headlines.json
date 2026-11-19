@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T03:34:53Z",
+  "updated_at": "2026-11-19T13:18:41Z",
   "sources": [
     {
       "source": "UN News",
@@ -8,13 +8,12 @@
     },
     {
       "source": "Federal Reserve",
-      "status": "ok",
-      "recent_headlines": 7
+      "status": "unavailable"
     },
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 7
     },
     {
       "source": "U.S. EIA",
@@ -272,14 +271,6 @@
       "published": "2026-11-10T13:30:35Z"
     },
     {
-      "id": "2bae0dc9f043ef95",
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-09T21:00:00Z"
-    },
-    {
       "id": "0300679559154a9d",
       "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
@@ -296,36 +287,12 @@
       "published": "2026-11-05T16:00:19Z"
     },
     {
-      "id": "2993c3bddd49024d",
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-05T16:00:00Z"
-    },
-    {
       "id": "3993941242fcf8c5",
       "title": "Refineries have shifted production away from gasoline to middle distillates",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-05T14:00:00Z"
-    },
-    {
-      "id": "689d39f509855d99",
-      "title": "Opening Statement to the Standing Senate Committee on Banking, Commerce and the Economy",
-      "url": "https://www.bankofcanada.ca/2026/11/opening-statement-standing-senate-committee-banking-commerce-and-economy-2026-11-05/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-05T10:30:59Z"
-    },
-    {
-      "id": "a7a69cad71d695af",
-      "title": "Parliamentary Appearance by the Governor and the Senior Deputy Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/parliamentary-appearance-governor-senior-deputy-governor-bank-canada-2026-11-5/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-05T10:30:36Z"
     }
   ]
 }
