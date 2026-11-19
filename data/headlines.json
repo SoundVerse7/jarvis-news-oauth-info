@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:52:17Z",
+  "updated_at": "2026-11-19T17:21:32Z",
   "sources": [
     {
       "source": "UN News",
@@ -14,7 +14,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 6
     },
     {
       "source": "U.S. EIA",
@@ -24,12 +24,28 @@
   ],
   "items": [
     {
+      "id": "325a2d06cee138cc",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-19T16:00:00Z"
+    },
+    {
       "id": "7dd88225b4ad6945",
       "title": "Oil flows through Middle East chokepoints increased in the third quarter",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-19T14:00:00Z"
+    },
+    {
+      "id": "d9590ae676aea05f",
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-19T12:00:00Z"
     },
     {
       "id": "c0c4ef66e0d9307c",
@@ -208,14 +224,6 @@
       "published": "2026-11-16T12:00:00Z"
     },
     {
-      "id": "9d382a473ec70f7f",
-      "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168811",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
       "id": "d799fcf4ed47b483",
       "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
       "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
@@ -294,22 +302,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-06T14:00:00Z"
-    },
-    {
-      "id": "6f42778ba9ae2f8b",
-      "title": "Joint Statement of the Government of Canada and the Bank of Canada on the Renewal of the Monetary Policy Framework",
-      "url": "https://www.bankofcanada.ca/2026/11/joint-statement-of-the-government-of-canada-and-the-bank-of-canada-on-the-renewal-of-the-monetary-policy-framework-2026/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-05T16:00:19Z"
-    },
-    {
-      "id": "2993c3bddd49024d",
-      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-05T16:00:00Z"
     }
   ]
 }

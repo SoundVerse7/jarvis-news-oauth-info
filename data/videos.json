@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T14:52:17Z",
+  "updated_at": "2026-11-19T17:21:32Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-19T14:52:17Z"
+      "last_success_at": "2026-11-19T17:21:32Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-19T14:52:17Z"
+      "last_success_at": "2026-11-19T17:21:32Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "RWzw64vXxG8",
+      "title": "Trump Makes Third Supreme Court Bid to End Venezuelan Migrant Protections",
+      "published": "2026-11-19T17:21:16Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "ipSuyC2es7M",
       "title": "Koh Blames Trump for Blocking Biden-Era Infrastructure",
       "published": "2026-11-16T04:24:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "uXp8yV5EIOo",
-      "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
-      "published": "2026-11-16T04:23:44Z",
       "source": "owner_confirmed_public"
     },
     {

@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T14:52:17Z",
+  "updated_at": "2026-11-19T17:21:31Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "RWzw64vXxG8",
+      "title": "Trump Makes Third Supreme Court Bid to End Venezuelan Migrant Protections",
+      "published": "2026-11-19T17:21:16Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "ihEL5l_ci14",
       "title": "Trump-Xi-Putin Trilateral Meeting at APEC: What to Expect",
       "published": "2026-11-14T16:32:19Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "PqVzcYF6pe0",
-      "title": "Breaking: US Has Floated Ukraine Ceding Donbas for Nato Membership",
-      "published": "2026-11-14T13:35:16Z",
       "source": "owner_confirmed_public"
     }
   ]
