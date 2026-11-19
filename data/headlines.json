@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-19T19:32:03Z",
+  "updated_at": "2026-11-19T22:11:58Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -13,7 +14,7 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 6
+      "recent_headlines": 7
     },
     {
       "source": "U.S. EIA",
@@ -22,6 +23,14 @@
     }
   ],
   "items": [
+    {
+      "id": "f4c02c72119f1550",
+      "title": "Bank of Canada Media Interview – Barrie 360",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-19T16:00:58Z"
+    },
     {
       "id": "325a2d06cee138cc",
       "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
@@ -37,6 +46,22 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-19T14:00:00Z"
+    },
+    {
+      "id": "cb25ee157274b1df",
+      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-19T12:00:00Z"
+    },
+    {
+      "id": "54080d49b28caf36",
+      "title": "No government approval needed to form or join a group, UN rights committee says",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-19T12:00:00Z"
     },
     {
       "id": "d9590ae676aea05f",
@@ -202,22 +227,6 @@
       "id": "03c899d0776220ee",
       "title": "AI gets climate science right – until users push back",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
-      "id": "7dba4c4308c8a62a",
-      "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
-      "id": "2c7a1b19d3afb590",
-      "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168812",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-16T12:00:00Z"
