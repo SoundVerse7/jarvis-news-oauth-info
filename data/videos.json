@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T17:44:49Z",
+  "updated_at": "2026-11-20T20:01:52Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-20T17:44:49Z"
+      "last_success_at": "2026-11-20T20:01:52Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-20T17:44:49Z"
+      "last_success_at": "2026-11-20T20:01:52Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "GCR7bS3Z81E",
+      "title": "Anthropic Stock Soars Over 20% in Nasdaq Debut",
+      "published": "2026-11-20T19:46:55Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "wPZdESAtnkk",
       "title": "Nvidia Stock Up 3% as Earnings Beat Expectations. Neoclouds Surge",
-      "published": "2026-11-18T11:37:16Z"
+      "published": "2026-11-18T11:37:03Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "joVmyTzN1O8",
       "title": "NEW: Third US Aircraft Carrier Arrives in Middle East",
       "published": "2026-11-16T19:43:28Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "I2mzti2gLog",
-      "title": "China Says Xi, Trump, Putin to Discuss 'World Peace'",
-      "published": "2026-11-16T18:12:09Z",
       "source": "owner_confirmed_public"
     },
     {

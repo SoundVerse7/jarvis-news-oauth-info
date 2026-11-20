@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T17:44:49Z",
+  "updated_at": "2026-11-20T20:01:51Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "GCR7bS3Z81E",
+      "title": "Anthropic Stock Soars Over 20% in Nasdaq Debut",
+      "published": "2026-11-20T19:46:26Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "uHyey2lNles",
       "title": "Trump Breaks Silence on US Ground Stop - What We Know",
       "published": "2026-11-16T04:23:29Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "1p4pQsY_gDg",
-      "title": "Bessent Says Nvidia Must ‘Go Outside the Company’ to Find New CEO",
-      "published": "2026-11-15T20:11:19Z",
       "source": "owner_confirmed_public"
     }
   ]
