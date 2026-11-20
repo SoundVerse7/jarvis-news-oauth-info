@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T04:16:57Z",
+  "updated_at": "2026-11-20T11:12:47Z",
   "sources": [
     {
       "source": "UN News",
@@ -46,6 +46,30 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-19T14:00:00Z"
+    },
+    {
+      "id": "1c9351b994c5dad1",
+      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-19T12:00:00Z"
+    },
+    {
+      "id": "660d08e7269e5544",
+      "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168842",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-19T12:00:00Z"
+    },
+    {
+      "id": "297180f88a25cc10",
+      "title": "‘Losing the battle’: AI hands predators new ways to target children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-19T12:00:00Z"
     },
     {
       "id": "cb25ee157274b1df",
@@ -203,30 +227,6 @@
       "id": "1924719aa89335fa",
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
-      "id": "9029e19e2171e882",
-      "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168819",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
-      "id": "817cd1e1918fbbb5",
-      "title": "Lebanon leading the way in mental health support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
-      "id": "03c899d0776220ee",
-      "title": "AI gets climate science right – until users push back",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-16T12:00:00Z"

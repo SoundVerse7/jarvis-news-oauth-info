@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T04:16:58Z",
+  "updated_at": "2026-11-20T11:12:48Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-20T04:16:58Z"
+      "last_success_at": "2026-11-20T11:12:48Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-20T04:16:58Z"
+      "last_success_at": "2026-11-20T11:12:48Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "liWm8QXnXbs",
+      "title": "Middle East Crisis Poses 'Largest Threat' to Energy Security in History, Warns IEA",
+      "published": "2026-11-20T11:07:44Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "hmVB8SIgHC0",
       "title": "United Airlines Says New Outage Resolved",
-      "published": "2026-11-17T18:18:59Z"
+      "published": "2026-11-17T18:18:22Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "19dV8RhTtXo",
       "title": "Estonia to Close Russia Border After ‘Sabotage’ Bid",
       "published": "2026-11-16T13:43:35Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "9XzKRxCh-Yw",
-      "title": "Houthis Advance in Yemen as Government Forces Move to Defend Aden",
-      "published": "2026-11-16T11:00:38Z",
       "source": "owner_confirmed_public"
     },
     {

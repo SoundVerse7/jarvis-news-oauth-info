@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T04:16:57Z",
+  "updated_at": "2026-11-20T11:12:47Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "liWm8QXnXbs",
+      "title": "Middle East Crisis Poses 'Largest Threat' to Energy Security in History, Warns IEA",
+      "published": "2026-11-20T11:07:23Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "XoaRrNCKCA0",
       "title": "Federal Judge Blocks Trump from Closing Historic D.C. Golf Course, for Now",
       "published": "2026-11-15T11:21:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "kPuHIxFyIao",
-      "title": "Netanyahu Sends Plea to Eisenkot for Unity Government",
-      "published": "2026-11-15T02:59:01Z",
       "source": "owner_confirmed_public"
     }
   ]
