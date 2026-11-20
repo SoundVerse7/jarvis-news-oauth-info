@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-11-20T12:59:31Z",
+  "updated_at": "2026-11-20T17:44:49Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 8
     },
     {
       "source": "Bank of Canada",
@@ -18,10 +19,50 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 6
+      "recent_headlines": 5
     }
   ],
   "items": [
+    {
+      "id": "4b9813abbbbcba46",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-20T15:00:00Z"
+    },
+    {
+      "id": "689337f466be3e7c",
+      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-20T12:00:00Z"
+    },
+    {
+      "id": "0baf9bc58ca61616",
+      "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-20T12:00:00Z"
+    },
+    {
+      "id": "c425ac3b9ef5c2a1",
+      "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-20T12:00:00Z"
+    },
+    {
+      "id": "7faea82f16e20cde",
+      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-20T12:00:00Z"
+    },
     {
       "id": "f4c02c72119f1550",
       "title": "Bank of Canada Media Interview – Barrie 360",
@@ -199,38 +240,6 @@
       "published": "2026-11-17T12:00:00Z"
     },
     {
-      "id": "1f968809e74611d9",
-      "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168823",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-17T12:00:00Z"
-    },
-    {
-      "id": "22fef1d8978ed613",
-      "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168822",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-17T12:00:00Z"
-    },
-    {
-      "id": "72928fed140e8c54",
-      "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-17T12:00:00Z"
-    },
-    {
-      "id": "1924719aa89335fa",
-      "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-16T12:00:00Z"
-    },
-    {
       "id": "d799fcf4ed47b483",
       "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
       "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
@@ -301,14 +310,6 @@
       "source": "Federal Reserve",
       "category": "Economy",
       "published": "2026-11-09T21:00:00Z"
-    },
-    {
-      "id": "0300679559154a9d",
-      "title": "U.S. crude oil imports from Venezuela in July were highest since 2017",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-11-06T14:00:00Z"
     }
   ]
 }

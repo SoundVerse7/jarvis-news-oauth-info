@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T12:59:32Z",
+  "updated_at": "2026-11-20T17:44:49Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-20T12:59:32Z"
+      "last_success_at": "2026-11-20T17:44:49Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-20T12:59:32Z"
+      "last_success_at": "2026-11-20T17:44:49Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "bdoFeDZTnHQ",
+      "title": "Nvidia Sees Strong Growth in First Earnings Report Without Huang",
+      "published": "2026-11-20T16:05:25Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "mtv9P7bxad4",
       "title": "Haitians Protest in Support of El Salvador’s Anti-Gang Troop Deployment",
-      "published": "2026-11-18T02:04:06Z"
+      "published": "2026-11-18T02:03:48Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "I2mzti2gLog",
       "title": "China Says Xi, Trump, Putin to Discuss 'World Peace'",
       "published": "2026-11-16T18:12:09Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "eNpSQp4H4vE",
-      "title": "For Trump in Shenzhen or Zhuhai Air Show? PLA’s J-10C Aerobatic Team Seen in South China",
-      "published": "2026-11-16T16:28:15Z",
       "source": "owner_confirmed_public"
     },
     {
