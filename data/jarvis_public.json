@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-19T22:27:50Z",
+  "updated_at": "2026-11-20T04:16:57Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "XpjHDFjmt5I",
+      "title": "DOJ Moves to Dismiss Lawsuit Over Alaska Senate Race",
+      "published": "2026-11-20T04:16:47Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "kPuHIxFyIao",
       "title": "Netanyahu Sends Plea to Eisenkot for Unity Government",
       "published": "2026-11-15T02:59:01Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "K3Y6G9ik98k",
-      "title": "Canada and the Philippines Conclude Talks on Free Trade Deal",
-      "published": "2026-11-15T02:03:30Z",
       "source": "owner_confirmed_public"
     }
   ]
