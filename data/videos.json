@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T11:12:48Z",
+  "updated_at": "2026-11-20T12:21:56Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-20T11:12:48Z"
+      "last_success_at": "2026-11-20T12:21:56Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-20T11:12:48Z"
+      "last_success_at": "2026-11-20T12:21:56Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "8oY2z1c8UVA",
+      "title": "Giant Christmas Tree Lifted Into Place Beside St Peter's Basilica",
+      "published": "2026-11-20T12:15:34Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "k4eKdOZWPUE",
       "title": "How Nvidia Scandal, Anthropic IPO May Impact Your 401(K)",
-      "published": "2026-11-17T23:37:23Z"
+      "published": "2026-11-17T23:37:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "eNpSQp4H4vE",
       "title": "For Trump in Shenzhen or Zhuhai Air Show? PLA’s J-10C Aerobatic Team Seen in South China",
       "published": "2026-11-16T16:28:15Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "19dV8RhTtXo",
-      "title": "Estonia to Close Russia Border After ‘Sabotage’ Bid",
-      "published": "2026-11-16T13:43:35Z",
       "source": "owner_confirmed_public"
     },
     {

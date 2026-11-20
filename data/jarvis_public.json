@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T11:12:47Z",
+  "updated_at": "2026-11-20T12:21:55Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "8oY2z1c8UVA",
+      "title": "Giant Christmas Tree Lifted Into Place Beside St Peter's Basilica",
+      "published": "2026-11-20T12:15:02Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "ebCQg_Q-qsY",
       "title": "Copper Wires to Blame for US Flight Disruption, Says Trump Administration",
       "published": "2026-11-15T15:44:11Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "XoaRrNCKCA0",
-      "title": "Federal Judge Blocks Trump from Closing Historic D.C. Golf Course, for Now",
-      "published": "2026-11-15T11:21:01Z",
       "source": "owner_confirmed_public"
     }
   ]
