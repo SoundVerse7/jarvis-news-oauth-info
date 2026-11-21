@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-20T20:01:51Z",
+  "updated_at": "2026-11-21T01:10:27Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "qeymbjd3v78",
+      "title": "Naval Logistics Command Delivers Critical Care Worldwide",
+      "published": "2026-11-21T00:12:39Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "uXp8yV5EIOo",
       "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
       "published": "2026-11-16T04:23:44Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "uHyey2lNles",
-      "title": "Trump Breaks Silence on US Ground Stop - What We Know",
-      "published": "2026-11-16T04:23:29Z",
       "source": "owner_confirmed_public"
     }
   ]

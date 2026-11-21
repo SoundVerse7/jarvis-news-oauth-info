@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:11:43Z",
+  "updated_at": "2026-11-21T01:10:27Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-20T21:11:43Z"
+      "last_success_at": "2026-11-21T01:10:27Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-20T21:11:43Z"
+      "last_success_at": "2026-11-21T01:10:27Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "qeymbjd3v78",
+      "title": "Naval Logistics Command Delivers Critical Care Worldwide",
+      "published": "2026-11-21T00:13:11Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "rW6f-AhwPPs",
       "title": "Papal Politics and Peru - What We Know",
-      "published": "2026-11-18T19:10:35Z"
+      "published": "2026-11-18T19:10:18Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "g1Q2I3VmadY",
       "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
       "published": "2026-11-16T23:43:23Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "joVmyTzN1O8",
-      "title": "NEW: Third US Aircraft Carrier Arrives in Middle East",
-      "published": "2026-11-16T19:43:28Z",
       "source": "owner_confirmed_public"
     },
     {
