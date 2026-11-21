@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T01:10:27Z",
+  "updated_at": "2026-11-21T11:09:16Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "zsU-68_CYeo",
+      "title": "Hegseth Wraps Central, South American Trip",
+      "published": "2026-11-21T11:00:29Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "ipSuyC2es7M",
       "title": "Koh Blames Trump for Blocking Biden-Era Infrastructure",
       "published": "2026-11-16T04:24:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "uXp8yV5EIOo",
-      "title": "Breaking: Trump's Handpicked Party Chair Faces a Rebellion",
-      "published": "2026-11-16T04:23:44Z",
       "source": "owner_confirmed_public"
     }
   ]

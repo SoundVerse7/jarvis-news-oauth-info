@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:22:56Z",
+  "updated_at": "2026-11-21T11:09:16Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-21T02:22:56Z"
+      "last_success_at": "2026-11-21T11:09:16Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-21T02:22:56Z"
+      "last_success_at": "2026-11-21T11:09:16Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "zsU-68_CYeo",
+      "title": "Hegseth Wraps Central, South American Trip",
+      "published": "2026-11-21T11:01:04Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "a9ZJZotQhZg",
       "title": "Anthropic Raises $81.3Bn in Biggest IPO of All-Time",
-      "published": "2026-11-19T13:06:49Z"
+      "published": "2026-11-19T13:06:30Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "3cVk2M9ePDI",
       "title": "Carney Says Canada Will Only Sign a U.S. Trade Deal That Includes Viable Auto Sector",
       "published": "2026-11-17T00:58:35Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "g1Q2I3VmadY",
-      "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
-      "published": "2026-11-16T23:43:23Z",
       "source": "owner_confirmed_public"
     },
     {
