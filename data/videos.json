@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T11:13:06Z",
+  "updated_at": "2026-11-21T12:05:10Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-21T11:13:06Z"
+      "last_success_at": "2026-11-21T12:05:10Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-21T11:13:06Z"
+      "last_success_at": "2026-11-21T12:05:10Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "tpXF33d8AVo",
+      "title": "4.4-Magnitude Earthquake Rattles Los Angeles Area",
+      "published": "2026-11-21T11:59:25Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "y7cxm4E_mq0",
       "title": "South Florida Hit with Over 15 Inches of Rain",
-      "published": "2026-11-19T14:42:11Z"
+      "published": "2026-11-19T14:41:57Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "_CP3YRSxT14",
       "title": "NEW: Trump to Meet with Putin and Xi During Asia Trip",
       "published": "2026-11-17T11:10:00Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "3cVk2M9ePDI",
-      "title": "Carney Says Canada Will Only Sign a U.S. Trade Deal That Includes Viable Auto Sector",
-      "published": "2026-11-17T00:58:35Z",
       "source": "owner_confirmed_public"
     },
     {

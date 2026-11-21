@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T11:09:16Z",
+  "updated_at": "2026-11-21T12:05:09Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "tpXF33d8AVo",
+      "title": "4.4-Magnitude Earthquake Rattles Los Angeles Area",
+      "published": "2026-11-21T11:59:01Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "y4oaVrDsx3A",
       "title": "Breaking: China Stonewalls on Cases of Detained Americans",
       "published": "2026-11-16T04:24:17Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "ipSuyC2es7M",
-      "title": "Koh Blames Trump for Blocking Biden-Era Infrastructure",
-      "published": "2026-11-16T04:24:00Z",
       "source": "owner_confirmed_public"
     }
   ]
