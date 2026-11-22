@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T11:07:18Z",
+  "updated_at": "2026-11-22T23:09:55Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "N791xJk5Y_M",
+      "title": "US Intelligence Chief Says Trump’s ‘Friend’ Label for Putin Is ‘Entirely Appropriate’",
+      "published": "2026-11-22T23:06:45Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "mACeaR4tCT4",
       "title": "Trump Breaks Silence on US Ground Stop, Demands More Money from Congress",
       "published": "2026-11-16T04:25:07Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "F0K-xEH6kQY",
-      "title": "In the ‘Kill Zone’, Ukraine Bets on Flying Evacuation Drones",
-      "published": "2026-11-16T04:24:32Z",
       "source": "owner_confirmed_public"
     }
   ]
