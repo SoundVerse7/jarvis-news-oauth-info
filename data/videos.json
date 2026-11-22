@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:57:09Z",
+  "updated_at": "2026-11-22T11:07:18Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-22T06:57:09Z"
+      "last_success_at": "2026-11-22T11:07:18Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-22T06:57:09Z"
+      "last_success_at": "2026-11-22T11:07:18Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "2gaFjI9-qeU",
+      "title": "Poland Condemns Russian ‘Provocation’ After Airspace Violations",
+      "published": "2026-11-22T11:07:11Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "RWzw64vXxG8",
       "title": "Trump Makes Third Supreme Court Bid to End Venezuelan Migrant Protections",
-      "published": "2026-11-19T17:21:53Z"
+      "published": "2026-11-19T17:21:16Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "hmVB8SIgHC0",
       "title": "United Airlines Says New Outage Resolved",
       "published": "2026-11-17T18:18:22Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "_CP3YRSxT14",
-      "title": "NEW: Trump to Meet with Putin and Xi During Asia Trip",
-      "published": "2026-11-17T11:10:00Z",
       "source": "owner_confirmed_public"
     },
     {

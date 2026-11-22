@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-21T12:05:09Z",
+  "updated_at": "2026-11-22T11:07:18Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "2gaFjI9-qeU",
+      "title": "Poland Condemns Russian ‘Provocation’ After Airspace Violations",
+      "published": "2026-11-22T11:06:49Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "F0K-xEH6kQY",
       "title": "In the ‘Kill Zone’, Ukraine Bets on Flying Evacuation Drones",
       "published": "2026-11-16T04:24:32Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "y4oaVrDsx3A",
-      "title": "Breaking: China Stonewalls on Cases of Detained Americans",
-      "published": "2026-11-16T04:24:17Z",
       "source": "owner_confirmed_public"
     }
   ]
