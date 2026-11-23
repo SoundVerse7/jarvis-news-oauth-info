@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-23T14:16:21Z",
+  "updated_at": "2026-11-23T23:29:01Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 8
     },
     {
       "source": "Bank of Canada",
@@ -310,14 +309,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-10T13:30:35Z"
-    },
-    {
-      "id": "2bae0dc9f043ef95",
-      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-09T21:00:00Z"
     }
   ]
 }

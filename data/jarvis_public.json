@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T14:16:21Z",
+  "updated_at": "2026-11-23T23:29:01Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "wCEAIumXzB4",
+      "title": "Florida National Guard Help Protect Hospital",
+      "published": "2026-11-23T23:19:27Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "eNpSQp4H4vE",
       "title": "For Trump in Shenzhen or Zhuhai Air Show? PLA’s J-10C Aerobatic Team Seen in South China",
       "published": "2026-11-16T16:28:15Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "19dV8RhTtXo",
-      "title": "Estonia to Close Russia Border After ‘Sabotage’ Bid",
-      "published": "2026-11-16T13:43:35Z",
       "source": "owner_confirmed_public"
     }
   ]
