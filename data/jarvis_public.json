@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-23T11:15:26Z",
+  "updated_at": "2026-11-23T14:16:21Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "OroVmGYWCJw",
+      "title": "Ukraine Claims Drone Strikes on Russian Ships Off Libya: What Do We Know?",
+      "published": "2026-11-23T14:16:06Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "19dV8RhTtXo",
       "title": "Estonia to Close Russia Border After ‘Sabotage’ Bid",
       "published": "2026-11-16T13:43:35Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "9XzKRxCh-Yw",
-      "title": "Houthis Advance in Yemen as Government Forces Move to Defend Aden",
-      "published": "2026-11-16T11:00:38Z",
       "source": "owner_confirmed_public"
     }
   ]

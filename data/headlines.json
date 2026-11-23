@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-23T12:57:41Z",
+  "updated_at": "2026-11-23T14:16:21Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,22 @@
     }
   ],
   "items": [
+    {
+      "id": "307e98b05da69a02",
+      "title": "Libya: UN mission urges probe into Benghazi port attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-23T12:00:00Z"
+    },
+    {
+      "id": "180a5dc2f3a58b22",
+      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-22T12:00:00Z"
+    },
     {
       "id": "2f16e29e794aeda1",
       "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
@@ -170,22 +187,6 @@
       "id": "297180f88a25cc10",
       "title": "‘Losing the battle’: AI hands predators new ways to target children",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-19T12:00:00Z"
-    },
-    {
-      "id": "cb25ee157274b1df",
-      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-19T12:00:00Z"
-    },
-    {
-      "id": "54080d49b28caf36",
-      "title": "No government approval needed to form or join a group, UN rights committee says",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-19T12:00:00Z"
