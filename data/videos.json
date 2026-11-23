@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:50:54Z",
+  "updated_at": "2026-11-23T11:15:27Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-23T02:50:54Z"
+      "last_success_at": "2026-11-23T11:15:27Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-23T02:50:54Z"
+      "last_success_at": "2026-11-23T11:15:27Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "02QbkBYUYoE",
+      "title": "Israeli Settlers Attack Multiple Palestinian Villages as Pogroms Surge",
+      "published": "2026-11-23T11:15:14Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "mtv9P7bxad4",
       "title": "Haitians Protest in Support of El Salvador’s Anti-Gang Troop Deployment",
       "published": "2026-11-18T02:03:48Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "k4eKdOZWPUE",
-      "title": "How Nvidia Scandal, Anthropic IPO May Impact Your 401(K)",
-      "published": "2026-11-17T23:37:01Z",
       "source": "owner_confirmed_public"
     },
     {

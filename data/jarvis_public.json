@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-22T23:09:55Z",
+  "updated_at": "2026-11-23T11:15:26Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "02QbkBYUYoE",
+      "title": "Israeli Settlers Attack Multiple Palestinian Villages as Pogroms Surge",
+      "published": "2026-11-23T11:15:14Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "9XzKRxCh-Yw",
       "title": "Houthis Advance in Yemen as Government Forces Move to Defend Aden",
       "published": "2026-11-16T11:00:38Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "mACeaR4tCT4",
-      "title": "Trump Breaks Silence on US Ground Stop, Demands More Money from Congress",
-      "published": "2026-11-16T04:25:07Z",
       "source": "owner_confirmed_public"
     }
   ]
