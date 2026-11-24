@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T15:26:19Z",
+  "updated_at": "2026-11-24T21:17:01Z",
   "sources": [
     {
       "source": "UN News",
@@ -9,12 +9,12 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 8
+      "recent_headlines": 9
     },
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 10
     },
     {
       "source": "U.S. EIA",
@@ -23,6 +23,22 @@
     }
   ],
   "items": [
+    {
+      "id": "ee53adbaa022cb62",
+      "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-24T19:00:00Z"
+    },
+    {
+      "id": "b4b2d916ff2bf51a",
+      "title": "Bank of Canada Media Interview – The Logic",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-media-interview-the-logic/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-24T15:00:24Z"
+    },
     {
       "id": "d516bbac4ff99f2f",
       "title": "Media Availability: Economic Club of Canada",
@@ -54,6 +70,54 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-24T12:40:26Z"
+    },
+    {
+      "id": "914ff464f39a3a4f",
+      "title": "Canada’s monetary policy framework: A trusted anchor in uncertain waters",
+      "url": "https://www.bankofcanada.ca/2026/11/canadas-monetary-policy-framework-a-trusted-anchor-in-uncertain-waters/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-24T12:35:21Z"
+    },
+    {
+      "id": "724ce0beb1c0b19b",
+      "title": "Keeping inflation low and stable in an uncertain world",
+      "url": "https://www.bankofcanada.ca/2026/11/keeping-inflation-low-and-stable-in-an-uncertain-world/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-24T12:25:17Z"
+    },
+    {
+      "id": "58b673023dcf1630",
+      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
+    },
+    {
+      "id": "14db9f0896734b67",
+      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
+    },
+    {
+      "id": "7d8cc547f7c9a021",
+      "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
+    },
+    {
+      "id": "a44f2907ccd9b397",
+      "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
     },
     {
       "id": "67a38418993d24fc",
@@ -168,38 +232,6 @@
       "published": "2026-11-20T15:00:00Z"
     },
     {
-      "id": "c8ebbd1cbde74c03",
-      "title": "Bridgetown AI summit to tackle safety as risks outpace capacity to respond",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168854",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
-      "id": "1e3300495dbd72fb",
-      "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
-      "id": "1e33a84d56832480",
-      "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
-      "id": "689337f466be3e7c",
-      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
       "id": "f4c02c72119f1550",
       "title": "Bank of Canada Media Interview – Barrie 360",
       "url": "https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/",
@@ -264,28 +296,12 @@
       "published": "2026-11-18T12:30:24Z"
     },
     {
-      "id": "d4b1ba756ecfc549",
-      "title": "Speech by Toni Gravelle, Deputy Governor of the Bank of Canada",
-      "url": "https://www.bankofcanada.ca/2026/11/speech-toni-gravelle-2026-11-18/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-18T12:30:13Z"
-    },
-    {
       "id": "b9b1dbb35bdc6562",
       "title": "How does EIA account for small differences between energy supply and demand data?",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-17T14:00:00Z"
-    },
-    {
-      "id": "d799fcf4ed47b483",
-      "title": "Bank of Canada Governor Tiff Macklem to step down in June 2027",
-      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-governor-tiff-macklem-to-step-down-in-june-2027/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-16T10:00:04Z"
     },
     {
       "id": "537d1229e28dcb29",
@@ -302,22 +318,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-13T14:00:00Z"
-    },
-    {
-      "id": "1ee6867cdbb6f3c3",
-      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adju",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-12T18:30:00Z"
-    },
-    {
-      "id": "87a784bdd6110f05",
-      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-12T17:45:00Z"
     },
     {
       "id": "e3f23c3f0faa7979",
