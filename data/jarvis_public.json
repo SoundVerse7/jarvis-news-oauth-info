@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T11:19:56Z",
+  "updated_at": "2026-11-24T15:26:19Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "boqL-jF205I",
+      "title": "Colombia: Guterres Urges Renewed Commitment to Landmark Peace Deal",
+      "published": "2026-11-24T15:13:21Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "joVmyTzN1O8",
       "title": "NEW: Third US Aircraft Carrier Arrives in Middle East",
       "published": "2026-11-16T19:43:28Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "I2mzti2gLog",
-      "title": "China Says Xi, Trump, Putin to Discuss 'World Peace'",
-      "published": "2026-11-16T18:12:09Z",
       "source": "owner_confirmed_public"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:19:56Z",
+  "updated_at": "2026-11-24T15:26:19Z",
   "sources": [
     {
       "source": "UN News",
@@ -14,15 +14,63 @@
     {
       "source": "Bank of Canada",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 9
     },
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 5
+      "recent_headlines": 6
     }
   ],
   "items": [
+    {
+      "id": "d516bbac4ff99f2f",
+      "title": "Media Availability: Economic Club of Canada",
+      "url": "https://www.bankofcanada.ca/multimedia/media-availability-economic-club-of-canada/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-24T14:00:14Z"
+    },
+    {
+      "id": "41ee440d15205b02",
+      "title": "How does EIA compare different types of energy?",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-24T14:00:00Z"
+    },
+    {
+      "id": "04c4c16afb684d20",
+      "title": "Speech by Tiff Macklem, Governor of the Bank of Canada",
+      "url": "https://www.bankofcanada.ca/2026/11/speech-tiff-macklem-governor-bank-canada-2026-11-24/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-24T12:40:55Z"
+    },
+    {
+      "id": "9ace8ef39c54844b",
+      "title": "Speech: Economic Club of Canada",
+      "url": "https://www.bankofcanada.ca/multimedia/speech-economic-club-of-canada-2026-11-24/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-24T12:40:26Z"
+    },
+    {
+      "id": "67a38418993d24fc",
+      "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
+    },
+    {
+      "id": "f12aebcb27fa9ccc",
+      "title": "Five women killed every hour by partners or family members",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168863",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
+    },
     {
       "id": "23ce2785727fbeec",
       "title": "Gaza war has undone 77 years of human development, UN warns",
@@ -152,22 +200,6 @@
       "published": "2026-11-20T12:00:00Z"
     },
     {
-      "id": "0baf9bc58ca61616",
-      "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168846",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
-      "id": "c425ac3b9ef5c2a1",
-      "title": "COP31: Countries demand stronger climate deal amid deadlock in Antalya",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168845",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
       "id": "f4c02c72119f1550",
       "title": "Bank of Canada Media Interview – Barrie 360",
       "url": "https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/",
@@ -288,28 +320,12 @@
       "published": "2026-11-12T17:45:00Z"
     },
     {
-      "id": "e589a1e1c99ea10e",
-      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-12T16:00:00Z"
-    },
-    {
       "id": "e3f23c3f0faa7979",
       "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-12T14:00:00Z"
-    },
-    {
-      "id": "26a321e6136d12f3",
-      "title": "Release of the Bank of Canada’s summary of deliberations",
-      "url": "https://www.bankofcanada.ca/2026/11/release-bank-canadas-summary-deliberations-2026-10-28/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-10T13:30:35Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:19:57Z",
+  "updated_at": "2026-11-24T15:26:20Z",
   "channels": [
     {
       "key": "original",
@@ -19,13 +19,13 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-24T11:19:57Z"
+      "last_success_at": "2026-11-24T15:26:20Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-24T11:19:57Z"
+      "last_success_at": "2026-11-24T15:26:20Z"
     }
   ],
   "owner_confirmed_added": 10,
@@ -33,10 +33,16 @@
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "boqL-jF205I",
+      "title": "Colombia: Guterres Urges Renewed Commitment to Landmark Peace Deal",
+      "published": "2026-11-24T15:13:45Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "oJ8TYhIXj7E",
       "title": "US Seeks Answers on Nvidia’s Sale of Chips to China, Bessent Says",
-      "published": "2026-11-24T11:19:41Z",
-      "source": "owner_confirmed_public"
+      "published": "2026-11-24T11:19:58Z"
     },
     {
       "channel": "news",
@@ -113,14 +119,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "8oY2z1c8UVA",
       "title": "Giant Christmas Tree Lifted Into Place Beside St Peter's Basilica",
-      "published": "2026-11-20T12:15:34Z"
+      "published": "2026-11-20T12:15:02Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "liWm8QXnXbs",
       "title": "Middle East Crisis Poses 'Largest Threat' to Energy Security in History, Warns IEA",
-      "published": "2026-11-20T11:07:44Z"
+      "published": "2026-11-20T11:07:23Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "y7cxm4E_mq0",
       "title": "South Florida Hit with Over 15 Inches of Rain",
       "published": "2026-11-19T14:41:57Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "a9ZJZotQhZg",
-      "title": "Anthropic Raises $81.3Bn in Biggest IPO of All-Time",
-      "published": "2026-11-19T13:06:30Z",
       "source": "owner_confirmed_public"
     },
     {
