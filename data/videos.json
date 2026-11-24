@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T21:17:01Z",
+  "updated_at": "2026-11-24T23:21:37Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-24T21:17:01Z"
+      "last_success_at": "2026-11-24T23:21:37Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-24T21:17:01Z"
+      "last_success_at": "2026-11-24T23:21:37Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fiKAP8kpSHY",
+      "title": "China Walks ‘Thin Line’ in Push to Prevent Another Horn of Africa War",
+      "published": "2026-11-24T23:21:34Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "bdoFeDZTnHQ",
       "title": "Nvidia Sees Strong Growth in First Earnings Report Without Huang",
-      "published": "2026-11-20T16:05:25Z"
+      "published": "2026-11-20T16:05:16Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "RWzw64vXxG8",
       "title": "Trump Makes Third Supreme Court Bid to End Venezuelan Migrant Protections",
       "published": "2026-11-19T17:21:16Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "y7cxm4E_mq0",
-      "title": "South Florida Hit with Over 15 Inches of Rain",
-      "published": "2026-11-19T14:41:57Z",
       "source": "owner_confirmed_public"
     },
     {

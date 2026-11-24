@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T15:26:19Z",
+  "updated_at": "2026-11-24T23:21:36Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "fiKAP8kpSHY",
+      "title": "China Walks ‘Thin Line’ in Push to Prevent Another Horn of Africa War",
+      "published": "2026-11-24T23:21:24Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "g1Q2I3VmadY",
       "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
       "published": "2026-11-16T23:43:23Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "joVmyTzN1O8",
-      "title": "NEW: Third US Aircraft Carrier Arrives in Middle East",
-      "published": "2026-11-16T19:43:28Z",
       "source": "owner_confirmed_public"
     }
   ]
