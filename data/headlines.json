@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-24T00:57:19Z",
+  "updated_at": "2026-11-24T11:00:11Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -22,6 +23,38 @@
     }
   ],
   "items": [
+    {
+      "id": "23ce2785727fbeec",
+      "title": "Gaza war has undone 77 years of human development, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-23T12:00:00Z"
+    },
+    {
+      "id": "16ee36335eaaf1cb",
+      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-23T12:00:00Z"
+    },
+    {
+      "id": "095442ef4a2257f8",
+      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-23T12:00:00Z"
+    },
+    {
+      "id": "a68db2f1d7afa781",
+      "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-23T12:00:00Z"
+    },
     {
       "id": "307e98b05da69a02",
       "title": "Libya: UN mission urges probe into Benghazi port attacks",
@@ -135,14 +168,6 @@
       "published": "2026-11-20T12:00:00Z"
     },
     {
-      "id": "7faea82f16e20cde",
-      "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168844",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-20T12:00:00Z"
-    },
-    {
       "id": "f4c02c72119f1550",
       "title": "Bank of Canada Media Interview – Barrie 360",
       "url": "https://www.bankofcanada.ca/2026/11/bank-canada-media-interview-barrie-360-2026-11-19/",
@@ -165,30 +190,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-19T14:00:00Z"
-    },
-    {
-      "id": "1c9351b994c5dad1",
-      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-19T12:00:00Z"
-    },
-    {
-      "id": "660d08e7269e5544",
-      "title": "Peacekeeping: With 500 paternity and child support claims unresolved, UN scales up accountability",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168842",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-19T12:00:00Z"
-    },
-    {
-      "id": "297180f88a25cc10",
-      "title": "‘Losing the battle’: AI hands predators new ways to target children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168841",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-19T12:00:00Z"
     },
     {
       "id": "c0c4ef66e0d9307c",
