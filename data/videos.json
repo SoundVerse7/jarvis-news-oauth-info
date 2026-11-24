@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T11:00:13Z",
+  "updated_at": "2026-11-24T11:19:57Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,25 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-24T11:00:13Z"
+      "last_success_at": "2026-11-24T11:19:57Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-24T11:00:13Z"
+      "last_success_at": "2026-11-24T11:19:57Z"
     }
   ],
   "owner_confirmed_added": 10,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "oJ8TYhIXj7E",
+      "title": "US Seeks Answers on Nvidia’s Sale of Chips to China, Bessent Says",
+      "published": "2026-11-24T11:19:41Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -168,14 +176,6 @@
       "video_id": "a9ZJZotQhZg",
       "title": "Anthropic Raises $81.3Bn in Biggest IPO of All-Time",
       "published": "2026-11-19T13:06:30Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "rW6f-AhwPPs",
-      "title": "Papal Politics and Peru - What We Know",
-      "published": "2026-11-18T19:10:18Z",
       "source": "owner_confirmed_public"
     },
     {
