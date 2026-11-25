@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:41:18Z",
+  "updated_at": "2026-11-25T21:15:03Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-25T15:41:18Z"
+      "last_success_at": "2026-11-25T21:15:03Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-25T15:41:18Z"
+      "last_success_at": "2026-11-25T21:15:03Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "erpCuyQ7vi8",
+      "title": "Why Is the US Army Detonating Lead-Rich Explosives in Iowa?",
+      "published": "2026-11-25T21:14:44Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "zsU-68_CYeo",
       "title": "Hegseth Wraps Central, South American Trip",
-      "published": "2026-11-21T11:01:04Z"
+      "published": "2026-11-21T11:00:29Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "DhdHoe5Xn-4",
       "title": "Elon Musk Says Record Spending on US Midterms Was 'Pretty Foolish'",
       "published": "2026-11-19T22:27:36Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "1Zb_6q1Yl5Q",
-      "title": "Musk, Nvidia Workers Call for Huang Return at Nvidia in Petition",
-      "published": "2026-11-19T19:25:05Z",
       "source": "owner_confirmed_public"
     },
     {

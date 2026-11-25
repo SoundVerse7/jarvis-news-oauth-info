@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:41:17Z",
+  "updated_at": "2026-11-25T21:15:03Z",
   "sources": [
     {
       "source": "UN News",
@@ -9,7 +9,7 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 11
     },
     {
       "source": "Bank of Canada",
@@ -24,12 +24,76 @@
   ],
   "items": [
     {
+      "id": "ebcc18ee02d95aa3",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "657383e9620afc1b",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+      "source": "Federal Reserve",
+      "category": "Economy",
+      "published": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "05c8c141b2194881",
+      "title": "Three New Asset Classes Added as General Collateral Baskets Further Developing Canada’s Repo Market",
+      "url": "https://www.bankofcanada.ca/2026/11/three-new-asset-classes-added-as-general-collateral-baskets-further-developing-canadas-repo-market/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-25T14:00:26Z"
+    },
+    {
+      "id": "486a7ed5da8d213e",
+      "title": "CIMPA publishes two best practices documents to promote the well-functioning of the Canadian securities and financing markets",
+      "url": "https://www.bankofcanada.ca/2026/11/cimpa-publishes-two-best-practices-documents-to-promote-the-well-functioning-of-the-canadian-securities-and-financing-markets/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-25T14:00:06Z"
+    },
+    {
       "id": "41ee440d15205b02",
       "title": "Almost 60% of primary energy used for electricity is lost to conversion and transmission",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-25T14:00:00Z"
+    },
+    {
+      "id": "c964e4b3db3ecb1a",
+      "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168873",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-25T12:00:00Z"
+    },
+    {
+      "id": "1082f43610c695b8",
+      "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-25T12:00:00Z"
+    },
+    {
+      "id": "8e3c2ec7f7ddac1a",
+      "title": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168876",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-25T12:00:00Z"
+    },
+    {
+      "id": "f0e5e9ff176e0945",
+      "title": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168874",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-25T12:00:00Z"
     },
     {
       "id": "c47d594f2fe1e10e",
@@ -184,38 +248,6 @@
       "published": "2026-11-23T12:00:00Z"
     },
     {
-      "id": "307e98b05da69a02",
-      "title": "Libya: UN mission urges probe into Benghazi port attacks",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168857",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-23T12:00:00Z"
-    },
-    {
-      "id": "180a5dc2f3a58b22",
-      "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168856",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-22T12:00:00Z"
-    },
-    {
-      "id": "2f16e29e794aeda1",
-      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-22T12:00:00Z"
-    },
-    {
-      "id": "d8cb37b6ee449ecf",
-      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-22T12:00:00Z"
-    },
-    {
       "id": "6ffb3b6c56d4e0fb",
       "title": "Federal Reserve announces College Fed Challenge winners",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
@@ -272,44 +304,12 @@
       "published": "2026-11-18T14:00:00Z"
     },
     {
-      "id": "44de81e9935ce0df",
-      "title": "Speech: Edmonton Chamber of Commerce",
-      "url": "https://www.bankofcanada.ca/multimedia/speech-edmonton-chamber-of-commerce-2026-11-18/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-18T12:45:14Z"
-    },
-    {
-      "id": "cb89b041fcb66f6c",
-      "title": "Setting the scenario: Monetary policy communications in uncertain times",
-      "url": "https://www.bankofcanada.ca/2026/11/setting-the-scenario-monetary-policy-communications-in-uncertain-times/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-18T12:30:41Z"
-    },
-    {
-      "id": "deac24a67efa25e3",
-      "title": "Talking about an uncertain future",
-      "url": "https://www.bankofcanada.ca/2026/11/talking-about-an-uncertain-future/",
-      "source": "Bank of Canada",
-      "category": "Economy",
-      "published": "2026-11-18T12:30:24Z"
-    },
-    {
       "id": "b9b1dbb35bdc6562",
       "title": "How does EIA account for small differences between energy supply and demand data?",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68464",
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-17T14:00:00Z"
-    },
-    {
-      "id": "537d1229e28dcb29",
-      "title": "Agencies extend comment period for proposed third-party risk management guidance",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-13T21:15:00Z"
     },
     {
       "id": "2474a6edd8a20e4b",
