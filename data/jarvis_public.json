@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-24T23:21:36Z",
+  "updated_at": "2026-11-25T12:14:35Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "dP4WHBODMis",
+      "title": "Kilmar Abrego Garcia Leaving U.S. for Europe, Sources Say",
+      "published": "2026-11-25T12:13:36Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "3cVk2M9ePDI",
       "title": "Carney Says Canada Will Only Sign a U.S. Trade Deal That Includes Viable Auto Sector",
       "published": "2026-11-17T00:58:35Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "g1Q2I3VmadY",
-      "title": "Trump Presses for $50Bn to Fix Air Traffic Control",
-      "published": "2026-11-16T23:43:23Z",
       "source": "owner_confirmed_public"
     }
   ]

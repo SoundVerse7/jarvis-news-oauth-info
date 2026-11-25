@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:21:10Z",
+  "updated_at": "2026-11-25T12:14:36Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,31 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-25T04:21:10Z"
+      "last_success_at": "2026-11-25T12:14:36Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-25T04:21:10Z"
+      "last_success_at": "2026-11-25T12:14:36Z"
     }
   ],
-  "owner_confirmed_added": 10,
+  "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "dP4WHBODMis",
+      "title": "Kilmar Abrego Garcia Leaving U.S. for Europe, Sources Say",
+      "published": "2026-11-25T11:47:13Z"
+    },
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "1TvNX2IoFPw",
+      "title": "Concern for Trapped Ebola Workers",
+      "published": "2026-11-25T09:55:35Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -105,14 +119,16 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "qeymbjd3v78",
       "title": "Naval Logistics Command Delivers Critical Care Worldwide",
-      "published": "2026-11-21T00:13:11Z"
+      "published": "2026-11-21T00:12:39Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "GCR7bS3Z81E",
       "title": "Anthropic Stock Soars Over 20% in Nasdaq Debut",
-      "published": "2026-11-20T19:46:55Z"
+      "published": "2026-11-20T19:46:26Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -160,22 +176,6 @@
       "video_id": "1Zb_6q1Yl5Q",
       "title": "Musk, Nvidia Workers Call for Huang Return at Nvidia in Petition",
       "published": "2026-11-19T19:25:05Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "J_vbMoaca4U",
-      "title": "Grand Theft Auto 6 Is a Masterpiece, Say Critics",
-      "published": "2026-11-19T18:25:28Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "RWzw64vXxG8",
-      "title": "Trump Makes Third Supreme Court Bid to End Venezuelan Migrant Protections",
-      "published": "2026-11-19T17:21:16Z",
       "source": "owner_confirmed_public"
     },
     {

@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-11-25T04:21:10Z",
+  "updated_at": "2026-11-25T12:14:35Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "unavailable"
+      "status": "ok",
+      "recent_headlines": 18
     },
     {
       "source": "Federal Reserve",
@@ -85,6 +86,14 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-24T12:25:17Z"
+    },
+    {
+      "id": "3db522a7a8e93809",
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-24T12:00:00Z"
     },
     {
       "id": "58b673023dcf1630",
@@ -202,14 +211,6 @@
       "id": "1651c68df9d73951",
       "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-21T12:00:00Z"
-    },
-    {
-      "id": "0dccb4dc48ad0533",
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
       "source": "UN News",
       "category": "World",
       "published": "2026-11-21T12:00:00Z"
