@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T12:14:35Z",
+  "updated_at": "2026-11-25T15:41:17Z",
   "sources": [
     {
       "source": "UN News",
@@ -19,10 +19,26 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 6
+      "recent_headlines": 7
     }
   ],
   "items": [
+    {
+      "id": "41ee440d15205b02",
+      "title": "Almost 60% of primary energy used for electricity is lost to conversion and transmission",
+      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
+      "source": "U.S. EIA",
+      "category": "Energy",
+      "published": "2026-11-25T14:00:00Z"
+    },
+    {
+      "id": "c47d594f2fe1e10e",
+      "title": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168872",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-25T12:00:00Z"
+    },
     {
       "id": "ee53adbaa022cb62",
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -46,14 +62,6 @@
       "source": "Bank of Canada",
       "category": "Economy",
       "published": "2026-11-24T14:00:14Z"
-    },
-    {
-      "id": "41ee440d15205b02",
-      "title": "How does EIA compare different types of energy?",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-11-24T14:00:00Z"
     },
     {
       "id": "04c4c16afb684d20",
@@ -206,14 +214,6 @@
       "source": "UN News",
       "category": "World",
       "published": "2026-11-22T12:00:00Z"
-    },
-    {
-      "id": "1651c68df9d73951",
-      "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168851",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-21T12:00:00Z"
     },
     {
       "id": "6ffb3b6c56d4e0fb",
