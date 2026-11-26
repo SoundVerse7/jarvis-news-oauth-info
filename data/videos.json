@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T09:36:21Z",
+  "updated_at": "2026-11-26T18:03:21Z",
   "channels": [
     {
       "key": "original",
@@ -19,23 +19,30 @@
       "channel": "original",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-26T09:36:21Z"
+      "last_success_at": "2026-11-26T18:03:21Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-26T09:36:21Z"
+      "last_success_at": "2026-11-26T18:03:21Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
     {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "ShWpge5pX8E",
+      "title": "Duran Duran Guitarist Andy Taylor Dies at 65",
+      "published": "2026-11-26T18:00:07Z"
+    },
+    {
       "channel": "original",
       "channel_name": "PUBLIC MIND REPORT",
-      "video_id": "xzGCrRwE7eg",
-      "title": "Have We Completely Lost Our Minds?",
-      "published": "2026-11-26T06:46:43Z"
+      "video_id": "gJphO2vqPU8",
+      "title": "We're Watching the World Burn… and Nobody Seems to Care",
+      "published": "2026-11-26T12:28:35Z"
     },
     {
       "channel": "news",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "2gaFjI9-qeU",
       "title": "Poland Condemns Russian ‘Provocation’ After Airspace Violations",
-      "published": "2026-11-22T11:07:11Z"
+      "published": "2026-11-22T11:06:49Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "liWm8QXnXbs",
       "title": "Middle East Crisis Poses 'Largest Threat' to Energy Security in History, Warns IEA",
       "published": "2026-11-20T11:07:23Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "XpjHDFjmt5I",
-      "title": "DOJ Moves to Dismiss Lawsuit Over Alaska Senate Race",
-      "published": "2026-11-20T04:16:47Z",
       "source": "owner_confirmed_public"
     },
     {

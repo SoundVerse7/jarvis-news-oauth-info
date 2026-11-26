@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T09:36:21Z",
+  "updated_at": "2026-11-26T18:03:21Z",
   "sources": [
     {
       "source": "UN News",
@@ -9,7 +9,7 @@
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 11
+      "recent_headlines": 9
     },
     {
       "source": "Bank of Canada",
@@ -19,10 +19,42 @@
     {
       "source": "U.S. EIA",
       "status": "ok",
-      "recent_headlines": 7
+      "recent_headlines": 6
     }
   ],
   "items": [
+    {
+      "id": "1e316631af887d97",
+      "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168878",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-26T12:00:00Z"
+    },
+    {
+      "id": "2662f04af74a1ed5",
+      "title": "Maritime trade stagnates amid geopolitical uncertainty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-26T12:00:00Z"
+    },
+    {
+      "id": "5ae09920b1227639",
+      "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168883",
+      "source": "UN News",
+      "category": "World",
+      "published": "2026-11-26T12:00:00Z"
+    },
+    {
+      "id": "4b2131687b589576",
+      "title": "Bank of Canada announces 2026-27 scholarship recipients",
+      "url": "https://www.bankofcanada.ca/2026/11/bank-of-canada-announces-2026-27-scholarship-recipients/",
+      "source": "Bank of Canada",
+      "category": "Economy",
+      "published": "2026-11-26T10:00:15Z"
+    },
     {
       "id": "ebcc18ee02d95aa3",
       "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
@@ -224,30 +256,6 @@
       "published": "2026-11-24T12:00:00Z"
     },
     {
-      "id": "23ce2785727fbeec",
-      "title": "Gaza war has undone 77 years of human development, UN warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-23T12:00:00Z"
-    },
-    {
-      "id": "16ee36335eaaf1cb",
-      "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168861",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-23T12:00:00Z"
-    },
-    {
-      "id": "095442ef4a2257f8",
-      "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168859",
-      "source": "UN News",
-      "category": "World",
-      "published": "2026-11-23T12:00:00Z"
-    },
-    {
       "id": "6ffb3b6c56d4e0fb",
       "title": "Federal Reserve announces College Fed Challenge winners",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
@@ -288,14 +296,6 @@
       "published": "2026-11-19T14:00:00Z"
     },
     {
-      "id": "c0c4ef66e0d9307c",
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "source": "Federal Reserve",
-      "category": "Economy",
-      "published": "2026-11-18T19:00:00Z"
-    },
-    {
       "id": "a4c390e9c48b4825",
       "title": "U.S. natural gas inventories end injection season above normal levels",
       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68484",
@@ -318,14 +318,6 @@
       "source": "U.S. EIA",
       "category": "Energy",
       "published": "2026-11-13T14:00:00Z"
-    },
-    {
-      "id": "e3f23c3f0faa7979",
-      "title": "EIA forecasts Alaskan crude oil production to grow 13% in 2027",
-      "url": "https://www.eia.gov/todayinenergy/detail.php?id=68444",
-      "source": "U.S. EIA",
-      "category": "Energy",
-      "published": "2026-11-12T14:00:00Z"
     }
   ]
 }
