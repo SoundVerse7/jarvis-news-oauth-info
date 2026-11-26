@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-26T18:03:21Z",
+  "updated_at": "2026-11-26T21:05:51Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "EaPqXBlUnMs",
+      "title": "Explosion Rocks Bangkok Oil Depot",
+      "published": "2026-11-26T20:57:26Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "mtv9P7bxad4",
       "title": "Haitians Protest in Support of El Salvador’s Anti-Gang Troop Deployment",
       "published": "2026-11-18T02:03:48Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "k4eKdOZWPUE",
-      "title": "How Nvidia Scandal, Anthropic IPO May Impact Your 401(K)",
-      "published": "2026-11-17T23:37:01Z",
       "source": "owner_confirmed_public"
     }
   ]

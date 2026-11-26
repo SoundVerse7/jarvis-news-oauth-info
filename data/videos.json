@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:40:17Z",
+  "updated_at": "2026-11-26T21:05:53Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-26T19:40:17Z"
+      "last_success_at": "2026-11-26T21:05:53Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-26T19:40:17Z"
+      "last_success_at": "2026-11-26T21:05:53Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "EaPqXBlUnMs",
+      "title": "Explosion Rocks Bangkok Oil Depot",
+      "published": "2026-11-26T20:57:24Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -119,7 +126,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "N791xJk5Y_M",
       "title": "US Intelligence Chief Says Trump’s ‘Friend’ Label for Putin Is ‘Entirely Appropriate’",
-      "published": "2026-11-22T23:07:09Z"
+      "published": "2026-11-22T23:06:45Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -175,14 +183,6 @@
       "video_id": "8oY2z1c8UVA",
       "title": "Giant Christmas Tree Lifted Into Place Beside St Peter's Basilica",
       "published": "2026-11-20T12:15:02Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "liWm8QXnXbs",
-      "title": "Middle East Crisis Poses 'Largest Threat' to Energy Security in History, Warns IEA",
-      "published": "2026-11-20T11:07:23Z",
       "source": "owner_confirmed_public"
     },
     {
