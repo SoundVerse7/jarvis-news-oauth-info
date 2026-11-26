@@ -1,15 +1,14 @@
 {
-  "updated_at": "2026-11-26T18:03:21Z",
+  "updated_at": "2026-11-26T19:40:16Z",
   "sources": [
     {
       "source": "UN News",
-      "status": "ok",
-      "recent_headlines": 18
+      "status": "unavailable"
     },
     {
       "source": "Federal Reserve",
       "status": "ok",
-      "recent_headlines": 9
+      "recent_headlines": 8
     },
     {
       "source": "Bank of Canada",
