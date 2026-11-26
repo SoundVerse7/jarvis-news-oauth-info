@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:37:36Z",
+  "updated_at": "2026-11-26T09:36:21Z",
   "channels": [
     {
       "key": "original",
@@ -18,18 +18,25 @@
     {
       "channel": "original",
       "status": "ok",
-      "videos": 11,
-      "last_success_at": "2026-11-26T01:37:36Z"
+      "videos": 12,
+      "last_success_at": "2026-11-26T09:36:21Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-26T01:37:36Z"
+      "last_success_at": "2026-11-26T09:36:21Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "original",
+      "channel_name": "PUBLIC MIND REPORT",
+      "video_id": "xzGCrRwE7eg",
+      "title": "Have We Completely Lost Our Minds?",
+      "published": "2026-11-26T06:46:43Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
