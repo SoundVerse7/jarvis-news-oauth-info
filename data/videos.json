@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T00:27:10Z",
+  "updated_at": "2026-11-26T01:37:36Z",
   "channels": [
     {
       "key": "original",
@@ -19,17 +19,24 @@
       "channel": "original",
       "status": "ok",
       "videos": 11,
-      "last_success_at": "2026-11-26T00:27:10Z"
+      "last_success_at": "2026-11-26T01:37:36Z"
     },
     {
       "channel": "news",
       "status": "ok",
       "videos": 12,
-      "last_success_at": "2026-11-26T00:27:10Z"
+      "last_success_at": "2026-11-26T01:37:36Z"
     }
   ],
   "owner_confirmed_added": 11,
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "-d8xMyWxxKw",
+      "title": "Trump Administration Deported US Citizen to Mexico, DOJ Admits in Court",
+      "published": "2026-11-26T01:37:15Z"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -112,7 +119,8 @@
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
       "video_id": "tpXF33d8AVo",
       "title": "4.4-Magnitude Earthquake Rattles Los Angeles Area",
-      "published": "2026-11-21T11:59:25Z"
+      "published": "2026-11-21T11:59:01Z",
+      "source": "owner_confirmed_public"
     },
     {
       "channel": "news",
@@ -168,14 +176,6 @@
       "video_id": "XpjHDFjmt5I",
       "title": "DOJ Moves to Dismiss Lawsuit Over Alaska Senate Race",
       "published": "2026-11-20T04:16:47Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "DhdHoe5Xn-4",
-      "title": "Elon Musk Says Record Spending on US Midterms Was 'Pretty Foolish'",
-      "published": "2026-11-19T22:27:36Z",
       "source": "owner_confirmed_public"
     },
     {

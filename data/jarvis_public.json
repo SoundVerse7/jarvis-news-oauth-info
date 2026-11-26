@@ -1,7 +1,15 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-25T21:15:03Z",
+  "updated_at": "2026-11-26T01:37:36Z",
   "items": [
+    {
+      "channel": "news",
+      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
+      "video_id": "-d8xMyWxxKw",
+      "title": "Trump Administration Deported US Citizen to Mexico, DOJ Admits in Court",
+      "published": "2026-11-26T01:37:18Z",
+      "source": "owner_confirmed_public"
+    },
     {
       "channel": "news",
       "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
@@ -232,14 +240,6 @@
       "video_id": "hmVB8SIgHC0",
       "title": "United Airlines Says New Outage Resolved",
       "published": "2026-11-17T18:18:22Z",
-      "source": "owner_confirmed_public"
-    },
-    {
-      "channel": "news",
-      "channel_name": "PUBLIC MIND REPORT - WORLD NEWS",
-      "video_id": "_CP3YRSxT14",
-      "title": "NEW: Trump to Meet with Putin and Xi During Asia Trip",
-      "published": "2026-11-17T11:10:00Z",
       "source": "owner_confirmed_public"
     }
   ]
